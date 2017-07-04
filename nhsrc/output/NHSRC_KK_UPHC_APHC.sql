@@ -1,0 +1,2 @@
+insert into department (name) select 'Kayakalp' where not exists (select name from department where name = 'Kayakalp');
+insert into checklist (name, assessment_tool_id, department_id) select 'Kayakalp', (select id from assessment_tool where name = 'UPHC and APHC'), (select id from department where name = 'Kayakalp') where not exists (select checklist.id from checklist, assessment_tool where checklist.assessment_tool_id = assessment_tool.id and checklist.name = 'Kayakalp' and assessment_tool.name = 'UPHC and APHC');
