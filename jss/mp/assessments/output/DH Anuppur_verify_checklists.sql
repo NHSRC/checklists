@@ -1,1 +1,17 @@
-select verify_checklist('DH', 'Labour Room')select verify_checklist('DH', 'Maternity Ward')select verify_checklist('DH', 'Ped Ward')select verify_checklist('DH', 'SNCU')select verify_checklist('DH', 'NRC')select verify_checklist('DH', 'OT')select verify_checklist('DH', 'Emergency')select verify_checklist('DH', 'PP Unit')select verify_checklist('DH', 'ICU')select verify_checklist('DH', 'IPD')select verify_checklist('DH', 'Blood Bank')select verify_checklist('DH', 'Lab')select verify_checklist('DH', 'Radiology')select verify_checklist('DH', 'Pharmacy')select verify_checklist('DH', 'Auxillary services')select verify_checklist('DH', 'Mortuary')select verify_checklist('DH', 'Admin')
+select verify_checklist('District Hospital (DH)', 'Labour Room');
+select verify_checklist('District Hospital (DH)', 'Maternity Ward');
+select verify_checklist('District Hospital (DH)', 'Ped Ward');
+select verify_checklist('District Hospital (DH)', 'SNCU');
+select verify_checklist('District Hospital (DH)', 'NRC');
+select verify_checklist('District Hospital (DH)', 'OT');
+select verify_checklist('District Hospital (DH)', 'Emergency');
+select verify_checklist('District Hospital (DH)', 'PP Unit');
+select verify_checklist('District Hospital (DH)', 'ICU');
+select verify_checklist('District Hospital (DH)', 'IPD');
+select verify_checklist('District Hospital (DH)', 'Blood Bank');
+select verify_checklist('District Hospital (DH)', 'Lab');
+select verify_checklist('District Hospital (DH)', 'Radiology');
+select verify_checklist('District Hospital (DH)', 'Pharmacy');
+select verify_checklist('District Hospital (DH)', 'Auxillary services');
+select verify_checklist('District Hospital (DH)', 'Mortuary');
+select verify_checklist('District Hospital (DH)', 'Admin');

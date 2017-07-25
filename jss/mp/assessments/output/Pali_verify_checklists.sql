@@ -1,1 +1,11 @@
-select verify_checklist('CHC', 'Out Patient Department')select verify_checklist('CHC', 'Labour room')select verify_checklist('CHC', 'In Patient Department')select verify_checklist('CHC', 'New Born Stabilization Unit')select verify_checklist('CHC', 'Operation Theatre')select verify_checklist('CHC', 'Laboratory')select verify_checklist('CHC', 'Radiology')select verify_checklist('CHC', 'Pharmacy and Stores')select verify_checklist('CHC', 'Blood storage unit')select verify_checklist('CHC', 'Auxillary Services')select verify_checklist('CHC', 'General Administration')
+select verify_checklist('Community Health Center (CHC)', 'OPD');
+select verify_checklist('Community Health Center (CHC)', 'Labour room');
+select verify_checklist('Community Health Center (CHC)', 'In Patient Department');
+select verify_checklist('Community Health Center (CHC)', 'New Born Stabilization Unit');
+select verify_checklist('Community Health Center (CHC)', 'Operation Theatre');
+select verify_checklist('Community Health Center (CHC)', 'Laboratory');
+select verify_checklist('Community Health Center (CHC)', 'Radiology');
+select verify_checklist('Community Health Center (CHC)', 'Pharmacy and Stores');
+select verify_checklist('Community Health Center (CHC)', 'Blood storage unit');
+select verify_checklist('Community Health Center (CHC)', 'Auxillary Services');
+select verify_checklist('Community Health Center (CHC)', 'General Administration');
