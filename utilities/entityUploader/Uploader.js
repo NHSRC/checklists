@@ -44,14 +44,13 @@ function postPage(pageNumber) {
         });
         request.end(entityJSON);
         request.on('response', function (response) {
-            console.log(response);
             if (response.statusCode >= 500) {
                 console.log("Post failed for " + entityType + "; STATUS_CODE: " + response.statusCode);
                 return;
             }
             if (entities.length > entityNumber + 1)
                 postEntity(entityType, entities, entityNumber + 1);
-            else if (pageNumber <= maxPageNumber) {
+            else if (pageNumber < maxPageNumber) {
                 console.log('Processed ' + entityNumber + " entities, of type " + entityType + ", and reached end of page");
                 postPage(pageNumber + 1);
             } else {
@@ -71,8 +70,10 @@ function postPage(pageNumber) {
             var entities = embeddedEntities[entityType];
             if (entities.length > 0)
                 postEntity(entityType, entities, 0);
+            else if (pageNumber < maxPageNumber)
+                postPage(pageNumber + 1);
         }
     }
 }
 
-postPage(214);
+postPage(296);
