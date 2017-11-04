@@ -1,0 +1,58 @@
+{
+  "_embedded" : {
+    "assessmentType" : [ {
+      "createdDate" : "2017-07-05T09:41:02.962+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:02.962+0000",
+      "uuid" : "de4b9cbd-3bc6-4388-9b03-7bfecf837818",
+      "inactive" : false,
+      "name" : "Internal",
+      "_links" : {
+        "self" : {
+          "href" : "/1"
+        },
+        "assessmentType" : {
+          "href" : "/1"
+        }
+      }
+    }, {
+      "createdDate" : "2017-07-05T09:41:02.962+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:02.962+0000",
+      "uuid" : "a10300bc-fd47-4fc4-93fb-dfa027d2e3d1",
+      "inactive" : false,
+      "name" : "External",
+      "_links" : {
+        "self" : {
+          "href" : "/2"
+        },
+        "assessmentType" : {
+          "href" : "/2"
+        }
+      }
+    }, {
+      "createdDate" : "2017-07-05T09:41:03.095+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:03.095+0000",
+      "uuid" : "16f42601-74c2-40d4-933e-e0ff85bb3d27",
+      "inactive" : false,
+      "name" : "Peer",
+      "_links" : {
+        "self" : {
+          "href" : "/3"
+        },
+        "assessmentType" : {
+          "href" : "/3"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "1900-01-01T05:30:00.001Z&size=200&page=0"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 3,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

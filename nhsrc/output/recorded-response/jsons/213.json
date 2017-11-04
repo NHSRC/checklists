@@ -1,0 +1,142 @@
+{
+  "_embedded" : {
+    "assessmentTool" : [ {
+      "createdDate" : "2017-07-05T09:41:02.982+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:02.982+0000",
+      "uuid" : "e06d2a4c-bbdb-4fa1-9ac4-959f7170ac73",
+      "inactive" : false,
+      "name" : "District Hospital (DH)",
+      "mode" : "nqas",
+      "_links" : {
+        "self" : {
+          "href" : "/1"
+        },
+        "assessmentTool" : {
+          "href" : "/1"
+        },
+        "checklists" : {
+          "href" : "/1/checklists"
+        }
+      }
+    }, {
+      "createdDate" : "2017-07-05T09:41:02.982+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:02.982+0000",
+      "uuid" : "f1fd2fc2-1c63-4966-a547-8ba53e202441",
+      "inactive" : false,
+      "name" : "Community Health Center (CHC)",
+      "mode" : "nqas",
+      "_links" : {
+        "self" : {
+          "href" : "/2"
+        },
+        "assessmentTool" : {
+          "href" : "/2"
+        },
+        "checklists" : {
+          "href" : "/2/checklists"
+        }
+      }
+    }, {
+      "createdDate" : "2017-07-05T09:41:02.982+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:02.982+0000",
+      "uuid" : "296a5101-8f8d-490b-8667-324df8215151",
+      "inactive" : false,
+      "name" : "Primary Health Center (PHC)",
+      "mode" : "nqas",
+      "_links" : {
+        "self" : {
+          "href" : "/3"
+        },
+        "assessmentTool" : {
+          "href" : "/3"
+        },
+        "checklists" : {
+          "href" : "/3/checklists"
+        }
+      }
+    }, {
+      "createdDate" : "2017-07-05T09:41:02.982+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:02.982+0000",
+      "uuid" : "c472e4e0-ecc8-4be6-99e2-9fbc6ccde8fd",
+      "inactive" : false,
+      "name" : "Urban Primary Health Center (UPHC)",
+      "mode" : "nqas",
+      "_links" : {
+        "self" : {
+          "href" : "/4"
+        },
+        "assessmentTool" : {
+          "href" : "/4"
+        },
+        "checklists" : {
+          "href" : "/4/checklists"
+        }
+      }
+    }, {
+      "createdDate" : "2017-07-05T09:41:03.278+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:03.278+0000",
+      "uuid" : "4ccad794-b011-4dda-8157-0083d23a7b89",
+      "inactive" : false,
+      "name" : "DH, SDH and CHC",
+      "mode" : "Kayakalp",
+      "_links" : {
+        "self" : {
+          "href" : "/6"
+        },
+        "assessmentTool" : {
+          "href" : "/6"
+        },
+        "checklists" : {
+          "href" : "/6/checklists"
+        }
+      }
+    }, {
+      "createdDate" : "2017-07-05T09:41:03.280+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:03.280+0000",
+      "uuid" : "206c2dd6-266d-4c9d-96f0-ba289266ea4c",
+      "inactive" : false,
+      "name" : "PHC",
+      "mode" : "Kayakalp",
+      "_links" : {
+        "self" : {
+          "href" : "/7"
+        },
+        "assessmentTool" : {
+          "href" : "/7"
+        },
+        "checklists" : {
+          "href" : "/7/checklists"
+        }
+      }
+    }, {
+      "createdDate" : "2017-07-05T09:41:03.280+0000",
+      "lastModifiedDate" : "2017-07-05T09:41:03.280+0000",
+      "uuid" : "31cf691b-66b4-4de1-8181-a9a02d0c0e27",
+      "inactive" : false,
+      "name" : "UPHC and APHC",
+      "mode" : "Kayakalp",
+      "_links" : {
+        "self" : {
+          "href" : "/8"
+        },
+        "assessmentTool" : {
+          "href" : "/8"
+        },
+        "checklists" : {
+          "href" : "/8/checklists"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "1900-01-01T05:30:00.001Z&size=200&page=0"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 7,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}
