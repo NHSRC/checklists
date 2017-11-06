@@ -1,7 +1,7 @@
 var fs = require('fs');
 var http = require('http');
 
-var maxPageNumber = 297;
+var maxPageNumber = 298;
 var entityPostResources = {
     "district": "districts",
     "checkpoint": "checkpoints",
@@ -33,7 +33,7 @@ function postPage(pageNumber) {
         var entityJSON = JSON.stringify(entity);
         var resource = (entityPostResources[entityType] === null || entityPostResources[entityType] === undefined) ? entityType : entityPostResources[entityType];
         var request = new http.ClientRequest({
-            hostname: "localhost",
+            hostname: process.argv[2],
             port: 6001,
             path: "/api/" + resource,
             method: "POST",
@@ -76,4 +76,8 @@ function postPage(pageNumber) {
     }
 }
 
-postPage(296);
+if (process.argv.length < 3) {
+    console.log("Server name or IP address should be passed as an argument");
+} else {
+    postPage(0);
+}
