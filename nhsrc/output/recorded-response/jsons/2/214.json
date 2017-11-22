@@ -1,0 +1,604 @@
+{
+  "_embedded" : {
+    "department" : [ {
+      "createdDate" : "2017-11-06T11:57:27.825+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:27.825+0000",
+      "uuid" : "d802d604-76bc-48ed-afc1-a0c8e2108b36",
+      "inactive" : false,
+      "name" : "Emergency",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/1"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/1"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:27.925+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:27.925+0000",
+      "uuid" : "ec95565c-b628-4c45-8451-81cc5b22ecb5",
+      "inactive" : false,
+      "name" : "OPD",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/2"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/2"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:28.031+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:28.031+0000",
+      "uuid" : "a9299ec7-8ed9-46b3-a0f8-4fbd2194430d",
+      "inactive" : false,
+      "name" : "Labour Room",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/3"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/3"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:28.124+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:28.124+0000",
+      "uuid" : "6c88598b-cea5-4165-b97c-ee29739b3ac1",
+      "inactive" : false,
+      "name" : "Maternity Ward",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/4"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/4"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:28.216+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:28.216+0000",
+      "uuid" : "21d28695-7ab0-489d-9a3b-c92e0fb1da98",
+      "inactive" : false,
+      "name" : "Ped Ward",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/5"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/5"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:28.313+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:28.313+0000",
+      "uuid" : "b7702796-79a7-4fab-a185-a420dea8d996",
+      "inactive" : false,
+      "name" : "SNCU",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/6"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/6"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:28.405+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:28.405+0000",
+      "uuid" : "34d19b5a-75f6-4332-a189-93031d5c0707",
+      "inactive" : false,
+      "name" : "NRC",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/7"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/7"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:28.500+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:28.500+0000",
+      "uuid" : "c38ae8b5-10f6-48cf-bbaf-14fe4a999920",
+      "inactive" : false,
+      "name" : "OT",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/8"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/8"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:28.820+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:28.820+0000",
+      "uuid" : "725a0ff7-98a7-491e-bfb5-8ec73ca121a3",
+      "inactive" : false,
+      "name" : "PP Unit",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/9"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/9"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:28.914+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:28.914+0000",
+      "uuid" : "3ab65ae1-1d72-441d-9c92-04c2de17816b",
+      "inactive" : false,
+      "name" : "ICU",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/10"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/10"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.014+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.014+0000",
+      "uuid" : "43407597-13e2-4654-a37f-83bfa276b108",
+      "inactive" : false,
+      "name" : "IPD",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/11"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/11"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.207+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.207+0000",
+      "uuid" : "0fda4fdb-9283-41c5-ae0e-62ea2138af3c",
+      "inactive" : false,
+      "name" : "Blood Bank",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/12"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/12"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.311+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.311+0000",
+      "uuid" : "d020f483-1a36-4a55-bbbb-6d91ab1e9e44",
+      "inactive" : false,
+      "name" : "Lab",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/13"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/13"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.409+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.409+0000",
+      "uuid" : "d89b9090-54e5-4e9d-b35a-5c1f942105df",
+      "inactive" : false,
+      "name" : "Radiology",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/14"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/14"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.512+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.512+0000",
+      "uuid" : "43b61a14-2e04-4f36-9896-eb347b66dcf5",
+      "inactive" : false,
+      "name" : "Pharmacy",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/15"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/15"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.608+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.608+0000",
+      "uuid" : "a7fa385a-321a-4bee-b6e1-07f08b895080",
+      "inactive" : false,
+      "name" : "Auxillary services",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/16"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/16"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.705+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.705+0000",
+      "uuid" : "213814e4-f650-4f96-be6f-f30672cf2f88",
+      "inactive" : false,
+      "name" : "Mortuary",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/17"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/17"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.864+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.864+0000",
+      "uuid" : "7c72a750-4a09-4966-9784-8a664a0d8f64",
+      "inactive" : false,
+      "name" : "Admin",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/18"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/18"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:29.965+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:29.965+0000",
+      "uuid" : "7a72b1f8-28c8-4372-a703-c17c8e66e4ff",
+      "inactive" : false,
+      "name" : "Accident & Emergency",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/19"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/19"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.058+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.058+0000",
+      "uuid" : "e6735eda-62fd-4333-999e-e497af7848e0",
+      "inactive" : false,
+      "name" : "Out- Patient Department",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/20"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/20"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.174+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.174+0000",
+      "uuid" : "412feb08-3f34-48cd-8db4-eed52809ac98",
+      "inactive" : false,
+      "name" : "Labour room",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/21"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/21"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.266+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.266+0000",
+      "uuid" : "20848d00-969d-44e5-8163-251467a003f6",
+      "inactive" : false,
+      "name" : "In Patient Department",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/22"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/22"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.360+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.360+0000",
+      "uuid" : "a7d48c4d-816b-4038-ac9a-d637b4c94c93",
+      "inactive" : false,
+      "name" : "New Born Stabilization Unit",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/23"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/23"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.455+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.455+0000",
+      "uuid" : "d676ffc0-5caa-4271-8664-07e412a0db12",
+      "inactive" : false,
+      "name" : "Operation Theatre",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/24"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/24"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.544+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.544+0000",
+      "uuid" : "f90efead-092e-4b54-a328-1d9d03e52a6a",
+      "inactive" : false,
+      "name" : "Laboratory",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/25"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/25"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.643+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.643+0000",
+      "uuid" : "fc3fa763-b326-4094-bd29-02d7ba105a2d",
+      "inactive" : false,
+      "name" : "Pharmacy and Stores",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/26"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/26"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.734+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.734+0000",
+      "uuid" : "d1336e8d-4713-4ba4-8a7a-61426deb42e1",
+      "inactive" : false,
+      "name" : "Blood storage unit",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/27"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/27"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.825+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.825+0000",
+      "uuid" : "e242f721-75d1-4499-b4da-7b6e51463360",
+      "inactive" : false,
+      "name" : "General Administration",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/28"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/28"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:30.916+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:30.916+0000",
+      "uuid" : "71e8d4d6-9c0c-4567-9a94-98ee48d6c9ee",
+      "inactive" : false,
+      "name" : "Indoor",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/29"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/29"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.012+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.012+0000",
+      "uuid" : "a613c98f-4757-4641-ba22-6159e8c965f4",
+      "inactive" : false,
+      "name" : "NHP",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/30"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/30"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.164+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.164+0000",
+      "uuid" : "bf9bafee-caf9-4363-8204-179e9f7c9816",
+      "inactive" : false,
+      "name" : "General",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/31"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/31"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.259+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.259+0000",
+      "uuid" : "585e0140-d3bd-44a1-bd6b-148764631f05",
+      "inactive" : false,
+      "name" : "General Clinic",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/32"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/32"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.350+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.350+0000",
+      "uuid" : "5c6a89d5-0f43-4c7e-939e-74c1affc51bb",
+      "inactive" : false,
+      "name" : "Maternity Health",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/33"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/33"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.448+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.448+0000",
+      "uuid" : "1c66d657-a8a9-4982-b86f-682e484d3ddd",
+      "inactive" : false,
+      "name" : "New Born & Child Health",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/34"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/34"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.545+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.545+0000",
+      "uuid" : "5e7aa437-cee2-4f01-adcf-6b70837cbace",
+      "inactive" : false,
+      "name" : "Immunization",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/35"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/35"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.635+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.635+0000",
+      "uuid" : "970146bf-b311-4d00-b395-b1b3cec4200c",
+      "inactive" : false,
+      "name" : "Family Planning",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/36"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/36"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.726+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.726+0000",
+      "uuid" : "7da67848-89f1-4002-af57-8ade7c7b3b27",
+      "inactive" : false,
+      "name" : "Communicable Disease",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/37"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/37"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:31.815+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:31.815+0000",
+      "uuid" : "2c5216f9-70f0-4deb-9958-e5312b45683a",
+      "inactive" : false,
+      "name" : "NCD",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/38"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/38"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:32.180+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:32.180+0000",
+      "uuid" : "c98a2763-e8c1-4011-a49e-f6b60f99d30c",
+      "inactive" : false,
+      "name" : "Dressing Room & Emergency",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/39"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/39"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:32.439+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:32.439+0000",
+      "uuid" : "12f83b50-3a6d-475d-8d37-748c26df0c73",
+      "inactive" : false,
+      "name" : "Outreach",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/40"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/40"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:32.757+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:32.757+0000",
+      "uuid" : "c0c86dcc-29e4-45d0-96f2-dc4c292902f0",
+      "inactive" : false,
+      "name" : "General Admin",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/41"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/41"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:57:32.970+0000",
+      "lastModifiedDate" : "2017-11-06T11:57:32.970+0000",
+      "uuid" : "76f629fa-470f-44ec-b8aa-353c37e0349f",
+      "inactive" : false,
+      "name" : "Kayakalp",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/department/42"
+        },
+        "department" : {
+          "href" : "http://192.168.73.1:6001/api/department/42"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://192.168.73.1:6001/api/department/search/lastModified?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 42,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}
