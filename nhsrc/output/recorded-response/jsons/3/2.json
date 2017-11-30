@@ -1,0 +1,628 @@
+{
+  "_embedded" : {
+    "state" : [ {
+      "createdDate" : "2017-11-06T10:10:17.035+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:17.035+0000",
+      "uuid" : "faa9ed82-69ea-43c9-9b02-fbd67a7dcbd8",
+      "inactive" : false,
+      "name" : "Bihar",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/1"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/1"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/1/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:17.386+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:17.386+0000",
+      "uuid" : "ba36f4c8-4e88-440c-8c56-0ff698c5daab",
+      "inactive" : false,
+      "name" : "Delhi",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/2"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/2"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/2/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:17.501+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:17.501+0000",
+      "uuid" : "09fa3b45-dc80-472f-9cd4-639625063b11",
+      "inactive" : false,
+      "name" : "Dadra & Nagar Haveli",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/3"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/3"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/3/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:17.608+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:17.608+0000",
+      "uuid" : "d59893ef-f817-42d0-90e2-52c34d41245d",
+      "inactive" : false,
+      "name" : "Assam",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/4"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/4"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/4/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:17.711+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:17.711+0000",
+      "uuid" : "fddbb950-8491-4af2-8a70-ba745ec64021",
+      "inactive" : false,
+      "name" : "Gujarat",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/5"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/5"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/5/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:17.829+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:17.829+0000",
+      "uuid" : "e784a302-b489-4576-8502-1915bcb511d4",
+      "inactive" : false,
+      "name" : "Telangana",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/6"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/6"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/6/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:17.932+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:17.932+0000",
+      "uuid" : "6ef21f9e-bf8f-451e-8f33-21af388d9a8a",
+      "inactive" : false,
+      "name" : "Andhra Pradesh",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/7"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/7"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/7/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:18.068+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:18.068+0000",
+      "uuid" : "ac8db861-9d38-466f-80fe-684fb28e5e81",
+      "inactive" : false,
+      "name" : "Madhya Pradesh",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/8"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/8"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/8/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:18.205+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:18.205+0000",
+      "uuid" : "0ac245d2-4d7e-4c54-a326-e9f03fc6083a",
+      "inactive" : false,
+      "name" : "Tamil Nadu",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/9"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/9"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/9/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:18.310+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:18.310+0000",
+      "uuid" : "6ea0498c-e5e9-449b-b8eb-c2d7e14ab22e",
+      "inactive" : false,
+      "name" : "Daman & Diu",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/10"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/10"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/10/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:18.421+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:18.421+0000",
+      "uuid" : "3227bb9f-cbe9-42a5-ad94-eac485d4af67",
+      "inactive" : false,
+      "name" : "Jammu & Kashmir",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/11"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/11"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/11/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:18.689+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:18.689+0000",
+      "uuid" : "2f5e1892-e09d-41af-abf1-d5d56d0ab75d",
+      "inactive" : false,
+      "name" : "Puducherry",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/12"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/12"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/12/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:18.789+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:18.789+0000",
+      "uuid" : "13c9b99d-4c5f-4578-8293-83acd23b93db",
+      "inactive" : false,
+      "name" : "Chhattisgarh",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/13"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/13"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/13/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:18.895+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:18.895+0000",
+      "uuid" : "00556695-5b67-4b20-a3f8-31c039f0eab0",
+      "inactive" : false,
+      "name" : "Karnataka",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/14"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/14"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/14/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:19.014+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:19.014+0000",
+      "uuid" : "7859e706-300a-4b86-ad4a-fbe0172ff5b2",
+      "inactive" : false,
+      "name" : "Mizoram",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/15"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/15"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/15/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:19.115+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:19.115+0000",
+      "uuid" : "b0de460d-4d7f-476a-afd0-4eeb209df651",
+      "inactive" : false,
+      "name" : "Goa",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/16"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/16"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/16/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:19.221+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:19.221+0000",
+      "uuid" : "159f7d58-f013-435a-9e22-7e8f3dce0912",
+      "inactive" : false,
+      "name" : "Odisha",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/17"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/17"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/17/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:19.345+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:19.345+0000",
+      "uuid" : "dfb1a10b-07ee-4bcb-9929-12e6572be6b1",
+      "inactive" : false,
+      "name" : "West Bengal",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/18"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/18"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/18/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:19.445+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:19.445+0000",
+      "uuid" : "18289b93-ed62-420d-bdd2-56d27f5ff92c",
+      "inactive" : false,
+      "name" : "Maharashtra",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/19"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/19"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/19/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:19.548+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:19.548+0000",
+      "uuid" : "8685ad8e-d72e-499d-b97f-5e4fa805d211",
+      "inactive" : false,
+      "name" : "Kerala",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/20"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/20"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/20/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:19.860+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:19.860+0000",
+      "uuid" : "cc637b2c-f27c-4e2e-a4d2-9acd2731c1a3",
+      "inactive" : false,
+      "name" : "Chandigarh",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/21"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/21"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/21/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:19.961+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:19.961+0000",
+      "uuid" : "68388574-fcea-4b5e-85b6-88de8ce19854",
+      "inactive" : false,
+      "name" : "Lakshadweep",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/22"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/22"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/22/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.065+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.065+0000",
+      "uuid" : "d9cfe9e2-e2b0-416c-9362-c22465130adf",
+      "inactive" : false,
+      "name" : "Sikkim",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/23"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/23"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/23/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.171+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.171+0000",
+      "uuid" : "67a6652d-d537-4220-a521-740c0ea5bd90",
+      "inactive" : false,
+      "name" : "Meghalaya",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/24"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/24"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/24/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.273+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.273+0000",
+      "uuid" : "4238a68b-e322-40e4-99e0-8fa66190b90f",
+      "inactive" : false,
+      "name" : "Punjab",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/25"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/25"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/25/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.373+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.373+0000",
+      "uuid" : "cc1d4221-8856-4a90-9254-dad878363365",
+      "inactive" : false,
+      "name" : "Rajasthan",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/26"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/26"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/26/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.480+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.480+0000",
+      "uuid" : "b1c85d51-e457-4d4b-a662-615f1e552e4d",
+      "inactive" : false,
+      "name" : "Tripura",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/27"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/27"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/27/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.587+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.587+0000",
+      "uuid" : "d3b624a6-44f8-4d82-acc6-2b0ceb190ac3",
+      "inactive" : false,
+      "name" : "Uttar Pradesh",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/28"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/28"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/28/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.689+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.689+0000",
+      "uuid" : "17b36826-0ab4-4431-aeda-00d268f88081",
+      "inactive" : false,
+      "name" : "Jharkhand",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/29"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/29"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/29/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.792+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.792+0000",
+      "uuid" : "1fb0cac7-9e0e-46df-9c38-14a25b1d7997",
+      "inactive" : false,
+      "name" : "Haryana",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/30"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/30"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/30/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:20.902+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:20.902+0000",
+      "uuid" : "31efc66f-07b9-4b53-b745-4840f118c3ad",
+      "inactive" : false,
+      "name" : "Himachal Pradesh",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/31"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/31"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/31/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:21.146+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:21.146+0000",
+      "uuid" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5",
+      "inactive" : false,
+      "name" : "Uttarakhand",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/32"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/32"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/32/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:21.249+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:21.249+0000",
+      "uuid" : "5be631c6-9c62-4003-9518-d4d8fbd27477",
+      "inactive" : false,
+      "name" : "Arunachal Pradesh",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/33"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/33"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/33/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:21.360+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:21.360+0000",
+      "uuid" : "91cf8bca-64e5-4878-aaae-7e311d49a311",
+      "inactive" : false,
+      "name" : "Manipur",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/34"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/34"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/34/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:21.495+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:21.495+0000",
+      "uuid" : "241897a4-5ce0-4f05-aeb7-8127b602e48f",
+      "inactive" : false,
+      "name" : "Nagaland",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/35"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/35"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/35/districts"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-29T09:58:43.421+0000",
+      "lastModifiedDate" : "2017-11-29T09:58:43.421+0000",
+      "uuid" : "74579ea2-d9bb-427f-bfaf-b0872afbb886",
+      "inactive" : false,
+      "name" : "A & N Islands",
+      "_links" : {
+        "self" : {
+          "href" : "http://192.168.73.1:6001/api/state/36"
+        },
+        "state" : {
+          "href" : "http://192.168.73.1:6001/api/state/36"
+        },
+        "districts" : {
+          "href" : "http://192.168.73.1:6001/api/state/36/districts"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://192.168.73.1:6001/api/state/search/lastModified?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 36,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}
