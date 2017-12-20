@@ -1,0 +1,4228 @@
+{
+  "_embedded" : {
+    "measurableElement" : [ {
+      "createdDate" : "2017-11-06T12:00:16.835+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:16.835+0000",
+      "uuid" : "d0c05a81-41f1-44e8-81a1-af4c52d271a1",
+      "inactive" : false,
+      "name" : "Staff adheres to standard personal protection practices",
+      "reference" : "F2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1001"
+        },
+        "standardUUID" : {
+          "href" : "63075246-56f8-4ae8-ab54-ffc04f61f5c3"
+        },
+        "checkpoints" : {
+          "href" : "/1001/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1001/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:16.934+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:16.934+0000",
+      "uuid" : "e93bcf50-4cb4-4049-9cfd-6521683f8108",
+      "inactive" : false,
+      "name" : "Facility ensures adequate personal protection equipment as per requirements",
+      "reference" : "F2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1002"
+        },
+        "standardUUID" : {
+          "href" : "63075246-56f8-4ae8-ab54-ffc04f61f5c3"
+        },
+        "checkpoints" : {
+          "href" : "/1002/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1002/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.032+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.032+0000",
+      "uuid" : "be671e69-d391-4eca-98cc-98f7dce999d0",
+      "inactive" : false,
+      "name" : "Facility ensures standard practices for maintaining asepsis",
+      "reference" : "F1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1003"
+        },
+        "standardUUID" : {
+          "href" : "0226f481-85c7-4b43-a04a-da71f14458f6"
+        },
+        "checkpoints" : {
+          "href" : "/1003/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1003/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.124+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.124+0000",
+      "uuid" : "6b745149-5af6-4a85-8cfc-19673375e5ba",
+      "inactive" : false,
+      "name" : "Staff is trained and adhere to standard hand washing practices",
+      "reference" : "F1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1004"
+        },
+        "standardUUID" : {
+          "href" : "0226f481-85c7-4b43-a04a-da71f14458f6"
+        },
+        "checkpoints" : {
+          "href" : "/1004/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1004/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.223+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.223+0000",
+      "uuid" : "fb98a662-3dec-4d40-abc0-c2dd2e47e7f6",
+      "inactive" : false,
+      "name" : "Hand washing facilities are provided at point of use",
+      "reference" : "F1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1005"
+        },
+        "standardUUID" : {
+          "href" : "0226f481-85c7-4b43-a04a-da71f14458f6"
+        },
+        "checkpoints" : {
+          "href" : "/1005/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1005/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.315+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.315+0000",
+      "uuid" : "977d7de7-0724-4493-a094-ee76767fd812",
+      "inactive" : false,
+      "name" : "The facility ensures standard practices and materials for disinfection and sterilization of instruments and equipment",
+      "reference" : "F3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1006"
+        },
+        "standardUUID" : {
+          "href" : "93526cf5-4d9d-4e7b-bf6f-b821a6af1bd2"
+        },
+        "checkpoints" : {
+          "href" : "/1006/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1006/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.402+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.402+0000",
+      "uuid" : "6a6e0b93-6e3b-4da4-a2ac-d8d2fee10d30",
+      "inactive" : false,
+      "name" : "The facility ensures standard practices and materials for decontamination and cleaning of instruments and procedures areas",
+      "reference" : "F3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1007"
+        },
+        "standardUUID" : {
+          "href" : "93526cf5-4d9d-4e7b-bf6f-b821a6af1bd2"
+        },
+        "checkpoints" : {
+          "href" : "/1007/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1007/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.491+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.491+0000",
+      "uuid" : "8fea5bf6-fe04-48c4-9fe6-33254f30bafd",
+      "inactive" : false,
+      "name" : "The facility has established internal quality assurance programme",
+      "reference" : "G1.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1008"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1008/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1008/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.581+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.581+0000",
+      "uuid" : "0613d1e5-1111-4de0-9269-3a9bbdd8d7f7",
+      "inactive" : false,
+      "name" : "Quality objectives have been defined, and the objectives are reviewed and monitored periodically",
+      "reference" : "G1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1009"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1009/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1009/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.673+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.673+0000",
+      "uuid" : "90a9bfca-4f1b-4fcc-a8a3-87b62678a1ef",
+      "inactive" : false,
+      "name" : "Corrective and Preventive actions are taken to address the issues observed in the assessment and audit",
+      "reference" : "G1.10",
+      "_links" : {
+        "self" : {
+          "href" : "/1010"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1010/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1010/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.772+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.772+0000",
+      "uuid" : "19afcaa6-4b87-4669-b968-9cccbc398345",
+      "inactive" : false,
+      "name" : "The facility conducts the periodic prescription/ medical audits",
+      "reference" : "G1.7",
+      "_links" : {
+        "self" : {
+          "href" : "/1011"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1011/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1011/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.879+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.879+0000",
+      "uuid" : "8c2b2a2e-baa1-4be8-9349-9fa1614b3715",
+      "inactive" : false,
+      "name" : "The facility ensures that non compliances are enumerated and recorded adequately",
+      "reference" : "G1.8",
+      "_links" : {
+        "self" : {
+          "href" : "/1012"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1012/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1012/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:17.979+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:17.979+0000",
+      "uuid" : "72be486f-6cd3-4042-a287-457ce2ef09e7",
+      "inactive" : false,
+      "name" : "The facility has established external assurance programmes",
+      "reference" : "G1.6",
+      "_links" : {
+        "self" : {
+          "href" : "/1013"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1013/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1013/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.088+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.088+0000",
+      "uuid" : "34506200-f4da-4356-a16a-4bb6bba6caaf",
+      "inactive" : false,
+      "name" : "The facility has a quality team in place",
+      "reference" : "G1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1014"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1014/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1014/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.189+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.189+0000",
+      "uuid" : "14513354-bee3-4918-8593-810cced2553a",
+      "inactive" : false,
+      "name" : "The facility reviews quality of its services at periodic intervals",
+      "reference" : "G1.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1015"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1015/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1015/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.283+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.283+0000",
+      "uuid" : "5f715d24-4ab7-4053-82d5-d6eb41db57c3",
+      "inactive" : false,
+      "name" : "The facility has defined quality policy and it has been disseminated",
+      "reference" : "G1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1016"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1016/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1016/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.379+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.379+0000",
+      "uuid" : "7e48c33c-4a66-47ae-a0b0-aad93282b8f0",
+      "inactive" : false,
+      "name" : "Action plan is made on gaps found in the assessment/audit process",
+      "reference" : "G1.9",
+      "_links" : {
+        "self" : {
+          "href" : "/1017"
+        },
+        "standardUUID" : {
+          "href" : "2386b9bd-5447-4a32-9b8d-cec49b5c4855"
+        },
+        "checkpoints" : {
+          "href" : "/1017/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1017/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.473+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.473+0000",
+      "uuid" : "1f930220-7450-4289-b125-4bdb7a522056",
+      "inactive" : false,
+      "name" : "Patient Satisfaction surveys are conducted at periodic intervals",
+      "reference" : "G2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1018"
+        },
+        "standardUUID" : {
+          "href" : "0031d4c8-ea1d-4f62-b53d-9ef19e1bc1fa"
+        },
+        "checkpoints" : {
+          "href" : "/1018/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1018/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.560+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.560+0000",
+      "uuid" : "ccf1af22-275c-440e-b227-fe2e2d7a2226",
+      "inactive" : false,
+      "name" : "Facility prepares the action plans for the areas of low satisfaction",
+      "reference" : "G2.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1019"
+        },
+        "standardUUID" : {
+          "href" : "0031d4c8-ea1d-4f62-b53d-9ef19e1bc1fa"
+        },
+        "checkpoints" : {
+          "href" : "/1019/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1019/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.668+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.668+0000",
+      "uuid" : "0141bcdd-9fe6-4496-9b2a-11a6affdf84f",
+      "inactive" : false,
+      "name" : "Employee satisfaction Surveys are conducted at periodic intervals",
+      "reference" : "G2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1020"
+        },
+        "standardUUID" : {
+          "href" : "0031d4c8-ea1d-4f62-b53d-9ef19e1bc1fa"
+        },
+        "checkpoints" : {
+          "href" : "/1020/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1020/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.768+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.768+0000",
+      "uuid" : "0fcf3f79-7f16-4085-9763-2363dea17798",
+      "inactive" : false,
+      "name" : "Work instructions are displayed at Point of work",
+      "reference" : "G3.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1021"
+        },
+        "standardUUID" : {
+          "href" : "b733e260-c455-447d-862b-3fd9bc35accb"
+        },
+        "checkpoints" : {
+          "href" : "/1021/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1021/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.864+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.864+0000",
+      "uuid" : "f4bd2bbe-e9be-477b-bcad-82fdd63e8708",
+      "inactive" : false,
+      "name" : "Staff is trained as per SOPs",
+      "reference" : "G3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1022"
+        },
+        "standardUUID" : {
+          "href" : "b733e260-c455-447d-862b-3fd9bc35accb"
+        },
+        "checkpoints" : {
+          "href" : "/1022/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1022/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:18.962+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:18.962+0000",
+      "uuid" : "f74e5d6b-0e33-4181-8c8d-e84b9e31da92",
+      "inactive" : false,
+      "name" : "Standard Operating procedures are prepared , distributed and implemented for all key processes",
+      "reference" : "G3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1023"
+        },
+        "standardUUID" : {
+          "href" : "b733e260-c455-447d-862b-3fd9bc35accb"
+        },
+        "checkpoints" : {
+          "href" : "/1023/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1023/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.054+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.054+0000",
+      "uuid" : "85fdf9d3-be96-46dc-8329-fdf8369306c0",
+      "inactive" : false,
+      "name" : "The facility uses methods and tools for Quality Improvement",
+      "reference" : "G3.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1024"
+        },
+        "standardUUID" : {
+          "href" : "b733e260-c455-447d-862b-3fd9bc35accb"
+        },
+        "checkpoints" : {
+          "href" : "/1024/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1024/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.154+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.154+0000",
+      "uuid" : "6a5b3931-6e32-4964-a954-2a16f9a03cc0",
+      "inactive" : false,
+      "name" : "Facility measures Clinical Care & Safety Indicators on monthly basis",
+      "reference" : "H1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1025"
+        },
+        "standardUUID" : {
+          "href" : "b04decec-927b-40e1-821f-29d39a26f819"
+        },
+        "checkpoints" : {
+          "href" : "/1025/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1025/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.240+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.240+0000",
+      "uuid" : "11e30d53-6ac5-48d9-bc33-22bc42cfd19c",
+      "inactive" : false,
+      "name" : "Facility measures efficiency Indicators on monthly basis",
+      "reference" : "H1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1026"
+        },
+        "standardUUID" : {
+          "href" : "b04decec-927b-40e1-821f-29d39a26f819"
+        },
+        "checkpoints" : {
+          "href" : "/1026/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1026/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.345+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.345+0000",
+      "uuid" : "f2c0119b-45ec-4244-b9e3-e070b81a97f4",
+      "inactive" : false,
+      "name" : "Facility measures Service Quality Indicators on monthly basis",
+      "reference" : "H1.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1027"
+        },
+        "standardUUID" : {
+          "href" : "b04decec-927b-40e1-821f-29d39a26f819"
+        },
+        "checkpoints" : {
+          "href" : "/1027/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1027/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.454+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.454+0000",
+      "uuid" : "937d4843-9e7f-4d31-aa46-4766e238180b",
+      "inactive" : false,
+      "name" : "Facility measures Productivity Indicators on monthly basis",
+      "reference" : "H1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1028"
+        },
+        "standardUUID" : {
+          "href" : "b04decec-927b-40e1-821f-29d39a26f819"
+        },
+        "checkpoints" : {
+          "href" : "/1028/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1028/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.582+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.582+0000",
+      "uuid" : "7e3db4a0-a66e-4d27-9f42-ccafc4ff6cee",
+      "inactive" : false,
+      "name" : "The facility strives to improve indicators from its current performance",
+      "reference" : "H2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1029"
+        },
+        "standardUUID" : {
+          "href" : "311cb57a-ace7-4257-a240-71e082d43045"
+        },
+        "checkpoints" : {
+          "href" : "/1029/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1029/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.688+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.688+0000",
+      "uuid" : "cbc9cbd5-3e1f-4765-959d-665e832aca14",
+      "inactive" : false,
+      "name" : "No thoroughfare / general traffic in hospital premises",
+      "reference" : "A3.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1030"
+        },
+        "standardUUID" : {
+          "href" : "487a5fcc-931d-41d0-9a9a-434d58453e58"
+        },
+        "checkpoints" : {
+          "href" : "/1030/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1030/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.787+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.787+0000",
+      "uuid" : "d560a6b7-b2ed-4b1b-8a4a-f1ad0da14a9c",
+      "inactive" : false,
+      "name" : "No water logging in open areas",
+      "reference" : "A3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1031"
+        },
+        "standardUUID" : {
+          "href" : "487a5fcc-931d-41d0-9a9a-434d58453e58"
+        },
+        "checkpoints" : {
+          "href" : "/1031/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1031/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.886+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.886+0000",
+      "uuid" : "6c65dcf6-30aa-41ea-ad6c-8966b83cae86",
+      "inactive" : false,
+      "name" : "Open areas are well maintained",
+      "reference" : "A3.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1032"
+        },
+        "standardUUID" : {
+          "href" : "487a5fcc-931d-41d0-9a9a-434d58453e58"
+        },
+        "checkpoints" : {
+          "href" : "/1032/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1032/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:19.991+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:19.991+0000",
+      "uuid" : "f0556a46-0e78-4bbc-8063-dd47cd960a46",
+      "inactive" : false,
+      "name" : "There is no unauthorised occupation within the facility, nor there is encroachment on Hospital land",
+      "reference" : "A3.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1033"
+        },
+        "standardUUID" : {
+          "href" : "487a5fcc-931d-41d0-9a9a-434d58453e58"
+        },
+        "checkpoints" : {
+          "href" : "/1033/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1033/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.085+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.085+0000",
+      "uuid" : "69807dd3-2d18-4de1-8628-9c3ba1a03f4c",
+      "inactive" : false,
+      "name" : "There is no abandoned / dilapidated building within the premises",
+      "reference" : "A3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1034"
+        },
+        "standardUUID" : {
+          "href" : "487a5fcc-931d-41d0-9a9a-434d58453e58"
+        },
+        "checkpoints" : {
+          "href" : "/1034/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1034/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.173+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.173+0000",
+      "uuid" : "49b85790-12f6-4c5d-9283-3bebbdcf1e26",
+      "inactive" : false,
+      "name" : "There is a system of periodical inspection for water wastage",
+      "reference" : "A9.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1035"
+        },
+        "standardUUID" : {
+          "href" : "d6d5535f-43f0-4483-b987-79d7bfd08aae"
+        },
+        "checkpoints" : {
+          "href" : "/1035/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1035/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.279+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.279+0000",
+      "uuid" : "000acb7d-b054-4167-bd1d-6f5c69d6d255",
+      "inactive" : false,
+      "name" : "Hospital has a functional rain water harvesting system",
+      "reference" : "A9.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1036"
+        },
+        "standardUUID" : {
+          "href" : "d6d5535f-43f0-4483-b987-79d7bfd08aae"
+        },
+        "checkpoints" : {
+          "href" : "/1036/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1036/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.370+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.370+0000",
+      "uuid" : "a0812c4d-890a-48a9-9659-be547821879a",
+      "inactive" : false,
+      "name" : "Water supply is adequate in Quantity & Quality",
+      "reference" : "A9.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1037"
+        },
+        "standardUUID" : {
+          "href" : "d6d5535f-43f0-4483-b987-79d7bfd08aae"
+        },
+        "checkpoints" : {
+          "href" : "/1037/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1037/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.464+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.464+0000",
+      "uuid" : "4b433149-6454-47f3-9a64-28e059988e82",
+      "inactive" : false,
+      "name" : "Water supply system is maintained in the Hospital",
+      "reference" : "A9.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1038"
+        },
+        "standardUUID" : {
+          "href" : "d6d5535f-43f0-4483-b987-79d7bfd08aae"
+        },
+        "checkpoints" : {
+          "href" : "/1038/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1038/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.554+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.554+0000",
+      "uuid" : "194217cd-544c-43a5-b335-d87aeaa8fba5",
+      "inactive" : false,
+      "name" : "Hospital promotes water conservation",
+      "reference" : "A9.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1039"
+        },
+        "standardUUID" : {
+          "href" : "d6d5535f-43f0-4483-b987-79d7bfd08aae"
+        },
+        "checkpoints" : {
+          "href" : "/1039/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1039/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.644+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.644+0000",
+      "uuid" : "8745907a-3142-4cf6-addc-1f207e4d8187",
+      "inactive" : false,
+      "name" : "Staff periodically sort useful and unnecessary articles at work station",
+      "reference" : "A10.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1040"
+        },
+        "standardUUID" : {
+          "href" : "a9c5945e-41a2-4fff-aa55-c4950ac62b72"
+        },
+        "checkpoints" : {
+          "href" : "/1040/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1040/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.736+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.736+0000",
+      "uuid" : "d5ca9eda-4cf2-4076-a997-9f2e1fd9de54",
+      "inactive" : false,
+      "name" : "The Staff arrange the useful articles, records in systematic manner",
+      "reference" : "A10.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1041"
+        },
+        "standardUUID" : {
+          "href" : "a9c5945e-41a2-4fff-aa55-c4950ac62b72"
+        },
+        "checkpoints" : {
+          "href" : "/1041/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1041/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.829+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.829+0000",
+      "uuid" : "3eca202d-a99d-4445-9b43-1c44e73c26e9",
+      "inactive" : false,
+      "name" : "Staff label the articles in identifiable manner",
+      "reference" : "A10.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1042"
+        },
+        "standardUUID" : {
+          "href" : "a9c5945e-41a2-4fff-aa55-c4950ac62b72"
+        },
+        "checkpoints" : {
+          "href" : "/1042/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1042/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:20.924+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:20.924+0000",
+      "uuid" : "d4fc17fa-c2e7-4aa1-81f8-e5179cd38287",
+      "inactive" : false,
+      "name" : "Staff has been trained for work place management",
+      "reference" : "A10.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1043"
+        },
+        "standardUUID" : {
+          "href" : "a9c5945e-41a2-4fff-aa55-c4950ac62b72"
+        },
+        "checkpoints" : {
+          "href" : "/1043/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1043/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.018+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.018+0000",
+      "uuid" : "6092ee92-7594-416b-9788-37639de0c39d",
+      "inactive" : false,
+      "name" : "Work stations are clean and free of dirt/dust",
+      "reference" : "A10.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1044"
+        },
+        "standardUUID" : {
+          "href" : "a9c5945e-41a2-4fff-aa55-c4950ac62b72"
+        },
+        "checkpoints" : {
+          "href" : "/1044/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1044/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.106+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.106+0000",
+      "uuid" : "b9c76453-fd7c-42bd-a8ee-18aa2f512c1c",
+      "inactive" : false,
+      "name" : "Internal Roads, Pathways, waiting area, etc. are uneven and clean",
+      "reference" : "A2.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1045"
+        },
+        "standardUUID" : {
+          "href" : "1e4a5278-e4c2-40ce-80e2-16b0e8626349"
+        },
+        "checkpoints" : {
+          "href" : "/1045/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1045/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.207+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.207+0000",
+      "uuid" : "d240555e-8502-42bc-ad5c-6d6a43637d50",
+      "inactive" : false,
+      "name" : "Green Areas/ Parks/ Open spaces are well maintained",
+      "reference" : "A2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1046"
+        },
+        "standardUUID" : {
+          "href" : "1e4a5278-e4c2-40ce-80e2-16b0e8626349"
+        },
+        "checkpoints" : {
+          "href" : "/1046/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1046/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.303+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.303+0000",
+      "uuid" : "ec9e551c-398a-40cf-9ff9-765113f32e19",
+      "inactive" : false,
+      "name" : "Facility’s front area is landscaped",
+      "reference" : "A2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1047"
+        },
+        "standardUUID" : {
+          "href" : "1e4a5278-e4c2-40ce-80e2-16b0e8626349"
+        },
+        "checkpoints" : {
+          "href" : "/1047/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1047/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.390+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.390+0000",
+      "uuid" : "7cab776a-27ff-4644-a9a2-333e57a5038e",
+      "inactive" : false,
+      "name" : "Gardens/ green area are secured with fence",
+      "reference" : "A2.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1048"
+        },
+        "standardUUID" : {
+          "href" : "1e4a5278-e4c2-40ce-80e2-16b0e8626349"
+        },
+        "checkpoints" : {
+          "href" : "/1048/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1048/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.478+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.478+0000",
+      "uuid" : "b73cdc4c-04c1-4457-abe7-56dcbe8ebe8a",
+      "inactive" : false,
+      "name" : "Provision of Herbal Garden",
+      "reference" : "A2.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1049"
+        },
+        "standardUUID" : {
+          "href" : "1e4a5278-e4c2-40ce-80e2-16b0e8626349"
+        },
+        "checkpoints" : {
+          "href" : "/1049/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1049/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.569+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.569+0000",
+      "uuid" : "64edfaa6-8255-4d47-a1a2-a7b0d407c829",
+      "inactive" : false,
+      "name" : "Walls are well-plastered and painted",
+      "reference" : "A4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1050"
+        },
+        "standardUUID" : {
+          "href" : "2169fa18-9da9-4ff3-9b92-799825112f7a"
+        },
+        "checkpoints" : {
+          "href" : "/1050/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1050/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.694+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.694+0000",
+      "uuid" : "87376baf-0a62-49c5-b586-6777b9082e54",
+      "inactive" : false,
+      "name" : "No unwanted/Outdated posters",
+      "reference" : "A4.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1051"
+        },
+        "standardUUID" : {
+          "href" : "2169fa18-9da9-4ff3-9b92-799825112f7a"
+        },
+        "checkpoints" : {
+          "href" : "/1051/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1051/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.785+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.785+0000",
+      "uuid" : "1a2257ef-ecc3-43fe-abf8-4854d5e155c1",
+      "inactive" : false,
+      "name" : "Interior of patient care areas are plastered & painted",
+      "reference" : "A4.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1052"
+        },
+        "standardUUID" : {
+          "href" : "2169fa18-9da9-4ff3-9b92-799825112f7a"
+        },
+        "checkpoints" : {
+          "href" : "/1052/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1052/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.872+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.872+0000",
+      "uuid" : "a201fae3-09e2-4d0b-9ce0-a63303faaaf0",
+      "inactive" : false,
+      "name" : "Uniform signage system in the Hospital",
+      "reference" : "A4.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1053"
+        },
+        "standardUUID" : {
+          "href" : "2169fa18-9da9-4ff3-9b92-799825112f7a"
+        },
+        "checkpoints" : {
+          "href" : "/1053/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1053/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:21.971+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:21.971+0000",
+      "uuid" : "15d3a17b-5c7f-4d2c-9320-c1f529643b2b",
+      "inactive" : false,
+      "name" : "Name of the hospital is prominently displayed at the entrance",
+      "reference" : "A4.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1054"
+        },
+        "standardUUID" : {
+          "href" : "2169fa18-9da9-4ff3-9b92-799825112f7a"
+        },
+        "checkpoints" : {
+          "href" : "/1054/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1054/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.062+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.062+0000",
+      "uuid" : "f34ca29c-3c8a-48aa-ad1a-091d8e4917b9",
+      "inactive" : false,
+      "name" : "Measures for Mosquito free environment are in place",
+      "reference" : "A1.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1055"
+        },
+        "standardUUID" : {
+          "href" : "399a6896-8eb6-4c58-ac5c-591276b5c0bd"
+        },
+        "checkpoints" : {
+          "href" : "/1055/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1055/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.164+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.164+0000",
+      "uuid" : "c0bc0820-087b-4fec-8b9b-8a55b2183a1f",
+      "inactive" : false,
+      "name" : "Cattle-trap is installed at the entrance",
+      "reference" : "A1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1056"
+        },
+        "standardUUID" : {
+          "href" : "399a6896-8eb6-4c58-ac5c-591276b5c0bd"
+        },
+        "checkpoints" : {
+          "href" : "/1056/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1056/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.260+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.260+0000",
+      "uuid" : "aa4d34d7-b911-4b4a-92c3-b2b72074c6bc",
+      "inactive" : false,
+      "name" : "No stray animals within the facility premises",
+      "reference" : "A1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1057"
+        },
+        "standardUUID" : {
+          "href" : "399a6896-8eb6-4c58-ac5c-591276b5c0bd"
+        },
+        "checkpoints" : {
+          "href" : "/1057/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1057/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.348+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.348+0000",
+      "uuid" : "2f9df5b5-7773-4fde-9e77-9ada76c7d06f",
+      "inactive" : false,
+      "name" : "Pest Control Measures are implemented in the facility",
+      "reference" : "A1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1058"
+        },
+        "standardUUID" : {
+          "href" : "399a6896-8eb6-4c58-ac5c-591276b5c0bd"
+        },
+        "checkpoints" : {
+          "href" : "/1058/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1058/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.437+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.437+0000",
+      "uuid" : "8ad579cc-1b63-4c67-82c2-42fe04aa5b1f",
+      "inactive" : false,
+      "name" : "Anti-termite Treatment of the wooden furniture and fixtures is undertaken periodically",
+      "reference" : "A1.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1059"
+        },
+        "standardUUID" : {
+          "href" : "399a6896-8eb6-4c58-ac5c-591276b5c0bd"
+        },
+        "checkpoints" : {
+          "href" : "/1059/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1059/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.522+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.522+0000",
+      "uuid" : "34b205a8-1b56-42a4-af88-d79a3b0b7586",
+      "inactive" : false,
+      "name" : "Hospital has adequate facility for parking of vehicles",
+      "reference" : "A5.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1060"
+        },
+        "standardUUID" : {
+          "href" : "a6684bac-cc24-4362-828e-b8ce6c73d483"
+        },
+        "checkpoints" : {
+          "href" : "/1060/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1060/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.610+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.610+0000",
+      "uuid" : "6f14bf56-6ecf-4cb7-9723-1cca89274f41",
+      "inactive" : false,
+      "name" : "Hospital has a system for periodic maintenance of infrastructure at pre-defined interval",
+      "reference" : "A5.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1061"
+        },
+        "standardUUID" : {
+          "href" : "a6684bac-cc24-4362-828e-b8ce6c73d483"
+        },
+        "checkpoints" : {
+          "href" : "/1061/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1061/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.709+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.709+0000",
+      "uuid" : "1e01d68b-34d5-42b3-867a-cf476cad474a",
+      "inactive" : false,
+      "name" : "Hospital has intact boundary wall and functional gates at entry",
+      "reference" : "A5.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1062"
+        },
+        "standardUUID" : {
+          "href" : "a6684bac-cc24-4362-828e-b8ce6c73d483"
+        },
+        "checkpoints" : {
+          "href" : "/1062/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1062/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.795+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.795+0000",
+      "uuid" : "447d1d39-0d08-46a1-b947-34eac0669d7e",
+      "inactive" : false,
+      "name" : "Hospital Infrastructure is well maintained",
+      "reference" : "A5.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1063"
+        },
+        "standardUUID" : {
+          "href" : "a6684bac-cc24-4362-828e-b8ce6c73d483"
+        },
+        "checkpoints" : {
+          "href" : "/1063/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1063/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.885+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.885+0000",
+      "uuid" : "f1f60184-726a-4323-8f85-73ec5b831b34",
+      "inactive" : false,
+      "name" : "Electric wiring and Fittings are maintained",
+      "reference" : "A5.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1064"
+        },
+        "standardUUID" : {
+          "href" : "a6684bac-cc24-4362-828e-b8ce6c73d483"
+        },
+        "checkpoints" : {
+          "href" : "/1064/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1064/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:22.974+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:22.974+0000",
+      "uuid" : "c837a5de-73bb-4488-a941-4bbbb28f1050",
+      "inactive" : false,
+      "name" : "Adequate illumination in Procedure Areas (Labour Room/ OT)",
+      "reference" : "A6.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1065"
+        },
+        "standardUUID" : {
+          "href" : "7cac572c-1aae-483c-94cc-b4d821a1bc77"
+        },
+        "checkpoints" : {
+          "href" : "/1065/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1065/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:23.280+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:23.280+0000",
+      "uuid" : "9ef86ee5-1506-46b7-893b-b3b241b6ad91",
+      "inactive" : false,
+      "name" : "Use of energy efficient bulbs",
+      "reference" : "A6.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1066"
+        },
+        "standardUUID" : {
+          "href" : "7cac572c-1aae-483c-94cc-b4d821a1bc77"
+        },
+        "checkpoints" : {
+          "href" : "/1066/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1066/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:23.596+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:23.596+0000",
+      "uuid" : "ff17ed07-6774-4b5d-a4e7-d4995b3e68b8",
+      "inactive" : false,
+      "name" : "Adequate illumination in Circulation Area",
+      "reference" : "A6.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1067"
+        },
+        "standardUUID" : {
+          "href" : "7cac572c-1aae-483c-94cc-b4d821a1bc77"
+        },
+        "checkpoints" : {
+          "href" : "/1067/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1067/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:23.879+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:23.879+0000",
+      "uuid" : "4d24db39-2b6b-4683-9565-ebdf2dcf9e63",
+      "inactive" : false,
+      "name" : "Adequate illumination in front of hospital and access road",
+      "reference" : "A6.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1068"
+        },
+        "standardUUID" : {
+          "href" : "7cac572c-1aae-483c-94cc-b4d821a1bc77"
+        },
+        "checkpoints" : {
+          "href" : "/1068/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1068/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:24.122+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:24.122+0000",
+      "uuid" : "012bddfb-0109-4c5e-a3a6-beef5c521156",
+      "inactive" : false,
+      "name" : "Adequate illumination in Indoor Areas",
+      "reference" : "A6.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1069"
+        },
+        "standardUUID" : {
+          "href" : "7cac572c-1aae-483c-94cc-b4d821a1bc77"
+        },
+        "checkpoints" : {
+          "href" : "/1069/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1069/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:24.462+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:24.462+0000",
+      "uuid" : "a2010048-4c95-45b6-ba75-9e3c1107e583",
+      "inactive" : false,
+      "name" : "There is a system of preventive maintenance of furniture and fixtures",
+      "reference" : "A7.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1070"
+        },
+        "standardUUID" : {
+          "href" : "a87dfd79-2f3c-4e69-8299-214870942528"
+        },
+        "checkpoints" : {
+          "href" : "/1070/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1070/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:24.739+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:24.739+0000",
+      "uuid" : "5dcb6864-4ee5-4553-a994-5f094d993a0d",
+      "inactive" : false,
+      "name" : "Window and doors are maintained",
+      "reference" : "A7.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1071"
+        },
+        "standardUUID" : {
+          "href" : "a87dfd79-2f3c-4e69-8299-214870942528"
+        },
+        "checkpoints" : {
+          "href" : "/1071/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1071/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:24.953+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:24.953+0000",
+      "uuid" : "508c3010-8a3c-45d6-8c9a-1edf377918c2",
+      "inactive" : false,
+      "name" : "Furniture at the nursing station, staff room, administrative office are maintained",
+      "reference" : "A7.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1072"
+        },
+        "standardUUID" : {
+          "href" : "a87dfd79-2f3c-4e69-8299-214870942528"
+        },
+        "checkpoints" : {
+          "href" : "/1072/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1072/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:25.123+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:25.123+0000",
+      "uuid" : "4a818221-1711-447f-9283-8705b52f1096",
+      "inactive" : false,
+      "name" : "Patient Beds & Mattresses are in good condition",
+      "reference" : "A7.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1073"
+        },
+        "standardUUID" : {
+          "href" : "a87dfd79-2f3c-4e69-8299-214870942528"
+        },
+        "checkpoints" : {
+          "href" : "/1073/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1073/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:25.428+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:25.428+0000",
+      "uuid" : "538e3ddc-76f4-448b-bffb-7cd33f39be3f",
+      "inactive" : false,
+      "name" : "Trolleys, Stretchers, Wheel Chairs, etc. are well maintained",
+      "reference" : "A7.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1074"
+        },
+        "standardUUID" : {
+          "href" : "a87dfd79-2f3c-4e69-8299-214870942528"
+        },
+        "checkpoints" : {
+          "href" : "/1074/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1074/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:25.735+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:25.735+0000",
+      "uuid" : "f6c43452-d231-4136-8365-31f88daabd9e",
+      "inactive" : false,
+      "name" : "No junk material in critical service area",
+      "reference" : "A8.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1075"
+        },
+        "standardUUID" : {
+          "href" : "86a47f13-bfa9-4c04-8c9d-9f59201c70b5"
+        },
+        "checkpoints" : {
+          "href" : "/1075/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1075/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:25.946+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:25.946+0000",
+      "uuid" : "ee1b082c-593c-4a35-81e7-e1a0f8e7aecf",
+      "inactive" : false,
+      "name" : "No junk material in Open Areas and corridors",
+      "reference" : "A8.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1076"
+        },
+        "standardUUID" : {
+          "href" : "86a47f13-bfa9-4c04-8c9d-9f59201c70b5"
+        },
+        "checkpoints" : {
+          "href" : "/1076/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1076/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:26.120+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:26.120+0000",
+      "uuid" : "d01966ce-122b-4175-b518-fdf0361bc468",
+      "inactive" : false,
+      "name" : "Hospital has demarcated space for keeping condemned junk material",
+      "reference" : "A8.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1077"
+        },
+        "standardUUID" : {
+          "href" : "86a47f13-bfa9-4c04-8c9d-9f59201c70b5"
+        },
+        "checkpoints" : {
+          "href" : "/1077/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1077/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:26.295+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:26.295+0000",
+      "uuid" : "06683bc9-b72b-421f-ac5f-7e08f756d148",
+      "inactive" : false,
+      "name" : "Hospital has documented and implemented Condemnation policy",
+      "reference" : "A8.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1078"
+        },
+        "standardUUID" : {
+          "href" : "86a47f13-bfa9-4c04-8c9d-9f59201c70b5"
+        },
+        "checkpoints" : {
+          "href" : "/1078/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1078/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:26.472+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:26.472+0000",
+      "uuid" : "211982a6-66f7-4f57-9e93-829cefd33067",
+      "inactive" : false,
+      "name" : "No junk material in patient care areas",
+      "reference" : "A8.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1079"
+        },
+        "standardUUID" : {
+          "href" : "86a47f13-bfa9-4c04-8c9d-9f59201c70b5"
+        },
+        "checkpoints" : {
+          "href" : "/1079/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1079/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:26.736+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:26.736+0000",
+      "uuid" : "996a0752-b43a-43bf-8b15-08d170814a7b",
+      "inactive" : false,
+      "name" : "No Cobwebs/Bird Nest/ Dust on walls and roofs of corridors",
+      "reference" : "B1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1080"
+        },
+        "standardUUID" : {
+          "href" : "1dd74fa8-a3ea-4cb7-a6b3-e2d1c5a86f94"
+        },
+        "checkpoints" : {
+          "href" : "/1080/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1080/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:26.949+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:26.949+0000",
+      "uuid" : "f8bf8dc5-1ae5-4f44-a523-1eacdadbadf9",
+      "inactive" : false,
+      "name" : "Corridors are cleaned at least twice in the day with wet mop",
+      "reference" : "B1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1081"
+        },
+        "standardUUID" : {
+          "href" : "1dd74fa8-a3ea-4cb7-a6b3-e2d1c5a86f94"
+        },
+        "checkpoints" : {
+          "href" : "/1081/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1081/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:27.167+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:27.167+0000",
+      "uuid" : "f47e8201-ab06-4a0f-9a60-89fcbb8ff97a",
+      "inactive" : false,
+      "name" : "Corridors are rigorously cleaned with scrubbing / flooding once in a month",
+      "reference" : "B1.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1082"
+        },
+        "standardUUID" : {
+          "href" : "1dd74fa8-a3ea-4cb7-a6b3-e2d1c5a86f94"
+        },
+        "checkpoints" : {
+          "href" : "/1082/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1082/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:27.386+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:27.386+0000",
+      "uuid" : "7f62904b-ab51-44b2-9d47-9e8bd5196822",
+      "inactive" : false,
+      "name" : "No dirt/Grease/Stains in the Circulation area",
+      "reference" : "B1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1083"
+        },
+        "standardUUID" : {
+          "href" : "1dd74fa8-a3ea-4cb7-a6b3-e2d1c5a86f94"
+        },
+        "checkpoints" : {
+          "href" : "/1083/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1083/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:27.584+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:27.584+0000",
+      "uuid" : "8963a45a-1978-4590-967e-3deb65737f9c",
+      "inactive" : false,
+      "name" : "Surfaces are conducive of effective cleaning",
+      "reference" : "B1.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1084"
+        },
+        "standardUUID" : {
+          "href" : "1dd74fa8-a3ea-4cb7-a6b3-e2d1c5a86f94"
+        },
+        "checkpoints" : {
+          "href" : "/1084/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1084/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:27.856+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:27.856+0000",
+      "uuid" : "f8189894-eec2-4708-9dae-79b2c5704aef",
+      "inactive" : false,
+      "name" : "Floors, walls, furniture and fixture are thoroughly cleaned once in a month",
+      "reference" : "B5.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1085"
+        },
+        "standardUUID" : {
+          "href" : "211d44aa-62a9-4d7e-b3d9-49cea8d93762"
+        },
+        "checkpoints" : {
+          "href" : "/1085/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1085/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:28.069+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:28.069+0000",
+      "uuid" : "65b0088b-a4a2-4469-b6c0-1cf1889086f0",
+      "inactive" : false,
+      "name" : "No dirt/Grease/ Stains/ Garbage in Auxiliary Area",
+      "reference" : "B5.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1086"
+        },
+        "standardUUID" : {
+          "href" : "211d44aa-62a9-4d7e-b3d9-49cea8d93762"
+        },
+        "checkpoints" : {
+          "href" : "/1086/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1086/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:28.241+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:28.241+0000",
+      "uuid" : "b4809e7f-a8b3-4892-a1a4-14884d2160b6",
+      "inactive" : false,
+      "name" : "No Cobwebs/Bird Nest/ Seepage on walls and roofs of Auxiliary Area",
+      "reference" : "B5.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1087"
+        },
+        "standardUUID" : {
+          "href" : "211d44aa-62a9-4d7e-b3d9-49cea8d93762"
+        },
+        "checkpoints" : {
+          "href" : "/1087/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1087/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:28.419+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:28.419+0000",
+      "uuid" : "34b8fc71-d428-40fe-a436-86af1b9d7037",
+      "inactive" : false,
+      "name" : "Furniture & Fixtures are without grease and dust and cleaned daily",
+      "reference" : "B5.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1088"
+        },
+        "standardUUID" : {
+          "href" : "211d44aa-62a9-4d7e-b3d9-49cea8d93762"
+        },
+        "checkpoints" : {
+          "href" : "/1088/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1088/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:28.732+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:28.732+0000",
+      "uuid" : "5d375882-6cde-4d77-acce-564c2f2b4d37",
+      "inactive" : false,
+      "name" : "Auxiliary Areas are cleaned at least twice in the day with wet mop",
+      "reference" : "B5.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1089"
+        },
+        "standardUUID" : {
+          "href" : "211d44aa-62a9-4d7e-b3d9-49cea8d93762"
+        },
+        "checkpoints" : {
+          "href" : "/1089/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1089/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:29.046+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:29.046+0000",
+      "uuid" : "5a0670ba-18b8-487b-8e25-b60900b7024d",
+      "inactive" : false,
+      "name" : "Use of Three bucket system for cleaning",
+      "reference" : "B8.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1090"
+        },
+        "standardUUID" : {
+          "href" : "fba98332-aa2c-458f-996d-663912fb02f2"
+        },
+        "checkpoints" : {
+          "href" : "/1090/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1090/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:29.257+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:29.257+0000",
+      "uuid" : "2c0c6079-8b5c-4331-8173-5e8cb537efd6",
+      "inactive" : false,
+      "name" : "Use of separate mops for critical and semi critical areas and procedures surfaces",
+      "reference" : "B8.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1091"
+        },
+        "standardUUID" : {
+          "href" : "fba98332-aa2c-458f-996d-663912fb02f2"
+        },
+        "checkpoints" : {
+          "href" : "/1091/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1091/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:29.438+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:29.438+0000",
+      "uuid" : "e7abbad6-84c9-42e0-bc15-b10cf4355cd8",
+      "inactive" : false,
+      "name" : "Disinfection and washing of mops after every cleaning cycle",
+      "reference" : "B8.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1092"
+        },
+        "standardUUID" : {
+          "href" : "fba98332-aa2c-458f-996d-663912fb02f2"
+        },
+        "checkpoints" : {
+          "href" : "/1092/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1092/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:29.609+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:29.609+0000",
+      "uuid" : "708d72c6-4a4e-47d6-832a-be33ce0c7e68",
+      "inactive" : false,
+      "name" : "Use unidirectional method and out word mopping",
+      "reference" : "B8.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1093"
+        },
+        "standardUUID" : {
+          "href" : "fba98332-aa2c-458f-996d-663912fb02f2"
+        },
+        "checkpoints" : {
+          "href" : "/1093/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1093/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:29.880+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:29.880+0000",
+      "uuid" : "d7409998-c69c-465d-978b-08febf56e2ce",
+      "inactive" : false,
+      "name" : "No use of brooms in patient care areas",
+      "reference" : "B8.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1094"
+        },
+        "standardUUID" : {
+          "href" : "fba98332-aa2c-458f-996d-663912fb02f2"
+        },
+        "checkpoints" : {
+          "href" : "/1094/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1094/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:30.095+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:30.095+0000",
+      "uuid" : "9176aab7-774a-44b6-a386-fb8425424236",
+      "inactive" : false,
+      "name" : "All the drains are cleaned once in a week",
+      "reference" : "B10.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1095"
+        },
+        "standardUUID" : {
+          "href" : "b97dd870-b57c-4b35-9ff8-52ad1448a3b3"
+        },
+        "checkpoints" : {
+          "href" : "/1095/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1095/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:30.272+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:30.272+0000",
+      "uuid" : "bbcb9e6c-7087-4009-b906-26f4a6e086a7",
+      "inactive" : false,
+      "name" : "Gradient of Drains is conducive for adequate for maintaining flow",
+      "reference" : "B10.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1096"
+        },
+        "standardUUID" : {
+          "href" : "b97dd870-b57c-4b35-9ff8-52ad1448a3b3"
+        },
+        "checkpoints" : {
+          "href" : "/1096/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1096/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:30.451+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:30.451+0000",
+      "uuid" : "aed8cd98-6f52-4845-aeef-0e1a744e89ce",
+      "inactive" : false,
+      "name" : "No blocked/ over-flowing drains in the facility",
+      "reference" : "B10.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1097"
+        },
+        "standardUUID" : {
+          "href" : "b97dd870-b57c-4b35-9ff8-52ad1448a3b3"
+        },
+        "checkpoints" : {
+          "href" : "/1097/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1097/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:30.626+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:30.626+0000",
+      "uuid" : "dd4dad98-6382-4a2f-ada4-1dceabbe9e25",
+      "inactive" : false,
+      "name" : "Availability of connection with Municipal Sewage System/ or Soak Pit",
+      "reference" : "B10.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1098"
+        },
+        "standardUUID" : {
+          "href" : "b97dd870-b57c-4b35-9ff8-52ad1448a3b3"
+        },
+        "checkpoints" : {
+          "href" : "/1098/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1098/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:30.899+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:30.899+0000",
+      "uuid" : "8283e361-99f1-4a2d-bf7a-0361db98937f",
+      "inactive" : false,
+      "name" : "Availability of closed drainage system",
+      "reference" : "B10.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1099"
+        },
+        "standardUUID" : {
+          "href" : "b97dd870-b57c-4b35-9ff8-52ad1448a3b3"
+        },
+        "checkpoints" : {
+          "href" : "/1099/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1099/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:31.211+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:31.211+0000",
+      "uuid" : "b69bf460-6a01-447b-865e-5ad70e53bf7d",
+      "inactive" : false,
+      "name" : "No dirt/Grease/ Stains/ Garbage in wards",
+      "reference" : "B2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1100"
+        },
+        "standardUUID" : {
+          "href" : "34c32415-5f86-4a45-9bf5-b52f1b2065f9"
+        },
+        "checkpoints" : {
+          "href" : "/1100/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1100/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:31.429+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:31.429+0000",
+      "uuid" : "4630bb91-3a86-4dbc-99a3-5a1437ccc094",
+      "inactive" : false,
+      "name" : "Wards are cleaned at least thrice in the day with wet mop",
+      "reference" : "B2.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1101"
+        },
+        "standardUUID" : {
+          "href" : "34c32415-5f86-4a45-9bf5-b52f1b2065f9"
+        },
+        "checkpoints" : {
+          "href" : "/1101/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1101/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:31.517+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:31.517+0000",
+      "uuid" : "cc51f114-d99c-432a-b833-f61c74cf45ef",
+      "inactive" : false,
+      "name" : "Floors, walls, furniture and fixture are thoroughly cleaned once in a week.",
+      "reference" : "B2.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1102"
+        },
+        "standardUUID" : {
+          "href" : "34c32415-5f86-4a45-9bf5-b52f1b2065f9"
+        },
+        "checkpoints" : {
+          "href" : "/1102/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1102/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:31.604+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:31.604+0000",
+      "uuid" : "8c14e2a7-bdf9-44b5-a417-ded19327c09b",
+      "inactive" : false,
+      "name" : "No Cobwebs/Bird Nest/ Dust/Seepage on walls and roofs of wards",
+      "reference" : "B2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1103"
+        },
+        "standardUUID" : {
+          "href" : "34c32415-5f86-4a45-9bf5-b52f1b2065f9"
+        },
+        "checkpoints" : {
+          "href" : "/1103/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1103/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:31.693+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:31.693+0000",
+      "uuid" : "ee78d9a3-12fd-406b-8e4b-4b15cbc8aea8",
+      "inactive" : false,
+      "name" : "Patient Furniture, Mattresses, Fixtures are without grease and dust",
+      "reference" : "B2.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1104"
+        },
+        "standardUUID" : {
+          "href" : "34c32415-5f86-4a45-9bf5-b52f1b2065f9"
+        },
+        "checkpoints" : {
+          "href" : "/1104/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1104/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:31.783+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:31.783+0000",
+      "uuid" : "43c9a059-871a-4040-8704-b2036122abb6",
+      "inactive" : false,
+      "name" : "Floors, walls, furniture and fixture are thoroughly cleaned once in a week.",
+      "reference" : "B3.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1105"
+        },
+        "standardUUID" : {
+          "href" : "fd368deb-f6d1-46a6-9b42-030a6d55f06e"
+        },
+        "checkpoints" : {
+          "href" : "/1105/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1105/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:31.875+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:31.875+0000",
+      "uuid" : "ffb45870-d406-44b0-9ae6-acb165acfc43",
+      "inactive" : false,
+      "name" : "OT/Labour Room floors and procedures surfaces are cleaned at least twice a day / after every surgery",
+      "reference" : "B3.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1106"
+        },
+        "standardUUID" : {
+          "href" : "fd368deb-f6d1-46a6-9b42-030a6d55f06e"
+        },
+        "checkpoints" : {
+          "href" : "/1106/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1106/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:31.966+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:31.966+0000",
+      "uuid" : "e75989c6-5a9d-45dd-a5e0-17b5b5757f85",
+      "inactive" : false,
+      "name" : "No dirt/Grease/ Stains/ Garbage in Procedure Areas",
+      "reference" : "B3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1107"
+        },
+        "standardUUID" : {
+          "href" : "fd368deb-f6d1-46a6-9b42-030a6d55f06e"
+        },
+        "checkpoints" : {
+          "href" : "/1107/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1107/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.053+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.053+0000",
+      "uuid" : "d40309b8-4220-4b98-a621-6c2849c5852c",
+      "inactive" : false,
+      "name" : "No Cobwebs/Bird Nest/ Seepage in OT & Labour Room",
+      "reference" : "B3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1108"
+        },
+        "standardUUID" : {
+          "href" : "fd368deb-f6d1-46a6-9b42-030a6d55f06e"
+        },
+        "checkpoints" : {
+          "href" : "/1108/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1108/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.139+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.139+0000",
+      "uuid" : "15004f59-1841-4af2-9487-e4c55df15cc1",
+      "inactive" : false,
+      "name" : "OT & Labour Room Tables are without grease, body fluid and dust",
+      "reference" : "B3.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1109"
+        },
+        "standardUUID" : {
+          "href" : "fd368deb-f6d1-46a6-9b42-030a6d55f06e"
+        },
+        "checkpoints" : {
+          "href" : "/1109/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1109/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.228+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.228+0000",
+      "uuid" : "1253c8bc-792b-4da7-bb02-7b02cdff8ae5",
+      "inactive" : false,
+      "name" : "Use of Housekeeping Checklist in Toilets",
+      "reference" : "B9.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1110"
+        },
+        "standardUUID" : {
+          "href" : "a76d9eb1-9a2f-4657-b8a7-f9036030b02a"
+        },
+        "checkpoints" : {
+          "href" : "/1110/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1110/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.331+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.331+0000",
+      "uuid" : "132b9df3-e9ed-4baf-885d-7b80a2c35aba",
+      "inactive" : false,
+      "name" : "Use of Housekeeping Checklist in Patient Care Areas",
+      "reference" : "B9.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1111"
+        },
+        "standardUUID" : {
+          "href" : "a76d9eb1-9a2f-4657-b8a7-f9036030b02a"
+        },
+        "checkpoints" : {
+          "href" : "/1111/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1111/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.421+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.421+0000",
+      "uuid" : "756d1504-8f72-4bd9-aa40-6b1077c56097",
+      "inactive" : false,
+      "name" : "A person is designated for monitoring of Housekeeping Activities",
+      "reference" : "B9.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1112"
+        },
+        "standardUUID" : {
+          "href" : "a76d9eb1-9a2f-4657-b8a7-f9036030b02a"
+        },
+        "checkpoints" : {
+          "href" : "/1112/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1112/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.511+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.511+0000",
+      "uuid" : "04b6c750-f9d8-41bd-bd02-95ea64f5ffad",
+      "inactive" : false,
+      "name" : "Monitoring of adequacy and quality of material used for cleaning",
+      "reference" : "B9.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1113"
+        },
+        "standardUUID" : {
+          "href" : "a76d9eb1-9a2f-4657-b8a7-f9036030b02a"
+        },
+        "checkpoints" : {
+          "href" : "/1113/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1113/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.599+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.599+0000",
+      "uuid" : "74b29952-483f-454e-80e7-a6d3555faf74",
+      "inactive" : false,
+      "name" : "Use of Housekeeping Checklist in Procedure Areas",
+      "reference" : "B9.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1114"
+        },
+        "standardUUID" : {
+          "href" : "a76d9eb1-9a2f-4657-b8a7-f9036030b02a"
+        },
+        "checkpoints" : {
+          "href" : "/1114/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1114/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.701+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.701+0000",
+      "uuid" : "b65bae71-d911-4580-b65c-edf4d06625e9",
+      "inactive" : false,
+      "name" : "Toilets have running water and functional cistern",
+      "reference" : "B6.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1115"
+        },
+        "standardUUID" : {
+          "href" : "9afb8264-0544-4fd9-91ad-2df81a96fb44"
+        },
+        "checkpoints" : {
+          "href" : "/1115/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1115/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.804+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.804+0000",
+      "uuid" : "5dee66fc-bdfa-4cca-a5f9-f2660bf113e4",
+      "inactive" : false,
+      "name" : "Floors of Toilets are Dry",
+      "reference" : "B6.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1116"
+        },
+        "standardUUID" : {
+          "href" : "9afb8264-0544-4fd9-91ad-2df81a96fb44"
+        },
+        "checkpoints" : {
+          "href" : "/1116/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1116/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.892+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.892+0000",
+      "uuid" : "2b09a62b-f6a1-4b5f-bb0f-ba0bc785c212",
+      "inactive" : false,
+      "name" : "No foul smell in the Toilets",
+      "reference" : "B6.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1117"
+        },
+        "standardUUID" : {
+          "href" : "9afb8264-0544-4fd9-91ad-2df81a96fb44"
+        },
+        "checkpoints" : {
+          "href" : "/1117/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1117/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:32.980+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:32.980+0000",
+      "uuid" : "e03b27ba-8b01-4f36-a92f-1ec0a4f892ba",
+      "inactive" : false,
+      "name" : "No dirt/Grease/Stains/ Garbage in Toilets",
+      "reference" : "B6.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1118"
+        },
+        "standardUUID" : {
+          "href" : "9afb8264-0544-4fd9-91ad-2df81a96fb44"
+        },
+        "checkpoints" : {
+          "href" : "/1118/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1118/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.075+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.075+0000",
+      "uuid" : "009560b0-2857-4be7-aa7f-081d53cf9fca",
+      "inactive" : false,
+      "name" : "Sinks and Cistern are cleaned every two hours or whenever required",
+      "reference" : "B6.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1119"
+        },
+        "standardUUID" : {
+          "href" : "9afb8264-0544-4fd9-91ad-2df81a96fb44"
+        },
+        "checkpoints" : {
+          "href" : "/1119/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1119/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.164+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.164+0000",
+      "uuid" : "c43f085d-cb2a-4315-b7ab-f81ab66ecf4c",
+      "inactive" : false,
+      "name" : "Availability of Detergent Disinfectant solution / Hospital Grade Phenyl for Cleaning purpose",
+      "reference" : "B7.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1120"
+        },
+        "standardUUID" : {
+          "href" : "81cd9440-fce4-4f3e-8255-f27b9fea7cda"
+        },
+        "checkpoints" : {
+          "href" : "/1120/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1120/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.259+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.259+0000",
+      "uuid" : "357580f0-1f8b-43f5-95ed-0f375a3ac746",
+      "inactive" : false,
+      "name" : "Availability of carbolic Acid/ Bacilocid for surface cleaning in procedure areas- OT, Labour Room",
+      "reference" : "B7.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1121"
+        },
+        "standardUUID" : {
+          "href" : "81cd9440-fce4-4f3e-8255-f27b9fea7cda"
+        },
+        "checkpoints" : {
+          "href" : "/1121/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1121/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.350+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.350+0000",
+      "uuid" : "cfd6612b-8e47-48a8-aa2b-e2b95c2dfb43",
+      "inactive" : false,
+      "name" : "Availability of Buckets and carts for Mopping",
+      "reference" : "B7.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1122"
+        },
+        "standardUUID" : {
+          "href" : "81cd9440-fce4-4f3e-8255-f27b9fea7cda"
+        },
+        "checkpoints" : {
+          "href" : "/1122/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1122/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.436+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.436+0000",
+      "uuid" : "8a0613ab-70ea-447e-97a0-ec021c2c3e74",
+      "inactive" : false,
+      "name" : "Availability of Cleaning Equipment",
+      "reference" : "B7.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1123"
+        },
+        "standardUUID" : {
+          "href" : "81cd9440-fce4-4f3e-8255-f27b9fea7cda"
+        },
+        "checkpoints" : {
+          "href" : "/1123/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1123/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.530+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.530+0000",
+      "uuid" : "111d6399-b04a-4911-b656-c0e339970bb8",
+      "inactive" : false,
+      "name" : "Cleaning staff uses correct concentration of cleaning solution",
+      "reference" : "B7.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1124"
+        },
+        "standardUUID" : {
+          "href" : "81cd9440-fce4-4f3e-8255-f27b9fea7cda"
+        },
+        "checkpoints" : {
+          "href" : "/1124/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1124/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.618+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.618+0000",
+      "uuid" : "1629ee64-c9e9-4bae-af25-76c4e456c199",
+      "inactive" : false,
+      "name" : "No Cobwebs/Bird Nest/ Seepage on walls and roofs of ambulatory area",
+      "reference" : "B4.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1125"
+        },
+        "standardUUID" : {
+          "href" : "6bff8147-8409-413a-bf93-b1905a276aa5"
+        },
+        "checkpoints" : {
+          "href" : "/1125/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1125/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.718+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.718+0000",
+      "uuid" : "0a72f903-6a65-4d9c-bf92-a5e86f565722",
+      "inactive" : false,
+      "name" : "Ambulatory Areas are cleaned at least thrice in the day with wet mop",
+      "reference" : "B4.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1126"
+        },
+        "standardUUID" : {
+          "href" : "6bff8147-8409-413a-bf93-b1905a276aa5"
+        },
+        "checkpoints" : {
+          "href" : "/1126/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1126/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.803+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.803+0000",
+      "uuid" : "961adeca-9732-420a-b09a-0b5cdbed8bfa",
+      "inactive" : false,
+      "name" : "No dirt/Grease/Stains / Garbage in Ambulatory Area",
+      "reference" : "B4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1127"
+        },
+        "standardUUID" : {
+          "href" : "6bff8147-8409-413a-bf93-b1905a276aa5"
+        },
+        "checkpoints" : {
+          "href" : "/1127/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1127/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.888+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.888+0000",
+      "uuid" : "f7ec8963-5849-47d1-8af7-e77879fd4d1a",
+      "inactive" : false,
+      "name" : "Floors, walls, furniture and fixture are thoroughly cleaned once in a week.",
+      "reference" : "B4.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1128"
+        },
+        "standardUUID" : {
+          "href" : "6bff8147-8409-413a-bf93-b1905a276aa5"
+        },
+        "checkpoints" : {
+          "href" : "/1128/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1128/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:33.976+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:33.976+0000",
+      "uuid" : "980383c5-29db-40a4-97ab-31528756372b",
+      "inactive" : false,
+      "name" : "Furniture, & Fixtures are without grease and dust and cleaned daily",
+      "reference" : "B4.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1129"
+        },
+        "standardUUID" : {
+          "href" : "6bff8147-8409-413a-bf93-b1905a276aa5"
+        },
+        "checkpoints" : {
+          "href" : "/1129/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1129/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.066+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.066+0000",
+      "uuid" : "3fc98e61-32ba-4e40-9162-171db4bb9d48",
+      "inactive" : false,
+      "name" : "Recyclable and Biodegradable Wastes have segregated collection",
+      "reference" : "C7.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1130"
+        },
+        "standardUUID" : {
+          "href" : "765875a4-5393-4e02-a9c6-ac93431bc680"
+        },
+        "checkpoints" : {
+          "href" : "/1130/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1130/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.153+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.153+0000",
+      "uuid" : "34d07b14-0369-4233-8865-aeb0eaccc7be",
+      "inactive" : false,
+      "name" : "The Facility Undertakes efforts to educate patients and visitors about segregation of recyclable and biodegradable wastes",
+      "reference" : "C7.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1131"
+        },
+        "standardUUID" : {
+          "href" : "765875a4-5393-4e02-a9c6-ac93431bc680"
+        },
+        "checkpoints" : {
+          "href" : "/1131/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1131/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.240+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.240+0000",
+      "uuid" : "5cf52060-6edf-4ab3-a1bd-3b48168ddd43",
+      "inactive" : false,
+      "name" : "Availability of Compost Pit within the premises",
+      "reference" : "C7.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1132"
+        },
+        "standardUUID" : {
+          "href" : "765875a4-5393-4e02-a9c6-ac93431bc680"
+        },
+        "checkpoints" : {
+          "href" : "/1132/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1132/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.326+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.326+0000",
+      "uuid" : "894555ad-56b8-4a50-8c83-c3fa26776807",
+      "inactive" : false,
+      "name" : "General Waste is not mixed with infected waste",
+      "reference" : "C7.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1133"
+        },
+        "standardUUID" : {
+          "href" : "765875a4-5393-4e02-a9c6-ac93431bc680"
+        },
+        "checkpoints" : {
+          "href" : "/1133/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1133/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.412+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.412+0000",
+      "uuid" : "9bf254b2-1a6a-43c2-b5cf-3757f8b68e5a",
+      "inactive" : false,
+      "name" : "The facility has introduced innovations in managing General Waste",
+      "reference" : "C7.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1134"
+        },
+        "standardUUID" : {
+          "href" : "765875a4-5393-4e02-a9c6-ac93431bc680"
+        },
+        "checkpoints" : {
+          "href" : "/1134/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1134/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.499+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.499+0000",
+      "uuid" : "13331184-b47e-4435-8f49-5dba9ab31fa2",
+      "inactive" : false,
+      "name" : "The facility has started undertaking actions, which are to be complied by March 2018",
+      "reference" : "C1.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1135"
+        },
+        "standardUUID" : {
+          "href" : "d0ad2a42-3d63-48db-9c7d-ccfdcd121587"
+        },
+        "checkpoints" : {
+          "href" : "/1135/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1135/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.589+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.589+0000",
+      "uuid" : "977f1a69-38b2-4f71-a9e9-453490cea6da",
+      "inactive" : false,
+      "name" : "The facility has implemented Biomedical Waste Rules",
+      "reference" : "C1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1136"
+        },
+        "standardUUID" : {
+          "href" : "d0ad2a42-3d63-48db-9c7d-ccfdcd121587"
+        },
+        "checkpoints" : {
+          "href" : "/1136/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1136/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.681+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.681+0000",
+      "uuid" : "fe272ac1-eff8-4332-ac69-eac32a08e171",
+      "inactive" : false,
+      "name" : "An existing committee or newly constituted committee for review and monitoring of BMW management at DH/CHC level",
+      "reference" : "C1.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1137"
+        },
+        "standardUUID" : {
+          "href" : "d0ad2a42-3d63-48db-9c7d-ccfdcd121587"
+        },
+        "checkpoints" : {
+          "href" : "/1137/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1137/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.768+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.768+0000",
+      "uuid" : "74c13496-483c-4b07-b317-1516489ac58e",
+      "inactive" : false,
+      "name" : "The Hospital leadership is aware of Biomedical Waste Rules 2016 including key changes in the rule vis~a~vis Biomedical Waste Rule 1998.",
+      "reference" : "C1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1138"
+        },
+        "standardUUID" : {
+          "href" : "d0ad2a42-3d63-48db-9c7d-ccfdcd121587"
+        },
+        "checkpoints" : {
+          "href" : "/1138/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1138/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.856+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.856+0000",
+      "uuid" : "d323cd73-7cbf-4852-ba01-4dbb38806894",
+      "inactive" : false,
+      "name" : "The facility has started undertaking actions, which are to be complied by March 2017",
+      "reference" : "C1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1139"
+        },
+        "standardUUID" : {
+          "href" : "d0ad2a42-3d63-48db-9c7d-ccfdcd121587"
+        },
+        "checkpoints" : {
+          "href" : "/1139/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1139/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:34.943+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:34.943+0000",
+      "uuid" : "bac280f7-8783-4e5d-9443-1defadba0bc0",
+      "inactive" : false,
+      "name" : "Disinfected Glassware is stored as per protocol given in Schedule I of the BMW Rules 2016",
+      "reference" : "C3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1140"
+        },
+        "standardUUID" : {
+          "href" : "3499d186-519e-49f5-b27c-d5f42f37fc55"
+        },
+        "checkpoints" : {
+          "href" : "/1140/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1140/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.029+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.029+0000",
+      "uuid" : "a0866147-a967-441f-a2f1-937ee602d7d8",
+      "inactive" : false,
+      "name" : "Sharp Waste is stored in Puncture proof containers",
+      "reference" : "C3.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1141"
+        },
+        "standardUUID" : {
+          "href" : "3499d186-519e-49f5-b27c-d5f42f37fc55"
+        },
+        "checkpoints" : {
+          "href" : "/1141/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1141/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.118+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.118+0000",
+      "uuid" : "09bf4851-2f46-4d5f-bbb2-fe7b1ff7e7c3",
+      "inactive" : false,
+      "name" : "Disinfection of Broken / Discarded Glassware is done as per recommended procedure",
+      "reference" : "C3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1142"
+        },
+        "standardUUID" : {
+          "href" : "3499d186-519e-49f5-b27c-d5f42f37fc55"
+        },
+        "checkpoints" : {
+          "href" : "/1142/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1142/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.205+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.205+0000",
+      "uuid" : "9eea1a30-9d94-4a04-b579-f79453b3a17a",
+      "inactive" : false,
+      "name" : "The Staff uses needle cutters for cutting/burning the syringe hub",
+      "reference" : "C3.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1143"
+        },
+        "standardUUID" : {
+          "href" : "3499d186-519e-49f5-b27c-d5f42f37fc55"
+        },
+        "checkpoints" : {
+          "href" : "/1143/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1143/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.296+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.296+0000",
+      "uuid" : "92ea2e72-fed9-4841-9edf-22d12efbdd5a",
+      "inactive" : false,
+      "name" : "Discarded / contaminated linen is disposed as per procedure given in the BMW Rules 2016",
+      "reference" : "C5.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1144"
+        },
+        "standardUUID" : {
+          "href" : "ea86ea22-cf9c-4bf0-88c1-2ab6af0cd72c"
+        },
+        "checkpoints" : {
+          "href" : "/1144/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1144/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.403+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.403+0000",
+      "uuid" : "40c14070-fd8c-49e9-b6c3-f6cbec7d2cd7",
+      "inactive" : false,
+      "name" : "The Health Facility has adequate arrangements for disposal of Biomedical waste",
+      "reference" : "C5.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1145"
+        },
+        "standardUUID" : {
+          "href" : "ea86ea22-cf9c-4bf0-88c1-2ab6af0cd72c"
+        },
+        "checkpoints" : {
+          "href" : "/1145/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1145/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.493+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.493+0000",
+      "uuid" : "770e291b-24fc-403c-b719-9ca04fb7433b",
+      "inactive" : false,
+      "name" : "Deep Burial Pit is constructed as per norms given in the Biomedical Waste Rules 2016",
+      "reference" : "C5.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1146"
+        },
+        "standardUUID" : {
+          "href" : "ea86ea22-cf9c-4bf0-88c1-2ab6af0cd72c"
+        },
+        "checkpoints" : {
+          "href" : "/1146/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1146/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.582+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.582+0000",
+      "uuid" : "41aa8489-4961-4b5b-bf43-88f2de1dfb5b",
+      "inactive" : false,
+      "name" : "Disposal of Expired or discarded medicine is done as per protocol given in Schedule I of BMW Rules 2016",
+      "reference" : "C5.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1147"
+        },
+        "standardUUID" : {
+          "href" : "ea86ea22-cf9c-4bf0-88c1-2ab6af0cd72c"
+        },
+        "checkpoints" : {
+          "href" : "/1147/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1147/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.675+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.675+0000",
+      "uuid" : "4c3ee1b9-41ec-49cd-9ab3-68e0fdd71b2f",
+      "inactive" : false,
+      "name" : "Recyclable waste is disposed as per procedure given in the BMW Rules 2016",
+      "reference" : "C5.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1148"
+        },
+        "standardUUID" : {
+          "href" : "ea86ea22-cf9c-4bf0-88c1-2ab6af0cd72c"
+        },
+        "checkpoints" : {
+          "href" : "/1148/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1148/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.763+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.763+0000",
+      "uuid" : "363f4421-4fdb-40ec-8c10-53378ad1b26f",
+      "inactive" : false,
+      "name" : "Availability of Bins and liners for segregated collection of waste at point of use",
+      "reference" : "C9.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1149"
+        },
+        "standardUUID" : {
+          "href" : "cffb658d-4508-44df-8b1a-1be66e409992"
+        },
+        "checkpoints" : {
+          "href" : "/1149/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1149/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.866+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.866+0000",
+      "uuid" : "6501a38a-8dcf-433a-9d7f-5ea1a4c30b70",
+      "inactive" : false,
+      "name" : "Availability of Needle/ Hub cutter and puncture proof boxes",
+      "reference" : "C9.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1150"
+        },
+        "standardUUID" : {
+          "href" : "cffb658d-4508-44df-8b1a-1be66e409992"
+        },
+        "checkpoints" : {
+          "href" : "/1150/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1150/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:35.958+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:35.958+0000",
+      "uuid" : "0b9525bc-7835-47a0-9aea-33a66695f930",
+      "inactive" : false,
+      "name" : "Availability of Sodium Hypochlorite Solution",
+      "reference" : "C9.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1151"
+        },
+        "standardUUID" : {
+          "href" : "cffb658d-4508-44df-8b1a-1be66e409992"
+        },
+        "checkpoints" : {
+          "href" : "/1151/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1151/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.048+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.048+0000",
+      "uuid" : "781a0062-00f5-473b-9a09-2914097086db",
+      "inactive" : false,
+      "name" : "Availability of trolleys for waste collection and transportation",
+      "reference" : "C9.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1152"
+        },
+        "standardUUID" : {
+          "href" : "cffb658d-4508-44df-8b1a-1be66e409992"
+        },
+        "checkpoints" : {
+          "href" : "/1152/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1152/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.135+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.135+0000",
+      "uuid" : "02c1c8b1-02a5-4cdf-9057-3cf7bbc3c9b5",
+      "inactive" : false,
+      "name" : "Availability and supply of personal protective equipment",
+      "reference" : "C9.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1153"
+        },
+        "standardUUID" : {
+          "href" : "cffb658d-4508-44df-8b1a-1be66e409992"
+        },
+        "checkpoints" : {
+          "href" : "/1153/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1153/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.224+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.224+0000",
+      "uuid" : "de574562-a695-4047-8419-22830b5a9698",
+      "inactive" : false,
+      "name" : "Availability of Mercury Spill Management Kit",
+      "reference" : "C6.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1154"
+        },
+        "standardUUID" : {
+          "href" : "c2cef705-070e-491f-b3d5-d97051ed8c70"
+        },
+        "checkpoints" : {
+          "href" : "/1154/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1154/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.314+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.314+0000",
+      "uuid" : "bcd22dff-bced-47da-b9f4-0da2b9a3fb4f",
+      "inactive" : false,
+      "name" : "The Staff is aware of Mercury Spill management",
+      "reference" : "C6.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1155"
+        },
+        "standardUUID" : {
+          "href" : "c2cef705-070e-491f-b3d5-d97051ed8c70"
+        },
+        "checkpoints" : {
+          "href" : "/1155/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1155/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.404+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.404+0000",
+      "uuid" : "80b1c0a5-5c57-4b90-8714-f41222167213",
+      "inactive" : false,
+      "name" : "Disposal of Disinfectant solution like Glutaraldehyde",
+      "reference" : "C6.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1156"
+        },
+        "standardUUID" : {
+          "href" : "c2cef705-070e-491f-b3d5-d97051ed8c70"
+        },
+        "checkpoints" : {
+          "href" : "/1156/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1156/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.496+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.496+0000",
+      "uuid" : "9396fa52-3919-4dfe-adc0-ca8d33369f0c",
+      "inactive" : false,
+      "name" : "Disposal of Radiographic Developer and Fixer",
+      "reference" : "C6.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1157"
+        },
+        "standardUUID" : {
+          "href" : "c2cef705-070e-491f-b3d5-d97051ed8c70"
+        },
+        "checkpoints" : {
+          "href" : "/1157/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1157/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.590+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.590+0000",
+      "uuid" : "65e72a07-9b83-4195-a6d8-c12b43180146",
+      "inactive" : false,
+      "name" : "Runoff is drained into the municipal drain",
+      "reference" : "C8.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1158"
+        },
+        "standardUUID" : {
+          "href" : "077de271-83c7-41b6-9684-1fe56f39533d"
+        },
+        "checkpoints" : {
+          "href" : "/1158/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1158/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.677+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.677+0000",
+      "uuid" : "e764b2ba-602c-4711-a099-3f5721aeb472",
+      "inactive" : false,
+      "name" : "Sullage is managed scientifically",
+      "reference" : "C8.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1159"
+        },
+        "standardUUID" : {
+          "href" : "077de271-83c7-41b6-9684-1fe56f39533d"
+        },
+        "checkpoints" : {
+          "href" : "/1159/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1159/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.770+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.770+0000",
+      "uuid" : "b3ee0f54-1593-446f-9be9-56bca74c16f4",
+      "inactive" : false,
+      "name" : "The laboratory has a functional protocol for managing discarded samples",
+      "reference" : "C8.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1160"
+        },
+        "standardUUID" : {
+          "href" : "077de271-83c7-41b6-9684-1fe56f39533d"
+        },
+        "checkpoints" : {
+          "href" : "/1160/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1160/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.857+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.857+0000",
+      "uuid" : "23a2592c-15e0-44c0-bf12-da6d69358bf6",
+      "inactive" : false,
+      "name" : "Body fluids, Secretions in suction apparatus, blood and other exudates in OT, Labour room, minor OT, Dressing room are disposed only after treatment",
+      "reference" : "C8.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1161"
+        },
+        "standardUUID" : {
+          "href" : "077de271-83c7-41b6-9684-1fe56f39533d"
+        },
+        "checkpoints" : {
+          "href" : "/1161/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1161/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:36.947+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:36.947+0000",
+      "uuid" : "9390fc1d-707e-41de-a495-adf37a7829e6",
+      "inactive" : false,
+      "name" : "The Facility has treatment facility for managing infectious liquid waste",
+      "reference" : "C8.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1162"
+        },
+        "standardUUID" : {
+          "href" : "077de271-83c7-41b6-9684-1fe56f39533d"
+        },
+        "checkpoints" : {
+          "href" : "/1162/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1162/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.037+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.037+0000",
+      "uuid" : "58c416cb-26d8-4ce8-ba31-907366f7074e",
+      "inactive" : false,
+      "name" : "Segregation of BMW is done as per BMW management rule,2016",
+      "reference" : "C2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1163"
+        },
+        "standardUUID" : {
+          "href" : "e44acb7f-5f48-45e7-b916-185c9cb21c30"
+        },
+        "checkpoints" : {
+          "href" : "/1163/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1163/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.131+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.131+0000",
+      "uuid" : "7f7ecc17-8480-45c8-9b27-2be22c147d57",
+      "inactive" : false,
+      "name" : "Biomedical waste bins are covered",
+      "reference" : "C2.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1164"
+        },
+        "standardUUID" : {
+          "href" : "e44acb7f-5f48-45e7-b916-185c9cb21c30"
+        },
+        "checkpoints" : {
+          "href" : "/1164/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1164/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.221+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.221+0000",
+      "uuid" : "4985a855-ea42-403d-aaaf-3a54383eb5df",
+      "inactive" : false,
+      "name" : "Work instructions for segregation and handling of Biomedical waste has been displayed prominently",
+      "reference" : "C2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1165"
+        },
+        "standardUUID" : {
+          "href" : "e44acb7f-5f48-45e7-b916-185c9cb21c30"
+        },
+        "checkpoints" : {
+          "href" : "/1165/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1165/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.526+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.526+0000",
+      "uuid" : "3717003c-0b96-459e-b411-15166c52ab6f",
+      "inactive" : false,
+      "name" : "The facility has linkage with a CWTF Operator or has deep burial pit (with prior approval of the prescribed authority)",
+      "reference" : "C2.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1166"
+        },
+        "standardUUID" : {
+          "href" : "e44acb7f-5f48-45e7-b916-185c9cb21c30"
+        },
+        "checkpoints" : {
+          "href" : "/1166/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1166/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.615+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.615+0000",
+      "uuid" : "4192cf5b-e56a-44c0-9418-5824a3b3a37e",
+      "inactive" : false,
+      "name" : "Transportation of biomedical waste is done in closed container/trolley",
+      "reference" : "C2.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1167"
+        },
+        "standardUUID" : {
+          "href" : "e44acb7f-5f48-45e7-b916-185c9cb21c30"
+        },
+        "checkpoints" : {
+          "href" : "/1167/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1167/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.703+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.703+0000",
+      "uuid" : "ab60cb12-a40a-42e8-9dfb-368b429a154b",
+      "inactive" : false,
+      "name" : "Dedicated Storage facility is available for biomedical waste and its has biohazard symbol displayed",
+      "reference" : "C4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1168"
+        },
+        "standardUUID" : {
+          "href" : "0e2d9602-4d7f-46bd-b650-4a910bd48850"
+        },
+        "checkpoints" : {
+          "href" : "/1168/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1168/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.793+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.793+0000",
+      "uuid" : "b26940f0-298e-421c-984b-db98b8f9200d",
+      "inactive" : false,
+      "name" : "No Biomedical waste is stored for more than 48 Hours",
+      "reference" : "C4.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1169"
+        },
+        "standardUUID" : {
+          "href" : "0e2d9602-4d7f-46bd-b650-4a910bd48850"
+        },
+        "checkpoints" : {
+          "href" : "/1169/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1169/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.881+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.881+0000",
+      "uuid" : "544d2e06-d249-4519-828c-bbb8f948d414",
+      "inactive" : false,
+      "name" : "The Storage facility is secured against pilferage and reach of animal and rodents.",
+      "reference" : "C4.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1170"
+        },
+        "standardUUID" : {
+          "href" : "0e2d9602-4d7f-46bd-b650-4a910bd48850"
+        },
+        "checkpoints" : {
+          "href" : "/1170/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1170/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:37.970+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:37.970+0000",
+      "uuid" : "4e0584c6-474e-4cab-b65e-64d2950e319b",
+      "inactive" : false,
+      "name" : "The Storage facility is located away from the patient area and has connectivity of a motorable road.",
+      "reference" : "C4.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1171"
+        },
+        "standardUUID" : {
+          "href" : "0e2d9602-4d7f-46bd-b650-4a910bd48850"
+        },
+        "checkpoints" : {
+          "href" : "/1171/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1171/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.082+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.082+0000",
+      "uuid" : "8bcbd65e-256a-4f74-82d7-65b94efa0373",
+      "inactive" : false,
+      "name" : "The storage facility has hand-washing facilities for the workers",
+      "reference" : "C4.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1172"
+        },
+        "standardUUID" : {
+          "href" : "0e2d9602-4d7f-46bd-b650-4a910bd48850"
+        },
+        "checkpoints" : {
+          "href" : "/1172/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1172/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.176+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.176+0000",
+      "uuid" : "0f82a93c-9c11-48de-ba76-374c0138691f",
+      "inactive" : false,
+      "name" : "The Health facility maintains its website and annual report is uploaded",
+      "reference" : "C10.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1173"
+        },
+        "standardUUID" : {
+          "href" : "4eab3aa9-cdb9-486c-88cc-30f0ba3a6fe3"
+        },
+        "checkpoints" : {
+          "href" : "/1173/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1173/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.268+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.268+0000",
+      "uuid" : "d817caa7-07a5-4e78-acd6-dece71c0d384",
+      "inactive" : false,
+      "name" : "The Health Facility has a system of review and monitoring of BMW Management through an existing committee or by forming a new committee",
+      "reference" : "C10.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1174"
+        },
+        "standardUUID" : {
+          "href" : "4eab3aa9-cdb9-486c-88cc-30f0ba3a6fe3"
+        },
+        "checkpoints" : {
+          "href" : "/1174/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1174/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.357+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.357+0000",
+      "uuid" : "22e9f27b-3c44-4da3-a10d-426a1bbc778e",
+      "inactive" : false,
+      "name" : "The Health Facility has a valid authorization for Bio Medical waste Management from the prescribed authority",
+      "reference" : "C10.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1175"
+        },
+        "standardUUID" : {
+          "href" : "4eab3aa9-cdb9-486c-88cc-30f0ba3a6fe3"
+        },
+        "checkpoints" : {
+          "href" : "/1175/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1175/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.446+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.446+0000",
+      "uuid" : "6cb4b63f-f726-40df-9261-cecc2e40385d",
+      "inactive" : false,
+      "name" : "The Health Facility maintains records, as required under the Biomedical Waste Rules 2016",
+      "reference" : "C10.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1176"
+        },
+        "standardUUID" : {
+          "href" : "4eab3aa9-cdb9-486c-88cc-30f0ba3a6fe3"
+        },
+        "checkpoints" : {
+          "href" : "/1176/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1176/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.536+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.536+0000",
+      "uuid" : "5fbd4b6b-0907-4a71-bf81-2a1e15ca42f9",
+      "inactive" : false,
+      "name" : "The Health Facility submits Annual report to pollution control board",
+      "reference" : "C10.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1177"
+        },
+        "standardUUID" : {
+          "href" : "4eab3aa9-cdb9-486c-88cc-30f0ba3a6fe3"
+        },
+        "checkpoints" : {
+          "href" : "/1177/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1177/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.623+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.623+0000",
+      "uuid" : "069f7be9-8de3-4ed6-986a-49303d0ed2ab",
+      "inactive" : false,
+      "name" : "Regular microbiological surveillance of Critical areas",
+      "reference" : "D9.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1178"
+        },
+        "standardUUID" : {
+          "href" : "c637e213-b782-4dac-92c8-4149a6ea8925"
+        },
+        "checkpoints" : {
+          "href" : "/1178/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1178/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.715+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.715+0000",
+      "uuid" : "887d7bb1-ac3a-475a-ac98-95bc49adb8df",
+      "inactive" : false,
+      "name" : "Hospital measures Surgical Site Infection Rates",
+      "reference" : "D9.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1179"
+        },
+        "standardUUID" : {
+          "href" : "c637e213-b782-4dac-92c8-4149a6ea8925"
+        },
+        "checkpoints" : {
+          "href" : "/1179/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1179/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.818+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.818+0000",
+      "uuid" : "d620a3fd-cb07-46fc-b7a1-75e6aa1248b5",
+      "inactive" : false,
+      "name" : "Hospital measures Device Related HAI rates",
+      "reference" : "D9.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1180"
+        },
+        "standardUUID" : {
+          "href" : "c637e213-b782-4dac-92c8-4149a6ea8925"
+        },
+        "checkpoints" : {
+          "href" : "/1180/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1180/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:38.915+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:38.915+0000",
+      "uuid" : "ac11c4aa-8820-40db-b7d2-cbe37611105c",
+      "inactive" : false,
+      "name" : "Hospital takes corrective Action on occurrence of HAIs",
+      "reference" : "D9.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1181"
+        },
+        "standardUUID" : {
+          "href" : "c637e213-b782-4dac-92c8-4149a6ea8925"
+        },
+        "checkpoints" : {
+          "href" : "/1181/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1181/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.002+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.002+0000",
+      "uuid" : "515b9aed-a252-4b4f-940b-45cfad87c98c",
+      "inactive" : false,
+      "name" : "Hospital measures Blood Related and Respiratory Tract HAI",
+      "reference" : "D9.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1182"
+        },
+        "standardUUID" : {
+          "href" : "c637e213-b782-4dac-92c8-4149a6ea8925"
+        },
+        "checkpoints" : {
+          "href" : "/1182/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1182/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.091+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.091+0000",
+      "uuid" : "6a66c65e-b18c-4f61-bcfc-2901e6e1b082",
+      "inactive" : false,
+      "name" : "Maintenance of air exchanges in OT and ICU",
+      "reference" : "D10.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1183"
+        },
+        "standardUUID" : {
+          "href" : "5fddd4cd-117d-4a5e-85f4-6e0aaa60582c"
+        },
+        "checkpoints" : {
+          "href" : "/1183/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1183/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.175+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.175+0000",
+      "uuid" : "5c47f7b1-761b-4fe8-8d32-9d95d2b2ca3d",
+      "inactive" : false,
+      "name" : "Maintenance of positive air pressure in OT and ICU",
+      "reference" : "D10.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1184"
+        },
+        "standardUUID" : {
+          "href" : "5fddd4cd-117d-4a5e-85f4-6e0aaa60582c"
+        },
+        "checkpoints" : {
+          "href" : "/1184/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1184/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.264+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.264+0000",
+      "uuid" : "9fda5b6b-9a44-4e91-af26-6a7c7a19a528",
+      "inactive" : false,
+      "name" : "Carbolization of OT and Labour Room",
+      "reference" : "D10.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1185"
+        },
+        "standardUUID" : {
+          "href" : "5fddd4cd-117d-4a5e-85f4-6e0aaa60582c"
+        },
+        "checkpoints" : {
+          "href" : "/1185/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1185/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.351+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.351+0000",
+      "uuid" : "fe8b333a-085a-4341-b35d-0355daa66a6f",
+      "inactive" : false,
+      "name" : "Maintenance of Layout in OT",
+      "reference" : "D10.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1186"
+        },
+        "standardUUID" : {
+          "href" : "5fddd4cd-117d-4a5e-85f4-6e0aaa60582c"
+        },
+        "checkpoints" : {
+          "href" : "/1186/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1186/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.440+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.440+0000",
+      "uuid" : "df6441eb-fd7d-4322-8a3a-5ba019c0273c",
+      "inactive" : false,
+      "name" : "General and patient traffic are segregated in Hospitals",
+      "reference" : "D10.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1187"
+        },
+        "standardUUID" : {
+          "href" : "5fddd4cd-117d-4a5e-85f4-6e0aaa60582c"
+        },
+        "checkpoints" : {
+          "href" : "/1187/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1187/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.533+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.533+0000",
+      "uuid" : "9c8ace54-0353-4d6e-a082-232f3c244057",
+      "inactive" : false,
+      "name" : "Correct method of wearing and removing gloves",
+      "reference" : "D3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1188"
+        },
+        "standardUUID" : {
+          "href" : "0efe6504-be2a-4c31-8615-8f4bf2a41bb5"
+        },
+        "checkpoints" : {
+          "href" : "/1188/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1188/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.618+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.618+0000",
+      "uuid" : "d0cb222a-6829-455e-8d1e-f76a8325a2c5",
+      "inactive" : false,
+      "name" : "Correct Method of wearing mask and cap",
+      "reference" : "D3.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1189"
+        },
+        "standardUUID" : {
+          "href" : "0efe6504-be2a-4c31-8615-8f4bf2a41bb5"
+        },
+        "checkpoints" : {
+          "href" : "/1189/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1189/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.707+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.707+0000",
+      "uuid" : "54ae2f12-486f-47a7-bc42-06dd80eaa213",
+      "inactive" : false,
+      "name" : "The Staff is aware of Standard Precautions",
+      "reference" : "D3.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1190"
+        },
+        "standardUUID" : {
+          "href" : "0efe6504-be2a-4c31-8615-8f4bf2a41bb5"
+        },
+        "checkpoints" : {
+          "href" : "/1190/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1190/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.793+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.793+0000",
+      "uuid" : "a8d4dcc0-7f8a-4bd7-9e8e-708918a0c268",
+      "inactive" : false,
+      "name" : "The staff is aware of use of gloves, when to use (occasion) and its type",
+      "reference" : "D3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1191"
+        },
+        "standardUUID" : {
+          "href" : "0efe6504-be2a-4c31-8615-8f4bf2a41bb5"
+        },
+        "checkpoints" : {
+          "href" : "/1191/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1191/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.884+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.884+0000",
+      "uuid" : "64492fc9-3041-4ffd-af56-bf73a64673a1",
+      "inactive" : false,
+      "name" : "No re-use of disposable personal protective equipment",
+      "reference" : "D3.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1192"
+        },
+        "standardUUID" : {
+          "href" : "0efe6504-be2a-4c31-8615-8f4bf2a41bb5"
+        },
+        "checkpoints" : {
+          "href" : "/1192/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1192/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:39.985+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:39.985+0000",
+      "uuid" : "4972077c-9a39-4d0c-912f-b6d3a8dcb4d4",
+      "inactive" : false,
+      "name" : "Sterility of autoclaved pack maintained during storage",
+      "reference" : "D5.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1193"
+        },
+        "standardUUID" : {
+          "href" : "ea99a8cd-d8d0-4e5f-b200-f516b1c7506a"
+        },
+        "checkpoints" : {
+          "href" : "/1193/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1193/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:40.076+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:40.076+0000",
+      "uuid" : "f86e4d74-8c50-45b6-bb2b-e97ec8fdca4a",
+      "inactive" : false,
+      "name" : "Adherence to Protocols for autoclaving",
+      "reference" : "D5.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1194"
+        },
+        "standardUUID" : {
+          "href" : "ea99a8cd-d8d0-4e5f-b200-f516b1c7506a"
+        },
+        "checkpoints" : {
+          "href" : "/1194/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1194/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:40.163+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:40.163+0000",
+      "uuid" : "48d21462-8b2e-4e1d-8289-23ac637f10f6",
+      "inactive" : false,
+      "name" : "Chemical Sterilization of instruments done as per protocol",
+      "reference" : "D5.4",
+      "_links" : {
+        "self" : {
+          "href" : "/1195"
+        },
+        "standardUUID" : {
+          "href" : "ea99a8cd-d8d0-4e5f-b200-f516b1c7506a"
+        },
+        "checkpoints" : {
+          "href" : "/1195/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1195/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:40.252+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:40.252+0000",
+      "uuid" : "dfb3b5f5-68cc-4338-9c66-d97fb13744f8",
+      "inactive" : false,
+      "name" : "Adherence to Protocol for High Level disinfection",
+      "reference" : "D5.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1196"
+        },
+        "standardUUID" : {
+          "href" : "ea99a8cd-d8d0-4e5f-b200-f516b1c7506a"
+        },
+        "checkpoints" : {
+          "href" : "/1196/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1196/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:40.341+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:40.341+0000",
+      "uuid" : "1e8f644f-750e-4f8b-8374-49ea563480f6",
+      "inactive" : false,
+      "name" : "Use of Signal Locks for sterilization",
+      "reference" : "D5.3",
+      "_links" : {
+        "self" : {
+          "href" : "/1197"
+        },
+        "standardUUID" : {
+          "href" : "ea99a8cd-d8d0-4e5f-b200-f516b1c7506a"
+        },
+        "checkpoints" : {
+          "href" : "/1197/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1197/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:40.434+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:40.434+0000",
+      "uuid" : "2d458d3a-0b6c-4a32-9ce5-d2ddc22296c9",
+      "inactive" : false,
+      "name" : "Availability of spill management Kit",
+      "reference" : "D6.2",
+      "_links" : {
+        "self" : {
+          "href" : "/1198"
+        },
+        "standardUUID" : {
+          "href" : "78ba64bb-0fb2-4ff3-8bb6-3f9ac333de47"
+        },
+        "checkpoints" : {
+          "href" : "/1198/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1198/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:40.520+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:40.520+0000",
+      "uuid" : "64afbb7b-9bac-4f75-913f-8b835a070d06",
+      "inactive" : false,
+      "name" : "Staff is aware of management of large spills",
+      "reference" : "D6.5",
+      "_links" : {
+        "self" : {
+          "href" : "/1199"
+        },
+        "standardUUID" : {
+          "href" : "78ba64bb-0fb2-4ff3-8bb6-3f9ac333de47"
+        },
+        "checkpoints" : {
+          "href" : "/1199/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1199/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T12:00:40.607+0000",
+      "lastModifiedDate" : "2017-11-06T12:00:40.607+0000",
+      "uuid" : "f5c0e70a-7e8b-4811-92a1-6dda32967935",
+      "inactive" : false,
+      "name" : "Staff is aware of how manage small spills",
+      "reference" : "D6.1",
+      "_links" : {
+        "self" : {
+          "href" : "/1200"
+        },
+        "standardUUID" : {
+          "href" : "78ba64bb-0fb2-4ff3-8bb6-3f9ac333de47"
+        },
+        "checkpoints" : {
+          "href" : "/1200/checkpoints"
+        },
+        "standard" : {
+          "href" : "/1200/standard"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "first" : {
+      "href" : "1900-01-01T00:00:00.001Z&page=0&size=200"
+    },
+    "prev" : {
+      "href" : "1900-01-01T00:00:00.001Z&page=4&size=200"
+    },
+    "self" : {
+      "href" : "1900-01-01T00:00:00.001Z&size=200&page=5"
+    },
+    "next" : {
+      "href" : "1900-01-01T00:00:00.001Z&page=6&size=200"
+    },
+    "last" : {
+      "href" : "1900-01-01T00:00:00.001Z&page=8&size=200"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 1778,
+    "totalPages" : 9,
+    "number" : 5
+  }
+}

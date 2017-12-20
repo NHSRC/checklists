@@ -1,0 +1,56 @@
+{
+  "_embedded" : {
+    "district" : [ {
+      "createdDate" : "2017-11-06T10:11:06.989+0000",
+      "lastModifiedDate" : "2017-11-06T10:11:06.989+0000",
+      "uuid" : "8f8f8a4e-7659-4a65-8455-d8cc88834241",
+      "inactive" : false,
+      "name" : "South Goa",
+      "_links" : {
+        "self" : {
+          "href" : "/311"
+        },
+        "stateUUID" : {
+          "href" : "b0de460d-4d7f-476a-afd0-4eeb209df651"
+        },
+        "facilities" : {
+          "href" : "/311/facilities"
+        },
+        "state" : {
+          "href" : "/311/state"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:11:07.122+0000",
+      "lastModifiedDate" : "2017-11-06T10:11:07.122+0000",
+      "uuid" : "cc542b6c-7e97-4179-8313-883287925658",
+      "inactive" : false,
+      "name" : "North Goa",
+      "_links" : {
+        "self" : {
+          "href" : "/312"
+        },
+        "stateUUID" : {
+          "href" : "b0de460d-4d7f-476a-afd0-4eeb209df651"
+        },
+        "facilities" : {
+          "href" : "/312/facilities"
+        },
+        "state" : {
+          "href" : "/312/state"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "/search/lastModifiedByState?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0&name=Goa"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 2,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}
