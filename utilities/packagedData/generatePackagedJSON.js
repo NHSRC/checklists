@@ -3,10 +3,12 @@ var fs = require('fs');
 var generate = function (inputBaseDir, outputDir) {
     var files = fs.readdirSync(inputBaseDir);
     var i = 0;
-    var message = "[";
+    var message = "class PackagedJSON {\n" +
+        "    static getFiles() {\n" +
+        "        return [";
     files.forEach(function (file) {
         if (file.indexOf(".json") >= 0 && file !== '.' && file !== '..')
-            message += "require('../../config/" + file + "),";
+            message += "require('../../config/" + file + "'),";
     });
 
     files.forEach(function (file) {
@@ -19,6 +21,11 @@ var generate = function (inputBaseDir, outputDir) {
     });
     message += "];";
     message = message.replace(",];", "];");
+
+    message += "}\n" +
+        "}\n" +
+        "\n" +
+        "export default PackagedJSON;";
 
     fs.writeFileSync(outputDir + '/PackagedJSON.js', message);
 };
