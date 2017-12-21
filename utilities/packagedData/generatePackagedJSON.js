@@ -7,8 +7,9 @@ var generate = function (inputBaseDir, outputDir) {
         "    static getFiles() {\n" +
         "        return [";
     files.forEach(function (file) {
-        if (file.indexOf(".json") >= 0 && file !== '.' && file !== '..')
-            message += "require('../../config/" + file + "'),";
+        if (file.indexOf(".json") >= 0 && file !== '.' && file !== '..') {
+            message += "require('../../config/" + i++ + ".json'),";
+        }
     });
 
     files.forEach(function (file) {
