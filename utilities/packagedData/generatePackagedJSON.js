@@ -5,28 +5,35 @@ var generate = function (inputBaseDir, outputDir) {
     var i = 0;
     var message = "class PackagedJSON {\n" +
         "    static getFiles() {\n" +
-        "        return [";
+        "        return new Map([['common', [";
     files.forEach(function (file) {
         if (file.indexOf(".json") >= 0 && file !== '.' && file !== '..') {
             message += "require('../../config/" + i++ + ".json'),";
         }
     });
+    message += "]], ";
+    message = message.replace("),]]", ")]]");
 
     files.forEach(function (file) {
         if (file.indexOf(".json") < 0 && file !== '.' && file !== '..') {
             var stateFiles = fs.readdirSync(inputBaseDir + "/" + file);
+            message += "['" + file + "', [";
             stateFiles.forEach(function (stateFile) {
                 message += "require('../../config/" + file + "/" + stateFile + "'),";
             });
+            message += "]],";
+            message = message.replace("),]]", ")]]");
         }
     });
-    message += "];";
-    message = message.replace(",];", "];");
+
+    message += "]);";
 
     message += "}\n" +
         "}\n" +
         "\n" +
         "export default PackagedJSON;";
+
+    message = message.replace(")]],]);}", ")]]]);}");
 
     fs.writeFileSync(outputDir + '/PackagedJSON.js', message);
 };
