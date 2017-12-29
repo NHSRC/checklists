@@ -17,9 +17,13 @@ var generate = function (inputBaseDir, outputDir) {
     files.forEach(function (file) {
         if (file.indexOf(".json") < 0 && file !== '.' && file !== '..') {
             var stateFiles = fs.readdirSync(inputBaseDir + "/" + file);
+            var stateFileNumbers = stateFiles.map(function(stateFileName) {
+                return Number(stateFileName.replace('.json', ''));
+            });
+
             message += "['" + file + "', [";
-            stateFiles.forEach(function (stateFile) {
-                message += "require('../../config/" + file + "/" + stateFile + "'),";
+            stateFileNumbers.sort(function(a, b) {return a - b;}).forEach(function (stateFileNumber) {
+                message += "require('../../config/" + file + "/" + stateFileNumber + ".json'),";
             });
             message += "]],";
             message = message.replace("),]]", ")]]");
