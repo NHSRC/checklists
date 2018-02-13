@@ -1000,7 +1000,6 @@ select verify_checkpoint('District Hospital (DH)', 'Ped Ward', 'E7.5', 'Patient 
 select verify_checkpoint('District Hospital (DH)', 'Ped Ward', 'E8.1', 'Day to day progress of patient is recorded in BHT');
 select verify_checkpoint('District Hospital (DH)', 'Ped Ward', 'E8.2', 'Treatment plan, first orders are written on BHT');
 select verify_checkpoint('District Hospital (DH)', 'Ped Ward', 'E8.3', 'Maintenance of treatment chart/treatment registers');
-select verify_checkpoint('District Hospital (DH)', 'Ped Ward', 'E8.4', 'Procedures performed are written on patients records');
 select verify_checkpoint('District Hospital (DH)', 'Ped Ward', 'E8.5', 'Standard Format for bed head ticket/ Patient case sheet available as per state guidelines');
 select verify_checkpoint('District Hospital (DH)', 'Ped Ward', 'E8.6', 'Registers and records are maintained as per guidelines');
 select verify_checkpoint('District Hospital (DH)', 'Ped Ward', 'E8.6', 'All register/records are identified and numbered');
@@ -5552,7 +5551,6 @@ select verify_checkpoint('District Hospital (DH)', 'Admin', 'B2.3', 'Facility co
 select verify_checkpoint('District Hospital (DH)', 'Admin', 'B2.3', 'Hospital has defined policy for providing disable friendly services');
 select verify_checkpoint('District Hospital (DH)', 'Admin', 'B2.3', 'Parking area is earmarked for People with disabilities');
 select verify_checkpoint('District Hospital (DH)', 'Admin', 'B2.3', 'Symbol of Access is displayed at the facilities available for people with disabilities');
-select verify_checkpoint('District Hospital (DH)', 'Admin', 'B2.4', 'There is no discrimination on basis of social and economic status of the patients');
 select verify_checkpoint('District Hospital (DH)', 'Admin', 'B2.4', 'Hospital has defined policy for ensuring non discrimination on basis of social and economic status of the patient');
 select verify_checkpoint('District Hospital (DH)', 'Admin', 'B2.5', 'There are arrangement and Linkages for care of terminally ill patients');
 select verify_checkpoint('District Hospital (DH)', 'Admin', 'B2.5', 'There are Linkages for care , Counselling and Protection of Victims of Violence including domestic violence');

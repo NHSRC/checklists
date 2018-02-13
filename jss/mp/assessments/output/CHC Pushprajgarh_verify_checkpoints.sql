@@ -2425,7 +2425,6 @@ select verify_checkpoint('Community Health Center (CHC)', 'General Administratio
 select verify_checkpoint('Community Health Center (CHC)', 'General Administration', 'B2.3', 'Hand rails are provided with stairs');
 select verify_checkpoint('Community Health Center (CHC)', 'General Administration', 'B2.3', 'The facility has defined policy for providing disable friendly services');
 select verify_checkpoint('Community Health Center (CHC)', 'General Administration', 'B2.3', 'Parking area is earmarked for People with disabilities');
-select verify_checkpoint('Community Health Center (CHC)', 'General Administration', 'B2.4', 'There is no discrimination on basis of social and economic status of the patients');
 select verify_checkpoint('Community Health Center (CHC)', 'General Administration', 'B2.4', 'CHC has defined policy for ensuring non discrimination on basis of social and economic status of the patient');
 select verify_checkpoint('Community Health Center (CHC)', 'General Administration', 'B2.5', 'There are arrangement and Linkages for care of terminally ill patients');
 select verify_checkpoint('Community Health Center (CHC)', 'General Administration', 'B2.5', 'There are Linkages for care , Counselling and Protection of Victims of Violence including domestic violence');
