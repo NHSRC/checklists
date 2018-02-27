@@ -1,0 +1,96 @@
+{
+  "_embedded" : {
+    "district" : [ {
+      "createdDate" : "2017-11-06T10:11:21.189+0000",
+      "lastModifiedDate" : "2017-11-06T10:11:21.189+0000",
+      "uuid" : "c16a0aa6-a271-436a-b19a-fcb42937e5a7",
+      "inactive" : false,
+      "name" : "East",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/413"
+        },
+        "stateUUID" : {
+          "href" : "d9cfe9e2-e2b0-416c-9362-c22465130adf"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/413/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/413/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:11:21.286+0000",
+      "lastModifiedDate" : "2017-11-06T10:11:21.286+0000",
+      "uuid" : "990969ad-dae5-4b52-8dd2-4d69fc8cc3af",
+      "inactive" : false,
+      "name" : "South",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/414"
+        },
+        "stateUUID" : {
+          "href" : "d9cfe9e2-e2b0-416c-9362-c22465130adf"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/414/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/414/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:11:21.379+0000",
+      "lastModifiedDate" : "2017-11-06T10:11:21.379+0000",
+      "uuid" : "590e01a9-f7a4-4171-91ea-4bf823d46801",
+      "inactive" : false,
+      "name" : "North",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/415"
+        },
+        "stateUUID" : {
+          "href" : "d9cfe9e2-e2b0-416c-9362-c22465130adf"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/415/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/415/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:11:21.522+0000",
+      "lastModifiedDate" : "2017-11-06T10:11:21.522+0000",
+      "uuid" : "a50d44e1-4658-4757-bad1-8dc073ff797e",
+      "inactive" : false,
+      "name" : "West",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/416"
+        },
+        "stateUUID" : {
+          "href" : "d9cfe9e2-e2b0-416c-9362-c22465130adf"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/416/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/416/facilities"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://dev.gunak.org:6001/api/district/search/lastModifiedByState?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0&name=Sikkim"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 4,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

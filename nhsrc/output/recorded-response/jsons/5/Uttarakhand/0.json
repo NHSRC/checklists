@@ -1,0 +1,276 @@
+{
+  "_embedded" : {
+    "district" : [ {
+      "createdDate" : "2017-11-06T10:12:15.133+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:15.133+0000",
+      "uuid" : "1ace2427-9f78-4f48-815c-a41ef09cdeaf",
+      "inactive" : false,
+      "name" : "Almora",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/628"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/628/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/628/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:15.226+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:15.226+0000",
+      "uuid" : "86f6ed7c-0929-4bc3-bc6d-ac6afa7a7e03",
+      "inactive" : false,
+      "name" : "Pithoragarh",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/629"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/629/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/629/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:15.325+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:15.325+0000",
+      "uuid" : "8263af96-5793-4eb7-9dfc-d58ec5bf0505",
+      "inactive" : false,
+      "name" : "Champawat",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/630"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/630/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/630/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:15.421+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:15.421+0000",
+      "uuid" : "ff221aa8-bf56-425d-8487-30692610213f",
+      "inactive" : false,
+      "name" : "Bageshwar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/631"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/631/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/631/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:15.522+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:15.522+0000",
+      "uuid" : "2459deb2-7b6a-4354-89c0-152b9ed2d158",
+      "inactive" : false,
+      "name" : "Rudraprayag",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/632"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/632/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/632/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:15.619+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:15.619+0000",
+      "uuid" : "d6b62d22-a281-464e-8310-1cef43223e77",
+      "inactive" : false,
+      "name" : "Garhwal",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/633"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/633/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/633/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:16.045+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:16.045+0000",
+      "uuid" : "806a1d86-b250-4577-9aad-0bdceda10e26",
+      "inactive" : false,
+      "name" : "Chamoli",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/634"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/634/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/634/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:16.155+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:16.155+0000",
+      "uuid" : "c84e2586-144e-4526-a61c-ccdf655b2e1b",
+      "inactive" : false,
+      "name" : "Udham Singh Nagar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/635"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/635/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/635/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:16.262+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:16.262+0000",
+      "uuid" : "76b0fd87-7f85-42c4-9a9a-60496a418311",
+      "inactive" : false,
+      "name" : "Tehri Garhwal",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/636"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/636/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/636/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:16.358+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:16.358+0000",
+      "uuid" : "5b75b388-ab04-4fdc-9aef-fd2151dd9bb4",
+      "inactive" : false,
+      "name" : "Dehradun",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/637"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/637/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/637/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:16.449+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:16.449+0000",
+      "uuid" : "f7161282-a918-49bd-8e43-52f4b444d64b",
+      "inactive" : false,
+      "name" : "Uttarkashi",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/638"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/638/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/638/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:16.604+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:16.604+0000",
+      "uuid" : "ec067f39-5b9f-49d7-a7bd-7c3d62425e15",
+      "inactive" : false,
+      "name" : "Hardwar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/639"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/639/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/639/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:12:16.710+0000",
+      "lastModifiedDate" : "2017-11-06T10:12:16.710+0000",
+      "uuid" : "e388d798-2c78-405c-95c7-545794a1a7bb",
+      "inactive" : false,
+      "name" : "Nainital",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/640"
+        },
+        "stateUUID" : {
+          "href" : "a624f393-4eb4-43ec-95c9-2a6af29a51b5"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/640/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/640/facilities"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://dev.gunak.org:6001/api/district/search/lastModifiedByState?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0&name=Uttarakhand"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 13,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

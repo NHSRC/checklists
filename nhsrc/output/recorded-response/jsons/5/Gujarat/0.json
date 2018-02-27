@@ -1,0 +1,676 @@
+{
+  "_embedded" : {
+    "district" : [ {
+      "createdDate" : "2017-11-06T10:10:34.536+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:34.536+0000",
+      "uuid" : "478258c3-0d4b-4450-b1d6-be3d3198cc4f",
+      "inactive" : false,
+      "name" : "Amreli",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/78"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/78/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/78/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:34.806+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:34.806+0000",
+      "uuid" : "4785d662-8b15-4ac4-953b-65ba4d160113",
+      "inactive" : false,
+      "name" : "Sabar Kantha",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/79"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/79/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/79/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:35.022+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:35.022+0000",
+      "uuid" : "dbb09b88-0731-4776-ad44-d243f5e73712",
+      "inactive" : false,
+      "name" : "Tapi",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/80"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/80/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/80/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:35.197+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:35.197+0000",
+      "uuid" : "a212409a-3786-47d0-ae0b-3e8cd5147f01",
+      "inactive" : false,
+      "name" : "Jamnagar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/81"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/81/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/81/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:35.375+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:35.375+0000",
+      "uuid" : "aca1d317-e71c-4095-b27b-f0111688f3c0",
+      "inactive" : false,
+      "name" : "Narmada",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/82"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/82/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/82/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:35.553+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:35.553+0000",
+      "uuid" : "2fa90738-7216-4425-b367-7a887768ca34",
+      "inactive" : false,
+      "name" : "Chhotaudepur",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/83"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/83/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/83/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:35.825+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:35.825+0000",
+      "uuid" : "bc1c2c6e-4f01-4d88-b1c9-bde589fe56d8",
+      "inactive" : false,
+      "name" : "Kachchh",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/84"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/84/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/84/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:36.028+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:36.028+0000",
+      "uuid" : "80863d5f-27fd-44bc-817a-51f6c57d9dda",
+      "inactive" : false,
+      "name" : "Patan",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/85"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/85/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/85/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:36.206+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:36.206+0000",
+      "uuid" : "ecad5778-47b9-4c04-b1b9-832800ff94f1",
+      "inactive" : false,
+      "name" : "Anand",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/86"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/86/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/86/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:36.386+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:36.386+0000",
+      "uuid" : "a3b57521-8c88-41e0-9464-f1fd40489827",
+      "inactive" : false,
+      "name" : "Surat",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/87"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/87/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/87/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:36.558+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:36.558+0000",
+      "uuid" : "7fb96d24-2e4a-4376-93ad-e09d19a2f662",
+      "inactive" : false,
+      "name" : "Valsad",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/88"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/88/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/88/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:36.868+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:36.868+0000",
+      "uuid" : "7f4ef78f-b432-40ea-b9e4-888f26277e1a",
+      "inactive" : false,
+      "name" : "Banas Kantha",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/89"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/89/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/89/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.058+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.058+0000",
+      "uuid" : "86d079a7-6c19-44d2-810b-ea2481eb356c",
+      "inactive" : false,
+      "name" : "Panch Mahals",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/90"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/90/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/90/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.154+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.154+0000",
+      "uuid" : "6648f8d9-4e8a-44e3-a63f-066b521e68c6",
+      "inactive" : false,
+      "name" : "Rajkot",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/91"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/91/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/91/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.269+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.269+0000",
+      "uuid" : "9ed50149-b756-4a3e-ba29-202e204ced10",
+      "inactive" : false,
+      "name" : "The Dangs",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/92"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/92/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/92/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.387+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.387+0000",
+      "uuid" : "038e1123-c42e-4598-84fc-f0adcd09f442",
+      "inactive" : false,
+      "name" : "Aravalli",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/93"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/93/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/93/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.495+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.495+0000",
+      "uuid" : "cce7871c-ca6e-439e-b924-1a410ef1146a",
+      "inactive" : false,
+      "name" : "Botad",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/94"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/94/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/94/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.591+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.591+0000",
+      "uuid" : "0abb795f-099e-4b8a-ae2f-8b296c56106c",
+      "inactive" : false,
+      "name" : "Navsari",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/95"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/95/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/95/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.683+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.683+0000",
+      "uuid" : "90c012a6-236c-47dc-9f22-a2a07156616c",
+      "inactive" : false,
+      "name" : "Porbandar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/96"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/96/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/96/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.779+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.779+0000",
+      "uuid" : "6720ce62-f59d-4778-b562-0d6caaf5300d",
+      "inactive" : false,
+      "name" : "Mahisagar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/97"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/97/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/97/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.875+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.875+0000",
+      "uuid" : "a9a37ae3-2f90-41b6-81d8-f1021e15697e",
+      "inactive" : false,
+      "name" : "Ahmedabad",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/98"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/98/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/98/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:37.973+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:37.973+0000",
+      "uuid" : "c81769c6-13e3-4272-9021-e12f14609da9",
+      "inactive" : false,
+      "name" : "Gandhinagar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/99"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/99/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/99/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.073+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.073+0000",
+      "uuid" : "a0e5675b-c0c8-44d3-9fe2-d13d949b2dff",
+      "inactive" : false,
+      "name" : "Gir Somnath",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/100"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/100/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/100/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.169+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.169+0000",
+      "uuid" : "3951f3a1-6a5e-4380-a4b1-758d1b6bab3c",
+      "inactive" : false,
+      "name" : "Devbhumi Dwarka",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/101"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/101/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/101/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.276+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.276+0000",
+      "uuid" : "40e8159e-5da8-40d0-b7ee-cbd9b4106441",
+      "inactive" : false,
+      "name" : "Bharuch",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/102"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/102/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/102/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.374+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.374+0000",
+      "uuid" : "ee2572bc-c203-44e8-87ca-fd7ca4eb8e36",
+      "inactive" : false,
+      "name" : "Junagadh",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/103"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/103/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/103/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.471+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.471+0000",
+      "uuid" : "5b27085b-6e90-45b4-9d2f-9ee5cba58ae8",
+      "inactive" : false,
+      "name" : "Dahod",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/104"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/104/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/104/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.561+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.561+0000",
+      "uuid" : "e5dcd58f-8fcc-474a-a9ed-3f6373b22428",
+      "inactive" : false,
+      "name" : "Mahesana",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/105"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/105/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/105/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.654+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.654+0000",
+      "uuid" : "a299f88f-c4ed-47d3-bd55-30f99d51313e",
+      "inactive" : false,
+      "name" : "Bhavnagar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/106"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/106/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/106/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.754+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.754+0000",
+      "uuid" : "75c59a1a-c2f9-4455-9279-3bbd0ac13497",
+      "inactive" : false,
+      "name" : "Surendranagar",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/107"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/107/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/107/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.852+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.852+0000",
+      "uuid" : "6112adff-beda-4601-9d2f-e40e90fb0f42",
+      "inactive" : false,
+      "name" : "Vadodara",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/108"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/108/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/108/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:38.958+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:38.958+0000",
+      "uuid" : "059f3546-482b-4917-bab0-8b5c2d6c160d",
+      "inactive" : false,
+      "name" : "Morbi",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/109"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/109/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/109/facilities"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:39.052+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:39.052+0000",
+      "uuid" : "96d49b07-9402-4fa1-9f8d-7ab6934a4384",
+      "inactive" : false,
+      "name" : "Kheda",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/district/110"
+        },
+        "stateUUID" : {
+          "href" : "fddbb950-8491-4af2-8a70-ba745ec64021"
+        },
+        "state" : {
+          "href" : "http://dev.gunak.org:6001/api/district/110/state"
+        },
+        "facilities" : {
+          "href" : "http://dev.gunak.org:6001/api/district/110/facilities"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://dev.gunak.org:6001/api/district/search/lastModifiedByState?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0&name=Gujarat"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 33,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

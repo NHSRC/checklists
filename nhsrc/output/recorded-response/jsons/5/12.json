@@ -1,0 +1,4228 @@
+{
+  "_embedded" : {
+    "measurableElement" : [ {
+      "createdDate" : "2017-11-06T11:59:34.244+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.244+0000",
+      "uuid" : "d6f58965-bba8-4861-ae86-274b12e7388d",
+      "inactive" : false,
+      "name" : "The Facility measures equity indicators periodically",
+      "reference" : "H1.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/601"
+        },
+        "standardUUID" : {
+          "href" : "b6e8e3e1-6674-4e1d-b64a-720ff594bf4c"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/601/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/601/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.332+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.332+0000",
+      "uuid" : "25c764af-55ba-4abf-b811-bb1e0297cfa8",
+      "inactive" : false,
+      "name" : "The facility provides pharmacy services",
+      "reference" : "A3.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/602"
+        },
+        "standardUUID" : {
+          "href" : "b1949b8d-de47-44f1-a429-378fb93677db"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/602/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/602/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.440+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.440+0000",
+      "uuid" : "e2db0adb-51e3-4297-9143-ce82b76e956f",
+      "inactive" : false,
+      "name" : "The facility provides medico legal services",
+      "reference" : "A3.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/603"
+        },
+        "standardUUID" : {
+          "href" : "b1949b8d-de47-44f1-a429-378fb93677db"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/603/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/603/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.545+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.545+0000",
+      "uuid" : "f4048ad4-e696-4c24-9830-7d1a8c33347c",
+      "inactive" : false,
+      "name" : "The Facility provides Laboratory Services",
+      "reference" : "A3.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/604"
+        },
+        "standardUUID" : {
+          "href" : "b1949b8d-de47-44f1-a429-378fb93677db"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/604/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/604/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.632+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.632+0000",
+      "uuid" : "6e1a042a-c4f9-49e4-bab0-557a31d76ca3",
+      "inactive" : false,
+      "name" : "The facility provides Accident & Emergency Services",
+      "reference" : "A1.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/605"
+        },
+        "standardUUID" : {
+          "href" : "a50da89d-6907-462e-a32d-d24c09a02e7c"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/605/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/605/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.721+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.721+0000",
+      "uuid" : "73b49bd1-dcd3-49db-9882-1aa07d6aa925",
+      "inactive" : false,
+      "name" : "The facility provides treatment of common ailments",
+      "reference" : "A1.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/606"
+        },
+        "standardUUID" : {
+          "href" : "a50da89d-6907-462e-a32d-d24c09a02e7c"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/606/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/606/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.814+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.814+0000",
+      "uuid" : "f0cd2a2f-2eaa-4396-ab37-51f6288d209d",
+      "inactive" : false,
+      "name" : "The facility provides AYUSH Services",
+      "reference" : "A1.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/607"
+        },
+        "standardUUID" : {
+          "href" : "a50da89d-6907-462e-a32d-d24c09a02e7c"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/607/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/607/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.899+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.899+0000",
+      "uuid" : "5d99462c-23f3-4a1f-8fc5-bd988fd1686d",
+      "inactive" : false,
+      "name" : "The facility provides administrative services",
+      "reference" : "A1.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/608"
+        },
+        "standardUUID" : {
+          "href" : "a50da89d-6907-462e-a32d-d24c09a02e7c"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/608/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/608/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.992+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.992+0000",
+      "uuid" : "42b5afd3-167f-4e53-8d8c-e61d3a9826a1",
+      "inactive" : false,
+      "name" : "Services are available for the time period as mandated",
+      "reference" : "A1.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/609"
+        },
+        "standardUUID" : {
+          "href" : "a50da89d-6907-462e-a32d-d24c09a02e7c"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/609/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/609/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.083+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.083+0000",
+      "uuid" : "0f5022b3-0064-4d1e-bf1c-6a334cee8e6d",
+      "inactive" : false,
+      "name" : "The facility provides curatives & preventive services for the health problems and diseases, prevalent locally.",
+      "reference" : "A1.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/610"
+        },
+        "standardUUID" : {
+          "href" : "a50da89d-6907-462e-a32d-d24c09a02e7c"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/610/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/610/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.171+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.171+0000",
+      "uuid" : "4d89ed66-db6f-4d9f-9d8a-e027f930c958",
+      "inactive" : false,
+      "name" : "The facility provides support services",
+      "reference" : "A1.7",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/611"
+        },
+        "standardUUID" : {
+          "href" : "a50da89d-6907-462e-a32d-d24c09a02e7c"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/611/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/611/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.269+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.269+0000",
+      "uuid" : "66e1f134-5ebc-4548-bf8c-e28eea1c331f",
+      "inactive" : false,
+      "name" : "The facility provides New-born health Services",
+      "reference" : "A2.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/612"
+        },
+        "standardUUID" : {
+          "href" : "066edf1a-c7ef-4be6-93eb-5c254bceb532"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/612/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/612/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.356+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.356+0000",
+      "uuid" : "57fe2d4b-6323-4f37-bb79-ea4721227e57",
+      "inactive" : false,
+      "name" : "The facility provides Adolescent health Services",
+      "reference" : "A2.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/613"
+        },
+        "standardUUID" : {
+          "href" : "066edf1a-c7ef-4be6-93eb-5c254bceb532"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/613/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/613/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.444+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.444+0000",
+      "uuid" : "3f61eebf-d5f0-4032-87c5-55e894464ede",
+      "inactive" : false,
+      "name" : "The facility provides Reproductive health Services",
+      "reference" : "A2.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/614"
+        },
+        "standardUUID" : {
+          "href" : "066edf1a-c7ef-4be6-93eb-5c254bceb532"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/614/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/614/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.536+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.536+0000",
+      "uuid" : "f1035f6e-e3e2-48ac-ac97-ec89f1ef9ad4",
+      "inactive" : false,
+      "name" : "The facility provides Maternal health Services",
+      "reference" : "A2.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/615"
+        },
+        "standardUUID" : {
+          "href" : "066edf1a-c7ef-4be6-93eb-5c254bceb532"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/615/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/615/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.629+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.629+0000",
+      "uuid" : "f55def91-9210-4cd2-bc83-4c8e79fb86ab",
+      "inactive" : false,
+      "name" : "The facility provides Child health Services",
+      "reference" : "A2.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/616"
+        },
+        "standardUUID" : {
+          "href" : "066edf1a-c7ef-4be6-93eb-5c254bceb532"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/616/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/616/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.724+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.724+0000",
+      "uuid" : "645585cc-2962-4ef2-b1b9-3eb2b996d7fe",
+      "inactive" : false,
+      "name" : "The facility provides services under National Programme for the health care of the elderly as per guidelines",
+      "reference" : "A4.7",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/617"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/617/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/617/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.816+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.816+0000",
+      "uuid" : "8ce51f0e-49b6-4926-b3f9-14be6bc6c4e2",
+      "inactive" : false,
+      "name" : "The facility provides services under Universal Immunization Programme",
+      "reference" : "A4.12",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/618"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/618/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/618/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:35.911+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:35.911+0000",
+      "uuid" : "b5a8519d-a3c2-42bc-aabb-5ed75b551e4a",
+      "inactive" : false,
+      "name" : "The facility provides services under National Iodine deficiency Programme",
+      "reference" : "A4.13",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/619"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/619/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/619/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.000+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.000+0000",
+      "uuid" : "bc9fe0e6-e7ef-4e25-a0f1-bca3b0acb3b2",
+      "inactive" : false,
+      "name" : "The facility provides services under National tobacco Control Programme",
+      "reference" : "A4.14",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/620"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/620/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/620/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.093+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.093+0000",
+      "uuid" : "20e83ebd-ad62-49a3-a74f-ba54a2729853",
+      "inactive" : false,
+      "name" : "The facility provides services under Revised National TB Control Programme as per guidelines",
+      "reference" : "A4.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/621"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/621/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/621/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.182+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.182+0000",
+      "uuid" : "7eca9bae-be81-41de-a9d2-aa70953f407e",
+      "inactive" : false,
+      "name" : "The facility Provides services under Integrated Disease Surveillance Programme as per Guidelines",
+      "reference" : "A4.9",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/622"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/622/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/622/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.270+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.270+0000",
+      "uuid" : "6ee8dbe8-4ce2-420b-9656-21733df10cd5",
+      "inactive" : false,
+      "name" : "The facility provides services under National AIDS Control Programme as per guidelines",
+      "reference" : "A4.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/623"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/623/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/623/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.361+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.361+0000",
+      "uuid" : "e50732c6-912e-493d-8a91-de0fba07c8ab",
+      "inactive" : false,
+      "name" : "The facility provide services under National health Programme for prevention and control of deafness",
+      "reference" : "A4.10",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/624"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/624/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/624/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.468+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.468+0000",
+      "uuid" : "9b95331a-0eff-445a-9a22-8340415a3043",
+      "inactive" : false,
+      "name" : "The facility provides services under Mental Health Programme as per guidelines",
+      "reference" : "A4.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/625"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/625/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/625/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.558+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.558+0000",
+      "uuid" : "1a345916-ac47-4876-ac25-be1740315cbc",
+      "inactive" : false,
+      "name" : "The facility provides services under National Vector Borne Disease Control Programme as per guidelines",
+      "reference" : "A4.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/626"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/626/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/626/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.647+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.647+0000",
+      "uuid" : "7210237f-b845-4312-b408-6fe78ac7ff7d",
+      "inactive" : false,
+      "name" : "The facility provides services under National Leprosy Eradication Programme as per guidelines",
+      "reference" : "A4.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/627"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/627/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/627/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.734+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.734+0000",
+      "uuid" : "fa1a192b-938b-4c75-a5fd-027cccc869e8",
+      "inactive" : false,
+      "name" : "The facility provides services under School Health Programme",
+      "reference" : "A4.11",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/628"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/628/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/628/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.828+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.828+0000",
+      "uuid" : "9d2365ce-e659-4556-b698-ffe55016f455",
+      "inactive" : false,
+      "name" : "The facility provides services under National Programme for Prevention and control of Cancer, Diabetes, Cardiovascular diseases & Stroke (NPCDCS) as per guidelines",
+      "reference" : "A4.8",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/629"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/629/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/629/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:36.922+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:36.922+0000",
+      "uuid" : "f256d5dc-8b77-40d7-a2a7-ea34f8d6da34",
+      "inactive" : false,
+      "name" : "The facility provides services under National Programme for control of Blindness as per guidelines",
+      "reference" : "A4.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/630"
+        },
+        "standardUUID" : {
+          "href" : "ba08deaf-9e78-4822-a20d-8f0587ce3533"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/630/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/630/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.014+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.014+0000",
+      "uuid" : "410a990a-90e5-49b1-a5dd-d29066019974",
+      "inactive" : false,
+      "name" : "Confidentiality of patients records and clinical information is maintained",
+      "reference" : "B3.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/631"
+        },
+        "standardUUID" : {
+          "href" : "4836a940-881f-4ff3-b68a-2f1afff254eb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/631/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/631/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.105+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.105+0000",
+      "uuid" : "ead42538-b80c-432c-bc2c-93a26f98327a",
+      "inactive" : false,
+      "name" : "The facility ensures the behaviours of staff is dignified and respectful, while delivering the services",
+      "reference" : "B3.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/632"
+        },
+        "standardUUID" : {
+          "href" : "4836a940-881f-4ff3-b68a-2f1afff254eb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/632/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/632/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.194+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.194+0000",
+      "uuid" : "68ba93bb-bb77-4a9a-81ce-477c0d3ca244",
+      "inactive" : false,
+      "name" : "The facility ensures privacy and confidentiality to every patient, especially of those conditions having social stigma, and also safeguards vulnerable groups",
+      "reference" : "B3.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/633"
+        },
+        "standardUUID" : {
+          "href" : "4836a940-881f-4ff3-b68a-2f1afff254eb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/633/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/633/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.284+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.284+0000",
+      "uuid" : "bcac7e24-17c0-4c02-b896-6109cae5f266",
+      "inactive" : false,
+      "name" : "Adequate visual privacy is provided at every point of care",
+      "reference" : "B3.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/634"
+        },
+        "standardUUID" : {
+          "href" : "4836a940-881f-4ff3-b68a-2f1afff254eb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/634/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/634/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.376+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.376+0000",
+      "uuid" : "4b93dec8-63b3-48d9-ab71-34143adf2138",
+      "inactive" : false,
+      "name" : "There is established procedures for taking informed consent before treatment and procedures",
+      "reference" : "B1.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/635"
+        },
+        "standardUUID" : {
+          "href" : "6658d44d-175a-4c98-b85e-3377c0c532f2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/635/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/635/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.471+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.471+0000",
+      "uuid" : "3d53246f-9ece-4130-9958-ae137c325975",
+      "inactive" : false,
+      "name" : "Information is available in local language and easy to understand",
+      "reference" : "B1.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/636"
+        },
+        "standardUUID" : {
+          "href" : "6658d44d-175a-4c98-b85e-3377c0c532f2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/636/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/636/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.558+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.558+0000",
+      "uuid" : "6326bae6-9aec-4c07-9800-309d378bd328",
+      "inactive" : false,
+      "name" : "Information about the treatment is shared with patients or attendants, regularly",
+      "reference" : "B1.7",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/637"
+        },
+        "standardUUID" : {
+          "href" : "6658d44d-175a-4c98-b85e-3377c0c532f2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/637/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/637/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.645+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.645+0000",
+      "uuid" : "9bbbe717-2410-45de-891e-1b0b79223455",
+      "inactive" : false,
+      "name" : "The facility has established citizen charter, which is followed at all levels",
+      "reference" : "B1.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/638"
+        },
+        "standardUUID" : {
+          "href" : "6658d44d-175a-4c98-b85e-3377c0c532f2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/638/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/638/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.736+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.736+0000",
+      "uuid" : "81aac890-d20f-4b2a-a48a-dff1d3edc02e",
+      "inactive" : false,
+      "name" : "The facility has uniform and user-friendly signage system",
+      "reference" : "B1.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/639"
+        },
+        "standardUUID" : {
+          "href" : "6658d44d-175a-4c98-b85e-3377c0c532f2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/639/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/639/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.823+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.823+0000",
+      "uuid" : "bcad4183-f656-493e-a0c0-aabaee448b70",
+      "inactive" : false,
+      "name" : "The facility displays the services and entitlements available in its departments",
+      "reference" : "B1.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/640"
+        },
+        "standardUUID" : {
+          "href" : "6658d44d-175a-4c98-b85e-3377c0c532f2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/640/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/640/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:37.910+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:37.910+0000",
+      "uuid" : "c9de6ec8-ad74-4582-ba3a-2ad852c5c1b6",
+      "inactive" : false,
+      "name" : "The facility has defined and established grievance redressal system in place",
+      "reference" : "B1.8",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/641"
+        },
+        "standardUUID" : {
+          "href" : "6658d44d-175a-4c98-b85e-3377c0c532f2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/641/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/641/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.003+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.003+0000",
+      "uuid" : "06293b0f-6bcc-4585-ace0-cb73b11ee12a",
+      "inactive" : false,
+      "name" : "Patients & visitors are sensitized and educated through appropriate IEC / BCC approaches",
+      "reference" : "B1.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/642"
+        },
+        "standardUUID" : {
+          "href" : "6658d44d-175a-4c98-b85e-3377c0c532f2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/642/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/642/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.092+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.092+0000",
+      "uuid" : "ecfd7e57-ab52-43b1-9351-9f9f54d02d25",
+      "inactive" : false,
+      "name" : "The facility provides cashless services to pregnant women, mothers and neonates as per prevalent government schemes",
+      "reference" : "B4.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/643"
+        },
+        "standardUUID" : {
+          "href" : "2ac6742d-c407-42c7-a976-a3b860a3247f"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/643/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/643/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.177+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.177+0000",
+      "uuid" : "c4dd7f1a-4a04-47fd-9798-05f3d5ef2190",
+      "inactive" : false,
+      "name" : "The facility ensures that drugs prescribed are available at Pharmacy and wards",
+      "reference" : "B4.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/644"
+        },
+        "standardUUID" : {
+          "href" : "2ac6742d-c407-42c7-a976-a3b860a3247f"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/644/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/644/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.266+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.266+0000",
+      "uuid" : "0021e58a-5924-493c-871f-e1a5b75b21fa",
+      "inactive" : false,
+      "name" : "The facility provide free of cost treatment to Below poverty line patients without administrative hassles",
+      "reference" : "B4.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/645"
+        },
+        "standardUUID" : {
+          "href" : "2ac6742d-c407-42c7-a976-a3b860a3247f"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/645/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/645/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.363+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.363+0000",
+      "uuid" : "7638bf6c-a758-4026-bc5b-9caa5dd95a96",
+      "inactive" : false,
+      "name" : "The facility ensures timely reimbursement of financial entitlements and reimbursement to the patients",
+      "reference" : "B4.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/646"
+        },
+        "standardUUID" : {
+          "href" : "2ac6742d-c407-42c7-a976-a3b860a3247f"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/646/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/646/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.451+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.451+0000",
+      "uuid" : "13848224-3009-43ce-a510-7a1cfd9ed9e7",
+      "inactive" : false,
+      "name" : "It is ensured that facilities for the prescribed investigations are available at the facility",
+      "reference" : "B4.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/647"
+        },
+        "standardUUID" : {
+          "href" : "2ac6742d-c407-42c7-a976-a3b860a3247f"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/647/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/647/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.540+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.540+0000",
+      "uuid" : "45602c3d-25b9-41bf-9dad-d25e89bb499e",
+      "inactive" : false,
+      "name" : "Religious and cultural preferences of patients and attendants are taken into consideration while delivering services",
+      "reference" : "B2.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/648"
+        },
+        "standardUUID" : {
+          "href" : "6b21a209-6c84-41f2-a2e3-14c2859fb4e9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/648/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/648/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.626+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.626+0000",
+      "uuid" : "0d9a2be1-03eb-4b56-9f6b-154d6d2a0aa0",
+      "inactive" : false,
+      "name" : "There is no discrimination on basis of social and economic status of the patients",
+      "reference" : "B2.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/649"
+        },
+        "standardUUID" : {
+          "href" : "6b21a209-6c84-41f2-a2e3-14c2859fb4e9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/649/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/649/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.721+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.721+0000",
+      "uuid" : "b25ca9c6-3e1e-43b9-80a5-7b0084147f3b",
+      "inactive" : false,
+      "name" : "Services are provided in manner that are sensitive to gender",
+      "reference" : "B2.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/650"
+        },
+        "standardUUID" : {
+          "href" : "6b21a209-6c84-41f2-a2e3-14c2859fb4e9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/650/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/650/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.820+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.820+0000",
+      "uuid" : "6f0c4f63-34f6-4dbe-a9f8-9bebdf9becc9",
+      "inactive" : false,
+      "name" : "Access to facility is provided without any physical barrier",
+      "reference" : "B2.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/651"
+        },
+        "standardUUID" : {
+          "href" : "6b21a209-6c84-41f2-a2e3-14c2859fb4e9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/651/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/651/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:38.909+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:38.909+0000",
+      "uuid" : "b4bc9c0e-382f-4729-b1ca-c241275fd0f0",
+      "inactive" : false,
+      "name" : "Departments have adequate space as per patient or work load",
+      "reference" : "C1.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/652"
+        },
+        "standardUUID" : {
+          "href" : "54217379-e02e-4f67-a55c-091130b7f89d"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/652/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/652/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.006+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.006+0000",
+      "uuid" : "a4d1db26-13f1-49c2-ba1d-38fa125a7cc8",
+      "inactive" : false,
+      "name" : "Amenities for Patients & Staff are available as per load",
+      "reference" : "C1.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/653"
+        },
+        "standardUUID" : {
+          "href" : "54217379-e02e-4f67-a55c-091130b7f89d"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/653/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/653/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.093+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.093+0000",
+      "uuid" : "20bfb372-b8e3-4dd4-a225-7b0ad5dcb788",
+      "inactive" : false,
+      "name" : "The facility has adequate circulation area and open spaces according to need and local law",
+      "reference" : "C1.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/654"
+        },
+        "standardUUID" : {
+          "href" : "54217379-e02e-4f67-a55c-091130b7f89d"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/654/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/654/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.181+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.181+0000",
+      "uuid" : "bb8fa108-e15a-4d10-b729-f681f43f0d13",
+      "inactive" : false,
+      "name" : "The facility has infrastructure for intramural and extramural communication",
+      "reference" : "C1.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/655"
+        },
+        "standardUUID" : {
+          "href" : "54217379-e02e-4f67-a55c-091130b7f89d"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/655/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/655/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.268+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.268+0000",
+      "uuid" : "849eca6c-15ea-4db3-91a8-7cf11f2356a9",
+      "inactive" : false,
+      "name" : "Departments have layout and demarcated areas as per functions",
+      "reference" : "C1.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/656"
+        },
+        "standardUUID" : {
+          "href" : "54217379-e02e-4f67-a55c-091130b7f89d"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/656/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/656/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.357+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.357+0000",
+      "uuid" : "8fdc080f-bbbf-4bfc-86f4-6742abc1149c",
+      "inactive" : false,
+      "name" : "Physical condition of buildings are safe for providing patient care",
+      "reference" : "C2.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/657"
+        },
+        "standardUUID" : {
+          "href" : "bd29428d-ade3-44dc-9a43-5591ecdd3279"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/657/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/657/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.453+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.453+0000",
+      "uuid" : "bfe771a6-77bb-4409-925f-1be9547b997a",
+      "inactive" : false,
+      "name" : "The facility ensures the seismic safety of the infrastructure",
+      "reference" : "C2.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/658"
+        },
+        "standardUUID" : {
+          "href" : "bd29428d-ade3-44dc-9a43-5591ecdd3279"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/658/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/658/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.544+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.544+0000",
+      "uuid" : "4d54eac0-0706-48fd-b2a8-fd17acaa4bc5",
+      "inactive" : false,
+      "name" : "The facility ensures safety of electrical establishment",
+      "reference" : "C2.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/659"
+        },
+        "standardUUID" : {
+          "href" : "bd29428d-ade3-44dc-9a43-5591ecdd3279"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/659/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/659/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.636+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.636+0000",
+      "uuid" : "b113fa96-dfef-4fb6-8208-fddbf57fd5bc",
+      "inactive" : false,
+      "name" : "The facility Ensures fire Safety Measures including fire fighting equipment",
+      "reference" : "C2.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/660"
+        },
+        "standardUUID" : {
+          "href" : "bd29428d-ade3-44dc-9a43-5591ecdd3279"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/660/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/660/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.724+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.724+0000",
+      "uuid" : "3f9f565a-981c-4472-96cf-7f3ba63bb2a7",
+      "inactive" : false,
+      "name" : "Availability of equipment & instruments for diagnostic procedures being undertaken in the facility",
+      "reference" : "C5.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/661"
+        },
+        "standardUUID" : {
+          "href" : "f21cd518-cb91-4a7e-8104-3512deb7f3f1"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/661/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/661/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.816+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.816+0000",
+      "uuid" : "14f9439b-db47-4381-944e-2b1f860fde10",
+      "inactive" : false,
+      "name" : "Departments have patient furniture and fixtures as per load and service provision",
+      "reference" : "C5.7",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/662"
+        },
+        "standardUUID" : {
+          "href" : "f21cd518-cb91-4a7e-8104-3512deb7f3f1"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/662/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/662/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.906+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.906+0000",
+      "uuid" : "35971cc4-d935-4edb-9746-a8306f06632c",
+      "inactive" : false,
+      "name" : "Availability of equipments for storage.",
+      "reference" : "C5.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/663"
+        },
+        "standardUUID" : {
+          "href" : "f21cd518-cb91-4a7e-8104-3512deb7f3f1"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/663/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/663/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:39.993+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:39.993+0000",
+      "uuid" : "3560d1d8-ef74-4664-951b-d3f0fb2175b2",
+      "inactive" : false,
+      "name" : "Availability of functional equipment and instruments for support & outreach services",
+      "reference" : "C5.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/664"
+        },
+        "standardUUID" : {
+          "href" : "f21cd518-cb91-4a7e-8104-3512deb7f3f1"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/664/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/664/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.082+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.082+0000",
+      "uuid" : "8ea4ce30-092e-4a1d-abc6-e7e7c88e5130",
+      "inactive" : false,
+      "name" : "Availability of equipment & instruments for treatment procedures, being undertaken in the facility",
+      "reference" : "C5.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/665"
+        },
+        "standardUUID" : {
+          "href" : "f21cd518-cb91-4a7e-8104-3512deb7f3f1"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/665/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/665/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.170+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.170+0000",
+      "uuid" : "4b97b6bd-92c7-4ba2-87ca-c4c936ad0ae1",
+      "inactive" : false,
+      "name" : "Availability of equipment and instruments for resuscitation of patients.",
+      "reference" : "C5.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/666"
+        },
+        "standardUUID" : {
+          "href" : "f21cd518-cb91-4a7e-8104-3512deb7f3f1"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/666/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/666/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.273+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.273+0000",
+      "uuid" : "d799f8dd-1def-4b23-85bc-5515128239e1",
+      "inactive" : false,
+      "name" : "Availability of equipment & instruments for examination & monitoring of patients",
+      "reference" : "C5.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/667"
+        },
+        "standardUUID" : {
+          "href" : "f21cd518-cb91-4a7e-8104-3512deb7f3f1"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/667/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/667/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.368+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.368+0000",
+      "uuid" : "84aeebb0-cfbf-447c-a73f-395fd9d58856",
+      "inactive" : false,
+      "name" : "Emergency drug trays are maintained at every point of care, where ever it may be needed",
+      "reference" : "C4.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/668"
+        },
+        "standardUUID" : {
+          "href" : "582c6790-a602-44ce-95dd-e3b7451000a3"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/668/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/668/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.459+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.459+0000",
+      "uuid" : "4c462f85-9447-4718-a7a4-01e70aa9a3a5",
+      "inactive" : false,
+      "name" : "The departments have adequate consumables at point of use",
+      "reference" : "C4.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/669"
+        },
+        "standardUUID" : {
+          "href" : "582c6790-a602-44ce-95dd-e3b7451000a3"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/669/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/669/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.562+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.562+0000",
+      "uuid" : "13140b13-94ec-4111-8fb9-558bf9028f4a",
+      "inactive" : false,
+      "name" : "The departments have availability of adequate drugs at point of use",
+      "reference" : "C4.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/670"
+        },
+        "standardUUID" : {
+          "href" : "582c6790-a602-44ce-95dd-e3b7451000a3"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/670/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/670/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.669+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.669+0000",
+      "uuid" : "24c4744a-0ae3-4fc5-9965-cca080cd4871",
+      "inactive" : false,
+      "name" : "The Staff is skilled/ competent as per job description",
+      "reference" : "C3.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/671"
+        },
+        "standardUUID" : {
+          "href" : "f14be387-8c0b-403f-a871-6e69d9ebc0ad"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/671/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/671/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.757+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.757+0000",
+      "uuid" : "86069f42-327f-4c67-8be5-82d7d31e6a00",
+      "inactive" : false,
+      "name" : "The Staff has been imparted necessary trainings/skill set to enable them to meet their roles & responsibilities",
+      "reference" : "C3.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/672"
+        },
+        "standardUUID" : {
+          "href" : "f14be387-8c0b-403f-a871-6e69d9ebc0ad"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/672/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/672/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.841+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.841+0000",
+      "uuid" : "d599be4e-9362-4114-aaa8-03f6885930ab",
+      "inactive" : false,
+      "name" : "The facility has adequate Health workers as per requirement",
+      "reference" : "C3.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/673"
+        },
+        "standardUUID" : {
+          "href" : "f14be387-8c0b-403f-a871-6e69d9ebc0ad"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/673/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/673/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:40.925+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:40.925+0000",
+      "uuid" : "8b7beaac-8b4e-4d5b-8706-556cceb5e5c8",
+      "inactive" : false,
+      "name" : "The facility has adequate nursing staff /Paramedic as per service provision and work load",
+      "reference" : "C3.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/674"
+        },
+        "standardUUID" : {
+          "href" : "f14be387-8c0b-403f-a871-6e69d9ebc0ad"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/674/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/674/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.011+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.011+0000",
+      "uuid" : "5273d07f-fa2b-4ad7-9bfe-fb681bf35e3d",
+      "inactive" : false,
+      "name" : "The facility has adequate support staff",
+      "reference" : "C3.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/675"
+        },
+        "standardUUID" : {
+          "href" : "f14be387-8c0b-403f-a871-6e69d9ebc0ad"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/675/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/675/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.099+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.099+0000",
+      "uuid" : "edbe116c-0c52-42b8-af80-aa3d2b2150c6",
+      "inactive" : false,
+      "name" : "The facility has adequate medical officers as per service provision and work load",
+      "reference" : "C3.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/676"
+        },
+        "standardUUID" : {
+          "href" : "f14be387-8c0b-403f-a871-6e69d9ebc0ad"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/676/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/676/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.188+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.188+0000",
+      "uuid" : "095f6bbd-8dad-41e2-9f1f-2105e823a1b7",
+      "inactive" : false,
+      "name" : "The facility has established procures for management of activities of Rogi Kalyan Samitis",
+      "reference" : "D4.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/677"
+        },
+        "standardUUID" : {
+          "href" : "9d236038-0bfc-44c2-b640-9cb2e3cc35bc"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/677/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/677/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.277+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.277+0000",
+      "uuid" : "ee132dc6-61f2-4c92-a82e-a68787bbd56b",
+      "inactive" : false,
+      "name" : "The facility has established procedures for community based monitoring of its services",
+      "reference" : "D4.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/678"
+        },
+        "standardUUID" : {
+          "href" : "9d236038-0bfc-44c2-b640-9cb2e3cc35bc"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/678/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/678/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.368+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.368+0000",
+      "uuid" : "05228748-f1d8-4bf5-b528-10742bfa777c",
+      "inactive" : false,
+      "name" : "The facility has established procedure for supporting and monitoring activities of community health work -ASHA",
+      "reference" : "D4.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/679"
+        },
+        "standardUUID" : {
+          "href" : "9d236038-0bfc-44c2-b640-9cb2e3cc35bc"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/679/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/679/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.457+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.457+0000",
+      "uuid" : "27a21844-b95f-4058-9cde-645480e6670f",
+      "inactive" : false,
+      "name" : "The facility provide monitoring & reporting service for Integrated disease surveillance Programme",
+      "reference" : "D8.9",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/680"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/680/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/680/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.543+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.543+0000",
+      "uuid" : "9952012a-e927-4d04-85cd-36be5ce35fd1",
+      "inactive" : false,
+      "name" : "The facility provide services under National Programme for prevention and control of deafness",
+      "reference" : "D8.10",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/681"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/681/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/681/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.634+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.634+0000",
+      "uuid" : "d08da896-f502-4ec0-a800-e67723332268",
+      "inactive" : false,
+      "name" : "Facility Reports data for HMIS System as per Guidelines",
+      "reference" : "D8.16",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/682"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/682/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/682/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.720+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.720+0000",
+      "uuid" : "815463ce-55e1-4644-8d87-1abff41ba30e",
+      "inactive" : false,
+      "name" : "Facility Reports data for Mother & Child Tracking System as per Guidelines",
+      "reference" : "D8.15",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/683"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/683/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/683/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.821+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.821+0000",
+      "uuid" : "70dcd19b-3c76-4a43-8a7c-c6314b9384b2",
+      "inactive" : false,
+      "name" : "The facility provides monitoring & reporting services under National Vector Borne Disease Control Programme",
+      "reference" : "D8.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/684"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/684/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/684/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.911+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.911+0000",
+      "uuid" : "3676c551-4b0b-4874-a0a3-976a5dd913de",
+      "inactive" : false,
+      "name" : "The facility provides monitoring & reporting services under National Programme for the health care of the elderly as per guidelines",
+      "reference" : "D8.7",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/685"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/685/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/685/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:41.997+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:41.997+0000",
+      "uuid" : "3edfd9e3-0948-4816-841a-9520ad311783",
+      "inactive" : false,
+      "name" : "The facility provides services under National AIDS Control Programme",
+      "reference" : "D8.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/686"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/686/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/686/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.085+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.085+0000",
+      "uuid" : "f89c0613-c471-4769-bc65-777753e52b8d",
+      "inactive" : false,
+      "name" : "The facility provides monitoring & reporting services under National Leprosy Eradication Programme as per guidelines",
+      "reference" : "D8.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/687"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/687/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/687/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.185+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.185+0000",
+      "uuid" : "016e5c26-c596-4d2d-bcc5-03ae2f6c01a9",
+      "inactive" : false,
+      "name" : "The facility provides monitoring & reporting services under Universal Immunization Programme",
+      "reference" : "D8.12",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/688"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/688/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/688/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.274+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.274+0000",
+      "uuid" : "2c4bb53d-e678-4958-a24d-7efac09b93bf",
+      "inactive" : false,
+      "name" : "The facility provides services monitoring & reporting services under Revised National TB Control Programme",
+      "reference" : "D8.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/689"
+        },
+        "standardUUID" : {
+          "href" : "947f451c-5dca-4d38-babe-d7a686796568"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/689/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/689/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.362+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.362+0000",
+      "uuid" : "eb5cd719-db17-4335-b781-93a69e828608",
+      "inactive" : false,
+      "name" : "The facility has established job description as per govt guidelines",
+      "reference" : "D7.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/690"
+        },
+        "standardUUID" : {
+          "href" : "99aa6af0-0e71-4f6c-a027-ef2ceae8139b"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/690/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/690/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.453+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.453+0000",
+      "uuid" : "1a2f9541-c1c6-4c22-aea4-729e94eb6690",
+      "inactive" : false,
+      "name" : "The facility ensures the adherence to dress code as mandated by its administration / the health department",
+      "reference" : "D7.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/691"
+        },
+        "standardUUID" : {
+          "href" : "99aa6af0-0e71-4f6c-a027-ef2ceae8139b"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/691/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/691/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.541+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.541+0000",
+      "uuid" : "11251a12-e30f-42b9-ab2c-bc293c23e70d",
+      "inactive" : false,
+      "name" : "The facility has a established procedure for duty roster and deputation to different departments",
+      "reference" : "D7.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/692"
+        },
+        "standardUUID" : {
+          "href" : "99aa6af0-0e71-4f6c-a027-ef2ceae8139b"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/692/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/692/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.627+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.627+0000",
+      "uuid" : "40fdfa9a-3f21-4a64-b5b5-23cf2410d4bc",
+      "inactive" : false,
+      "name" : "The facility has adequate arrangement storage and supply for portable water in all functional areas",
+      "reference" : "D3.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/693"
+        },
+        "standardUUID" : {
+          "href" : "88d6db00-4a2d-4860-8552-b3f69f5c8cb7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/693/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/693/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.720+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.720+0000",
+      "uuid" : "710d6baa-3ae5-4812-8f61-3a4e85ed648e",
+      "inactive" : false,
+      "name" : "The facility provides diets according to nutritional requirements of the patients",
+      "reference" : "D3.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/694"
+        },
+        "standardUUID" : {
+          "href" : "88d6db00-4a2d-4860-8552-b3f69f5c8cb7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/694/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/694/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.826+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.826+0000",
+      "uuid" : "c68fcb07-97ee-4923-b2cc-3d1173115a85",
+      "inactive" : false,
+      "name" : "The facility provides Clean and adequate linen as per requirement",
+      "reference" : "D3.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/695"
+        },
+        "standardUUID" : {
+          "href" : "88d6db00-4a2d-4860-8552-b3f69f5c8cb7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/695/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/695/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:42.916+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:42.916+0000",
+      "uuid" : "57438115-2940-4e0c-b8a3-5029dd6557a3",
+      "inactive" : false,
+      "name" : "The facility ensures adequate power backup in all patient care areas as per load",
+      "reference" : "D3.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/696"
+        },
+        "standardUUID" : {
+          "href" : "88d6db00-4a2d-4860-8552-b3f69f5c8cb7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/696/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/696/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.008+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.008+0000",
+      "uuid" : "c1c2b583-f6ee-4add-8564-516c0ffd5f18",
+      "inactive" : false,
+      "name" : "The facility ensures its processes are in compliance with statutory & legal requirement",
+      "reference" : "D6.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/697"
+        },
+        "standardUUID" : {
+          "href" : "a1d22561-9e15-4b65-8464-22de0803c6c6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/697/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/697/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.096+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.096+0000",
+      "uuid" : "20df4660-be86-4e65-8b4d-30accf5a6328",
+      "inactive" : false,
+      "name" : "Updated copies of relevant laws, regulations and government orders are available at the facility",
+      "reference" : "D6.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/698"
+        },
+        "standardUUID" : {
+          "href" : "a1d22561-9e15-4b65-8464-22de0803c6c6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/698/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/698/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.184+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.184+0000",
+      "uuid" : "24678a2e-3013-4316-9d34-a7cfd11edd00",
+      "inactive" : false,
+      "name" : "The facility has requisite licences and certificates for operation of hospital and different activities",
+      "reference" : "D6.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/699"
+        },
+        "standardUUID" : {
+          "href" : "a1d22561-9e15-4b65-8464-22de0803c6c6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/699/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/699/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.274+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.274+0000",
+      "uuid" : "5ca68e64-00e8-4bb4-b150-fe6b41732eb7",
+      "inactive" : false,
+      "name" : "There is established procedure for Estimation, indenting & Procurement of drugs and consumables",
+      "reference" : "D2.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/700"
+        },
+        "standardUUID" : {
+          "href" : "340a19be-cdc9-47b1-8ecb-77d6191db079"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/700/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/700/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.361+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.361+0000",
+      "uuid" : "0423709e-b5a7-47f0-a55d-cdcc6c6e3437",
+      "inactive" : false,
+      "name" : "The facility ensures management of expiry and near expiry drugs",
+      "reference" : "D2.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/701"
+        },
+        "standardUUID" : {
+          "href" : "340a19be-cdc9-47b1-8ecb-77d6191db079"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/701/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/701/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.446+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.446+0000",
+      "uuid" : "99aa2c2b-536c-4210-8a38-3aae152c9cf2",
+      "inactive" : false,
+      "name" : "The facility has established procedure for inventory management techniques",
+      "reference" : "D2.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/702"
+        },
+        "standardUUID" : {
+          "href" : "340a19be-cdc9-47b1-8ecb-77d6191db079"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/702/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/702/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.530+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.530+0000",
+      "uuid" : "aaa1081e-57c2-4ff2-a5af-54abb87cc91d",
+      "inactive" : false,
+      "name" : "There is process for storage of vaccines and other drugs, requiring controlled temperature",
+      "reference" : "D2.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/703"
+        },
+        "standardUUID" : {
+          "href" : "340a19be-cdc9-47b1-8ecb-77d6191db079"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/703/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/703/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.623+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.623+0000",
+      "uuid" : "87448330-595d-4ac2-b236-768ed94436ef",
+      "inactive" : false,
+      "name" : "The facility ensures proper storage of drugs and consumables",
+      "reference" : "D2.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/704"
+        },
+        "standardUUID" : {
+          "href" : "340a19be-cdc9-47b1-8ecb-77d6191db079"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/704/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/704/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.712+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.712+0000",
+      "uuid" : "5262b04b-e69b-4ef5-b2b4-7d9f32111658",
+      "inactive" : false,
+      "name" : "There is a system of periodic review of quality of out sourced services",
+      "reference" : "D5.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/705"
+        },
+        "standardUUID" : {
+          "href" : "9337ebe8-bb2c-446b-8f61-1e96f84ba1be"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/705/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/705/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.807+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.807+0000",
+      "uuid" : "14856a06-497c-43b3-9d9e-435b2ea6f21d",
+      "inactive" : false,
+      "name" : "There is established system for contract management for out sourced services",
+      "reference" : "D5.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/706"
+        },
+        "standardUUID" : {
+          "href" : "9337ebe8-bb2c-446b-8f61-1e96f84ba1be"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/706/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/706/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.897+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.897+0000",
+      "uuid" : "0f8ddbd6-f2be-47c2-a3f6-511ea4c9a5f9",
+      "inactive" : false,
+      "name" : "The facility ensures the proper utilization of fund provided to it",
+      "reference" : "D5.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/707"
+        },
+        "standardUUID" : {
+          "href" : "9337ebe8-bb2c-446b-8f61-1e96f84ba1be"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/707/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/707/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:43.992+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:43.992+0000",
+      "uuid" : "7151f55d-a3fd-4f9e-9343-41cf1515d9f3",
+      "inactive" : false,
+      "name" : "The facility ensures proper planning and requisition of resources based on its need",
+      "reference" : "D5.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/708"
+        },
+        "standardUUID" : {
+          "href" : "9337ebe8-bb2c-446b-8f61-1e96f84ba1be"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/708/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/708/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.083+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.083+0000",
+      "uuid" : "d4739ad7-5cb7-45d8-96f1-1c01a7d4ed39",
+      "inactive" : false,
+      "name" : "Facility maintains the open area and landscaping of them",
+      "reference" : "D1.9",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/709"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/709/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/709/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.171+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.171+0000",
+      "uuid" : "f7680ab0-bb55-4aa5-96f3-72ea98b726b5",
+      "inactive" : false,
+      "name" : "The facility has system for maintenance of critical Equipment",
+      "reference" : "D1.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/710"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/710/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/710/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.261+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.261+0000",
+      "uuid" : "5191c146-af9c-40d9-a66f-57a59df80d91",
+      "inactive" : false,
+      "name" : "The facility has procedure for calibration of measuring Equipment",
+      "reference" : "D1.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/711"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/711/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/711/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.351+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.351+0000",
+      "uuid" : "85f4bf67-32c6-4a5e-be5d-6b567f3366fc",
+      "inactive" : false,
+      "name" : "The facility provides adequate illumination level at patient care areas",
+      "reference" : "D1.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/712"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/712/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/712/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.440+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.440+0000",
+      "uuid" : "47656c06-26d3-4aba-95d1-54426d3ed3ac",
+      "inactive" : false,
+      "name" : "Patient care areas are clean and hygienic",
+      "reference" : "D1.7",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/713"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/713/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/713/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.523+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.523+0000",
+      "uuid" : "ab03bc53-5857-4810-a886-2911ed0cc423",
+      "inactive" : false,
+      "name" : "Facility infrastructure is adequately maintained",
+      "reference" : "D1.8",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/714"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/714/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/714/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.608+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.608+0000",
+      "uuid" : "bd9b8bc7-b25e-4a94-916c-920ea02b7eee",
+      "inactive" : false,
+      "name" : "Facility has policy of removal of condemned junk material",
+      "reference" : "D1.10",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/715"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/715/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/715/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.692+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.692+0000",
+      "uuid" : "1d4277c5-16a5-4645-bb64-ef77b0cbb006",
+      "inactive" : false,
+      "name" : "The facility has security system in place at patient care areas",
+      "reference" : "D1.12",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/716"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/716/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/716/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.781+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.781+0000",
+      "uuid" : "69ba6394-0de1-47ea-b748-b605ebdc7eb8",
+      "inactive" : false,
+      "name" : "Exterior of the facility building is maintained appropriately",
+      "reference" : "D1.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/717"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/717/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/717/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.880+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.880+0000",
+      "uuid" : "5c05110c-85a3-45b6-97ff-510c1db76ca7",
+      "inactive" : false,
+      "name" : "Facility has established procedures for pest, rodent and animal control",
+      "reference" : "D1.11",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/718"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/718/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/718/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:44.970+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:44.970+0000",
+      "uuid" : "a959bc99-eefc-45d5-ba68-2c473ece6f78",
+      "inactive" : false,
+      "name" : "Operating and maintenance instructions are available with the users of equipment",
+      "reference" : "D1.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/719"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/719/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/719/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.057+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.057+0000",
+      "uuid" : "fe8976ed-7be6-4dcc-b9ca-b298017d436b",
+      "inactive" : false,
+      "name" : "The facility ensures comfortable environment for patients and service providers",
+      "reference" : "D1.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/720"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/720/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/720/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.148+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.148+0000",
+      "uuid" : "e70ba914-bf9e-4451-a4b6-8301b80a2530",
+      "inactive" : false,
+      "name" : "The facility has established measure for safety and security of female staff",
+      "reference" : "D1.13",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/721"
+        },
+        "standardUUID" : {
+          "href" : "2b86168a-fc94-4835-8f2c-f66832aeacfb"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/721/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/721/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.243+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.243+0000",
+      "uuid" : "0a103552-37f4-405d-ae26-26f4a542cdd1",
+      "inactive" : false,
+      "name" : "There is an established procedure for identification and management of anaemia",
+      "reference" : "E9.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/722"
+        },
+        "standardUUID" : {
+          "href" : "b88641d8-bc8d-4cda-8706-15282b90aa22"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/722/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/722/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.340+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.340+0000",
+      "uuid" : "fe0eb114-f807-4b95-ae24-ce48bc1a4da1",
+      "inactive" : false,
+      "name" : "The facility ensures of drugs & diagnostics are prescribed as per protocol",
+      "reference" : "E9.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/723"
+        },
+        "standardUUID" : {
+          "href" : "b88641d8-bc8d-4cda-8706-15282b90aa22"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/723/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/723/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.428+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.428+0000",
+      "uuid" : "831f96e5-0143-4621-8484-51afee883438",
+      "inactive" : false,
+      "name" : "There is an established procedure for identification of High risk pregnancy and appropriate & Timely referral.",
+      "reference" : "E9.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/724"
+        },
+        "standardUUID" : {
+          "href" : "b88641d8-bc8d-4cda-8706-15282b90aa22"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/724/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/724/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.513+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.513+0000",
+      "uuid" : "7ad5734f-f04b-497b-beb5-93ad107a2620",
+      "inactive" : false,
+      "name" : "There is an established procedure for Registration and follow up of pregnant women.",
+      "reference" : "E9.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/725"
+        },
+        "standardUUID" : {
+          "href" : "b88641d8-bc8d-4cda-8706-15282b90aa22"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/725/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/725/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.602+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.602+0000",
+      "uuid" : "562f677a-494d-4ec2-bbc7-cf0fab9254db",
+      "inactive" : false,
+      "name" : "There is an established procedure for History taking, Physical examination, and counseling of each antenatal woman, visiting the facility.",
+      "reference" : "E9.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/726"
+        },
+        "standardUUID" : {
+          "href" : "b88641d8-bc8d-4cda-8706-15282b90aa22"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/726/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/726/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.693+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.693+0000",
+      "uuid" : "38a3f9ed-46b5-41fb-916f-a6e6c26878f5",
+      "inactive" : false,
+      "name" : "Counselling of pregnant women is done as per standard protocol and gestational age",
+      "reference" : "E9.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/727"
+        },
+        "standardUUID" : {
+          "href" : "b88641d8-bc8d-4cda-8706-15282b90aa22"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/727/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/727/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.781+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.781+0000",
+      "uuid" : "24381e65-26bb-4b16-b3c4-dd162193a4b4",
+      "inactive" : false,
+      "name" : "There is procedure of rational use of drugs",
+      "reference" : "E4.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/728"
+        },
+        "standardUUID" : {
+          "href" : "3d04e9c6-cef9-4c2b-bc32-a5c1d90568a9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/728/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/728/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.868+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.868+0000",
+      "uuid" : "e50d89fe-1357-4757-b636-c6ddebf64154",
+      "inactive" : false,
+      "name" : "There is a system to ensure right medicine is given to right patient",
+      "reference" : "E4.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/729"
+        },
+        "standardUUID" : {
+          "href" : "3d04e9c6-cef9-4c2b-bc32-a5c1d90568a9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/729/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/729/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:45.955+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:45.955+0000",
+      "uuid" : "27a743f1-aac8-47c8-9330-db66df2bbbf0",
+      "inactive" : false,
+      "name" : "The facility ensures that drugs are prescribed in generic name only",
+      "reference" : "E4.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/730"
+        },
+        "standardUUID" : {
+          "href" : "3d04e9c6-cef9-4c2b-bc32-a5c1d90568a9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/730/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/730/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.039+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.039+0000",
+      "uuid" : "2ae2dacb-6321-483d-9bf9-0696042975ce",
+      "inactive" : false,
+      "name" : "Medication orders are written legibly and adequately",
+      "reference" : "E4.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/731"
+        },
+        "standardUUID" : {
+          "href" : "3d04e9c6-cef9-4c2b-bc32-a5c1d90568a9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/731/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/731/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.123+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.123+0000",
+      "uuid" : "25b8c01b-f251-48b5-a037-fa2879146920",
+      "inactive" : false,
+      "name" : "Patient is counselled for self drug administration",
+      "reference" : "E4.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/732"
+        },
+        "standardUUID" : {
+          "href" : "3d04e9c6-cef9-4c2b-bc32-a5c1d90568a9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/732/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/732/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.213+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.213+0000",
+      "uuid" : "cfb570a9-9c7f-4be6-8a71-fea74850b56c",
+      "inactive" : false,
+      "name" : "There is a procedure to check drug before administration/ dispensing",
+      "reference" : "E4.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/733"
+        },
+        "standardUUID" : {
+          "href" : "3d04e9c6-cef9-4c2b-bc32-a5c1d90568a9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/733/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/733/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.305+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.305+0000",
+      "uuid" : "7e485b7d-0f2c-49a2-aace-bb0859d4f004",
+      "inactive" : false,
+      "name" : "Drugs are prescribed according to Standard Treatment Guidelines",
+      "reference" : "E4.7",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/734"
+        },
+        "standardUUID" : {
+          "href" : "3d04e9c6-cef9-4c2b-bc32-a5c1d90568a9"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/734/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/734/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.396+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.396+0000",
+      "uuid" : "14ce9d7c-9fca-4000-bbe2-63e6494b76b6",
+      "inactive" : false,
+      "name" : "Discharge is done after assessing patient readiness",
+      "reference" : "E6.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/735"
+        },
+        "standardUUID" : {
+          "href" : "e1e9f869-f143-45b3-aacc-bbb55f1a1dae"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/735/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/735/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.482+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.482+0000",
+      "uuid" : "14261735-1955-40e1-9aa3-b2ebfdfbb40b",
+      "inactive" : false,
+      "name" : "The facility has established procedure for patients leaving the facility against medical advice, absconding, etc.",
+      "reference" : "E6.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/736"
+        },
+        "standardUUID" : {
+          "href" : "e1e9f869-f143-45b3-aacc-bbb55f1a1dae"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/736/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/736/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.568+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.568+0000",
+      "uuid" : "a7e8435a-a324-4ca2-8d83-adda695bd5bc",
+      "inactive" : false,
+      "name" : "Counselling services are provided as during discharges wherever required",
+      "reference" : "E6.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/737"
+        },
+        "standardUUID" : {
+          "href" : "e1e9f869-f143-45b3-aacc-bbb55f1a1dae"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/737/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/737/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.655+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.655+0000",
+      "uuid" : "29e1a700-4418-470d-bd8d-44c7671d985a",
+      "inactive" : false,
+      "name" : "Case summary and follow-up instructions are provided at the discharge",
+      "reference" : "E6.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/738"
+        },
+        "standardUUID" : {
+          "href" : "e1e9f869-f143-45b3-aacc-bbb55f1a1dae"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/738/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/738/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.743+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.743+0000",
+      "uuid" : "53053c86-22f0-41d7-ba7b-51ac69ed4b3f",
+      "inactive" : false,
+      "name" : "The facility provides services under National Leprosy Eradication Programme as per guidelines",
+      "reference" : "E15.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/739"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/739/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/739/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.831+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.831+0000",
+      "uuid" : "4a8b0209-9078-4f53-9189-6293d5c17050",
+      "inactive" : false,
+      "name" : "The facility provides services under National tobacco Control Programme",
+      "reference" : "E15.14",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/740"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/740/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/740/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:46.920+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:46.920+0000",
+      "uuid" : "9b6ffc8b-596a-4940-95e8-b121e46890af",
+      "inactive" : false,
+      "name" : "The facility provide services under National Programme for prevention and control of deafness",
+      "reference" : "E15.10",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/741"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/741/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/741/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.008+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.008+0000",
+      "uuid" : "ef4962cc-f166-4f92-959c-4b8e300914c7",
+      "inactive" : false,
+      "name" : "The facility provides services under Universal Immunization Programme",
+      "reference" : "E15.12",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/742"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/742/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/742/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.130+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.130+0000",
+      "uuid" : "282941f7-df91-4c26-8158-612976abeed3",
+      "inactive" : false,
+      "name" : "The facility provide service for Integrated disease surveillance Programme",
+      "reference" : "E15.9",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/743"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/743/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/743/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.218+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.218+0000",
+      "uuid" : "c38ab5d8-d053-4e5f-9b89-fe4c860c55f5",
+      "inactive" : false,
+      "name" : "The facility provides services under Mental Health Programme as per guidelines",
+      "reference" : "E15.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/744"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/744/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/744/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.305+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.305+0000",
+      "uuid" : "470b184e-8a9a-45b9-b3ce-d8cbfb6aa130",
+      "inactive" : false,
+      "name" : "The facility provides services under National Vector Borne Disease Control Programme as per guidelines",
+      "reference" : "E15.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/745"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/745/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/745/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.396+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.396+0000",
+      "uuid" : "eb562714-a18e-40bd-86d2-8fcd328707c9",
+      "inactive" : false,
+      "name" : "The facility provides services under Revised National TB Control Programme as per guidelines",
+      "reference" : "E15.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/746"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/746/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/746/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.482+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.482+0000",
+      "uuid" : "96abb770-d5ca-427f-8683-0fa5235d411f",
+      "inactive" : false,
+      "name" : "The facility provides services under National AIDS Control Programme as per guidelines",
+      "reference" : "E15.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/747"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/747/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/747/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.577+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.577+0000",
+      "uuid" : "3d56a100-b830-4f14-9668-ccb0d36551a4",
+      "inactive" : false,
+      "name" : "The facility provides services under School Health Programme",
+      "reference" : "E15.11",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/748"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/748/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/748/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.661+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.661+0000",
+      "uuid" : "1f4dfd2c-38d1-449e-80b7-94b5e3e5e8bf",
+      "inactive" : false,
+      "name" : "The facility provides services under National Programme for control of Blindness as per guidelines",
+      "reference" : "E15.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/749"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/749/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/749/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.747+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.747+0000",
+      "uuid" : "0dfd2b47-ffe4-4176-b5be-dbc1c8562394",
+      "inactive" : false,
+      "name" : "The facility provides services under National Programme for the health care of the elderly as per guidelines",
+      "reference" : "E15.7",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/750"
+        },
+        "standardUUID" : {
+          "href" : "0f3dbe78-37a7-4f59-8345-649602622db8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/750/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/750/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.842+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.842+0000",
+      "uuid" : "b3e33b66-3e67-4e71-aa6f-9c8a84b6899f",
+      "inactive" : false,
+      "name" : "The facility ensures safe and adequate storage and retrieval of medical records",
+      "reference" : "E5.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/751"
+        },
+        "standardUUID" : {
+          "href" : "bdf5d540-8059-4a71-b34f-cc6dfd795be7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/751/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/751/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:47.952+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:47.952+0000",
+      "uuid" : "3d85d1d6-25d4-49c3-af36-4e7dbe74bc83",
+      "inactive" : false,
+      "name" : "Procedures performed are written on patients records",
+      "reference" : "E5.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/752"
+        },
+        "standardUUID" : {
+          "href" : "bdf5d540-8059-4a71-b34f-cc6dfd795be7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/752/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/752/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.049+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.049+0000",
+      "uuid" : "41217587-db65-48a4-b8e9-64a06618dc83",
+      "inactive" : false,
+      "name" : "All the assessments, re-assessment and investigations are recorded and updated",
+      "reference" : "E5.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/753"
+        },
+        "standardUUID" : {
+          "href" : "bdf5d540-8059-4a71-b34f-cc6dfd795be7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/753/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/753/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.135+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.135+0000",
+      "uuid" : "6be16928-ba50-4a72-8be7-0613462f0b8c",
+      "inactive" : false,
+      "name" : "All treatment plan prescription/orders are recorded in the patient records.",
+      "reference" : "E5.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/754"
+        },
+        "standardUUID" : {
+          "href" : "bdf5d540-8059-4a71-b34f-cc6dfd795be7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/754/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/754/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.224+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.224+0000",
+      "uuid" : "c7bd498a-6bb5-4cb0-ba20-acb6144c3380",
+      "inactive" : false,
+      "name" : "Adequate form and formats are available at point of use",
+      "reference" : "E5.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/755"
+        },
+        "standardUUID" : {
+          "href" : "bdf5d540-8059-4a71-b34f-cc6dfd795be7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/755/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/755/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.315+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.315+0000",
+      "uuid" : "b4a7440a-0448-47c9-a8bb-8dc5446a0a7a",
+      "inactive" : false,
+      "name" : "Register/records are maintained as per guidelines",
+      "reference" : "E5.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/756"
+        },
+        "standardUUID" : {
+          "href" : "bdf5d540-8059-4a71-b34f-cc6dfd795be7"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/756/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/756/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.403+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.403+0000",
+      "uuid" : "3eb3b213-3241-4eeb-a1d9-d5aac58a8c32",
+      "inactive" : false,
+      "name" : "There is established procedure for initial assessment & Reassessment of patients",
+      "reference" : "E2.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/757"
+        },
+        "standardUUID" : {
+          "href" : "e972ee49-353c-476a-9032-69e713a963dd"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/757/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/757/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.491+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.491+0000",
+      "uuid" : "3c6720c8-06f4-45cf-b6d0-1c40d4493be6",
+      "inactive" : false,
+      "name" : "The facility provides appropriate referral linkages for transfer to other/higher facilities to assure the continuity of care.",
+      "reference" : "E2.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/758"
+        },
+        "standardUUID" : {
+          "href" : "e972ee49-353c-476a-9032-69e713a963dd"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/758/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/758/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.580+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.580+0000",
+      "uuid" : "d49bbcbb-979b-404c-86cd-0a8242996604",
+      "inactive" : false,
+      "name" : "Facility ensures follow up of patients",
+      "reference" : "E2.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/759"
+        },
+        "standardUUID" : {
+          "href" : "e972ee49-353c-476a-9032-69e713a963dd"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/759/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/759/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.669+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.669+0000",
+      "uuid" : "520f18d0-5b70-40b7-94cd-5e60bc5c7f1b",
+      "inactive" : false,
+      "name" : "The facility Provides Referral Services for ARSH",
+      "reference" : "E14.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/760"
+        },
+        "standardUUID" : {
+          "href" : "304dcffa-a97e-44b1-9d65-522afd7597d8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/760/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/760/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.757+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.757+0000",
+      "uuid" : "b536ebf2-294c-4bd6-bec6-5d9d89ed4ffb",
+      "inactive" : false,
+      "name" : "The facility provides Promotive ARSH Services",
+      "reference" : "E14.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/761"
+        },
+        "standardUUID" : {
+          "href" : "304dcffa-a97e-44b1-9d65-522afd7597d8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/761/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/761/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.842+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.842+0000",
+      "uuid" : "7bc7d5c6-f2f5-43bb-918f-48ec01ef69dd",
+      "inactive" : false,
+      "name" : "The facility provides Preventive ARSH Services",
+      "reference" : "E14.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/762"
+        },
+        "standardUUID" : {
+          "href" : "304dcffa-a97e-44b1-9d65-522afd7597d8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/762/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/762/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:48.925+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:48.925+0000",
+      "uuid" : "8e7bac50-2469-4997-a7af-4477abeb1dba",
+      "inactive" : false,
+      "name" : "The facility Provides Curative ARSH Services",
+      "reference" : "E14.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/763"
+        },
+        "standardUUID" : {
+          "href" : "304dcffa-a97e-44b1-9d65-522afd7597d8"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/763/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/763/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.022+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.022+0000",
+      "uuid" : "8db67d91-7dc7-4c68-84e5-fe0aada7698e",
+      "inactive" : false,
+      "name" : "Established procedures and standard protocols for management of different stages of labour including AMTSL (Active Management of third Stage of labour) are followed at the facility",
+      "reference" : "E10.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/764"
+        },
+        "standardUUID" : {
+          "href" : "3218f009-0883-4cc6-9540-177c9cb0ff3d"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/764/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/764/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.110+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.110+0000",
+      "uuid" : "e80aac93-0032-4b43-a762-0d48361973ae",
+      "inactive" : false,
+      "name" : "There is an established procedure for new born resuscitation and newborn care.",
+      "reference" : "E10.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/765"
+        },
+        "standardUUID" : {
+          "href" : "3218f009-0883-4cc6-9540-177c9cb0ff3d"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/765/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/765/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.196+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.196+0000",
+      "uuid" : "bba765a7-86e7-4462-b118-2865ce67f2e5",
+      "inactive" : false,
+      "name" : "There is established procedure for management/Referral of Obstetrics Emergencies as per scope of services.",
+      "reference" : "E10.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/766"
+        },
+        "standardUUID" : {
+          "href" : "3218f009-0883-4cc6-9540-177c9cb0ff3d"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/766/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/766/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.305+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.305+0000",
+      "uuid" : "d8a029e5-3658-41a7-a172-3aded8423945",
+      "inactive" : false,
+      "name" : "Family planning counselling services provided as per guidelines",
+      "reference" : "E13.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/767"
+        },
+        "standardUUID" : {
+          "href" : "002bf947-9d51-4602-a49a-9a00d7c772f6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/767/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/767/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.427+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.427+0000",
+      "uuid" : "23ff848e-7ffb-4520-b1d7-32508fc62e8d",
+      "inactive" : false,
+      "name" : "The facility provides IUD service for family planning as per guidelines",
+      "reference" : "E13.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/768"
+        },
+        "standardUUID" : {
+          "href" : "002bf947-9d51-4602-a49a-9a00d7c772f6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/768/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/768/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.514+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.514+0000",
+      "uuid" : "ba6aa9ac-d344-4be9-84da-c7c8437048a4",
+      "inactive" : false,
+      "name" : "The facility provides spacing method of family planning as per guideline",
+      "reference" : "E13.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/769"
+        },
+        "standardUUID" : {
+          "href" : "002bf947-9d51-4602-a49a-9a00d7c772f6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/769/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/769/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.602+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.602+0000",
+      "uuid" : "a2bf6a1c-cb74-4968-8c87-a24c88098223",
+      "inactive" : false,
+      "name" : "The facility provide counselling services for abortion as per guideline",
+      "reference" : "E13.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/770"
+        },
+        "standardUUID" : {
+          "href" : "002bf947-9d51-4602-a49a-9a00d7c772f6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/770/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/770/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.685+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.685+0000",
+      "uuid" : "da603ad4-8b19-4006-8163-99361485701a",
+      "inactive" : false,
+      "name" : "The facility provide abortion services for 1st trimester as per guideline",
+      "reference" : "E13.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/771"
+        },
+        "standardUUID" : {
+          "href" : "002bf947-9d51-4602-a49a-9a00d7c772f6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/771/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/771/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.776+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.776+0000",
+      "uuid" : "5553ace4-c6a9-4de0-a18a-798e50d7efb9",
+      "inactive" : false,
+      "name" : "The facility has a established procedure for OPD consultation",
+      "reference" : "E1.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/772"
+        },
+        "standardUUID" : {
+          "href" : "35fea841-a000-47cd-939c-632dc99f52c2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/772/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/772/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.867+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.867+0000",
+      "uuid" : "823ca779-f063-4abd-83af-270fe5dc2866",
+      "inactive" : false,
+      "name" : "The facility has established procedure for registration of patients",
+      "reference" : "E1.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/773"
+        },
+        "standardUUID" : {
+          "href" : "35fea841-a000-47cd-939c-632dc99f52c2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/773/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/773/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:49.956+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:49.956+0000",
+      "uuid" : "805628ee-06be-40df-8450-60d8f1a9bde4",
+      "inactive" : false,
+      "name" : "There is established procedure for admission of patients",
+      "reference" : "E1.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/774"
+        },
+        "standardUUID" : {
+          "href" : "35fea841-a000-47cd-939c-632dc99f52c2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/774/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/774/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.052+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.052+0000",
+      "uuid" : "85bd4ae5-46d1-4c24-ba01-f03138d3158b",
+      "inactive" : false,
+      "name" : "There are established procedures for Pre-testing Activities",
+      "reference" : "E8.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/775"
+        },
+        "standardUUID" : {
+          "href" : "2b976c55-b905-4d73-995d-b1b7be6380e2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/775/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/775/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.304+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.304+0000",
+      "uuid" : "1f614227-7fdc-45c3-8069-8c415edc8ec4",
+      "inactive" : false,
+      "name" : "There are established procedures for Laboratory Diagnosis of Malaria as per prevelant Guidelines",
+      "reference" : "E8.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/776"
+        },
+        "standardUUID" : {
+          "href" : "2b976c55-b905-4d73-995d-b1b7be6380e2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/776/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/776/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.394+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.394+0000",
+      "uuid" : "89e07922-d57a-4a72-a834-7bbc3aaf6792",
+      "inactive" : false,
+      "name" : "There are established procedures for Post-testing Activities",
+      "reference" : "E8.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/777"
+        },
+        "standardUUID" : {
+          "href" : "2b976c55-b905-4d73-995d-b1b7be6380e2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/777/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/777/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.486+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.486+0000",
+      "uuid" : "8e3a0297-75e7-4e50-ba4f-e8e2b620dff7",
+      "inactive" : false,
+      "name" : "There are established procedures for testing Activities",
+      "reference" : "E8.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/778"
+        },
+        "standardUUID" : {
+          "href" : "2b976c55-b905-4d73-995d-b1b7be6380e2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/778/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/778/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.578+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.578+0000",
+      "uuid" : "316f387d-ac50-4ef4-873b-33977bc8ac51",
+      "inactive" : false,
+      "name" : "There are established procedures for Laboratory Diagnosis of Tuberculosis as per prevelant Guidelines",
+      "reference" : "E8.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/779"
+        },
+        "standardUUID" : {
+          "href" : "2b976c55-b905-4d73-995d-b1b7be6380e2"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/779/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/779/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.671+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.671+0000",
+      "uuid" : "9bad4469-cdf6-439b-a1ff-26c92ba26206",
+      "inactive" : false,
+      "name" : "There is procedure for handling medico legal cases",
+      "reference" : "E7.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/780"
+        },
+        "standardUUID" : {
+          "href" : "a15a309f-51f3-4e35-9254-3abbd1f2af99"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/780/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/780/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.761+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.761+0000",
+      "uuid" : "45a3a408-a95a-4f90-8142-5c2dd65ccd28",
+      "inactive" : false,
+      "name" : "The facility has disaster management plan in place",
+      "reference" : "E7.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/781"
+        },
+        "standardUUID" : {
+          "href" : "a15a309f-51f3-4e35-9254-3abbd1f2af99"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/781/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/781/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.857+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.857+0000",
+      "uuid" : "0c71b13f-e71e-4cd9-94df-3ed30290f547",
+      "inactive" : false,
+      "name" : "There is procedure for Receiving and triage of patients",
+      "reference" : "E7.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/782"
+        },
+        "standardUUID" : {
+          "href" : "a15a309f-51f3-4e35-9254-3abbd1f2af99"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/782/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/782/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:50.954+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:50.954+0000",
+      "uuid" : "46e7040b-74ce-4220-a218-5c5c377016b7",
+      "inactive" : false,
+      "name" : "The facility ensures adequate and timely availability of ambulances services",
+      "reference" : "E7.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/783"
+        },
+        "standardUUID" : {
+          "href" : "a15a309f-51f3-4e35-9254-3abbd1f2af99"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/783/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/783/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.049+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.049+0000",
+      "uuid" : "1cdce060-b26e-42bf-8006-a2c75ee76863",
+      "inactive" : false,
+      "name" : "Emergency protocols are defined and implemented",
+      "reference" : "E7.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/784"
+        },
+        "standardUUID" : {
+          "href" : "a15a309f-51f3-4e35-9254-3abbd1f2af99"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/784/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/784/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.156+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.156+0000",
+      "uuid" : "6f4a0d1c-04f1-4c35-af27-15cdfe14bdd4",
+      "inactive" : false,
+      "name" : "The facility provides immunization services as per guidelines",
+      "reference" : "E12.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/785"
+        },
+        "standardUUID" : {
+          "href" : "bbaba72e-80ff-4a10-82a0-dd52133a1646"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/785/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/785/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.247+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.247+0000",
+      "uuid" : "143f1f36-6b7c-40b0-8e4d-6423dfb6f3d4",
+      "inactive" : false,
+      "name" : "Management of children with severe\nAcute Malnutrition is done as per guidelines",
+      "reference" : "E12.5",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/786"
+        },
+        "standardUUID" : {
+          "href" : "bbaba72e-80ff-4a10-82a0-dd52133a1646"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/786/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/786/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.336+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.336+0000",
+      "uuid" : "0238e1b8-d7ef-4784-a3d1-29e772ac519c",
+      "inactive" : false,
+      "name" : "Triage, Assessment & Management of newborns having \nemergency signs are done as per guidelines",
+      "reference" : "E12.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/787"
+        },
+        "standardUUID" : {
+          "href" : "bbaba72e-80ff-4a10-82a0-dd52133a1646"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/787/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/787/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.426+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.426+0000",
+      "uuid" : "ba8a45a2-6042-40fe-837e-153bec0cdc5b",
+      "inactive" : false,
+      "name" : "Management of children presenting\ndiarrhoea is done per guidelines",
+      "reference" : "E12.6",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/788"
+        },
+        "standardUUID" : {
+          "href" : "bbaba72e-80ff-4a10-82a0-dd52133a1646"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/788/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/788/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.515+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.515+0000",
+      "uuid" : "4e600ce2-6ffe-4cc1-bc4b-2a8a409a6e41",
+      "inactive" : false,
+      "name" : "Management of Newborn Illness is done as per Protocols",
+      "reference" : "E12.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/789"
+        },
+        "standardUUID" : {
+          "href" : "bbaba72e-80ff-4a10-82a0-dd52133a1646"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/789/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/789/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.604+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.604+0000",
+      "uuid" : "6b839494-0654-48c3-bb37-7d7eb59fd994",
+      "inactive" : false,
+      "name" : "Management of children presenting\nwith fever, cough/ breathlessness is done as per guidelines",
+      "reference" : "E12.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/790"
+        },
+        "standardUUID" : {
+          "href" : "bbaba72e-80ff-4a10-82a0-dd52133a1646"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/790/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/790/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.695+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.695+0000",
+      "uuid" : "94e1165c-94fb-4e80-9322-36e2a3a672fa",
+      "inactive" : false,
+      "name" : "Nursing records are maintained",
+      "reference" : "E3.4",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/791"
+        },
+        "standardUUID" : {
+          "href" : "8956f03d-173f-4ce8-b841-2a77021e201b"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/791/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/791/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.783+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.783+0000",
+      "uuid" : "bb74b452-90d5-4d18-a309-34ca5cd5e66a",
+      "inactive" : false,
+      "name" : "Procedure for ensuring timely and accurate nursing care as per treatment plan is established at the facility",
+      "reference" : "E3.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/792"
+        },
+        "standardUUID" : {
+          "href" : "8956f03d-173f-4ce8-b841-2a77021e201b"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/792/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/792/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.868+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.868+0000",
+      "uuid" : "65f4f980-2401-4f91-9509-873000db2bf8",
+      "inactive" : false,
+      "name" : "Procedure for identification of patients is established at the facility",
+      "reference" : "E3.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/793"
+        },
+        "standardUUID" : {
+          "href" : "8956f03d-173f-4ce8-b841-2a77021e201b"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/793/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/793/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:51.961+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:51.961+0000",
+      "uuid" : "e8dbfa0b-ca23-466d-bd7a-e35df06dd2aa",
+      "inactive" : false,
+      "name" : "There is established procedure of patient hand over, whenever staff duty change happens",
+      "reference" : "E3.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/794"
+        },
+        "standardUUID" : {
+          "href" : "8956f03d-173f-4ce8-b841-2a77021e201b"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/794/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/794/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:52.053+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:52.053+0000",
+      "uuid" : "e4af7a43-fdee-4a5b-a125-6d481c9c5672",
+      "inactive" : false,
+      "name" : "Post partum Care is provided to the mothers",
+      "reference" : "E11.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/795"
+        },
+        "standardUUID" : {
+          "href" : "c662cfc5-3afe-4f5f-9f1f-10dc444e8dc6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/795/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/795/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:52.143+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:52.143+0000",
+      "uuid" : "927ea0f7-53a8-4981-b73d-ec088251ab91",
+      "inactive" : false,
+      "name" : "There is an established procedure for Post partum counselling of mother",
+      "reference" : "E11.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/796"
+        },
+        "standardUUID" : {
+          "href" : "c662cfc5-3afe-4f5f-9f1f-10dc444e8dc6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/796/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/796/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:52.232+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:52.232+0000",
+      "uuid" : "eb1da28a-9f7f-4e67-a15f-25b02c50d8b8",
+      "inactive" : false,
+      "name" : "The facility ensures adequate stay of mother and newborn in a safe environment as per standard Protocols.",
+      "reference" : "E11.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/797"
+        },
+        "standardUUID" : {
+          "href" : "c662cfc5-3afe-4f5f-9f1f-10dc444e8dc6"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/797/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/797/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:52.319+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:52.319+0000",
+      "uuid" : "3dc866e4-c4c5-4f7a-ab86-9fb452cfaedc",
+      "inactive" : false,
+      "name" : "The facility ensures standard practices and materials for disinfection and sterilization of instruments and equipment",
+      "reference" : "F4.2",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/798"
+        },
+        "standardUUID" : {
+          "href" : "555eb7b7-d717-4801-bded-38527fb80f6e"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/798/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/798/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:52.409+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:52.409+0000",
+      "uuid" : "c80fed8f-e481-4741-bd42-5fd49ac7395f",
+      "inactive" : false,
+      "name" : "The facility ensures standard practices and materials for decontamination and cleaning of instruments and procedures areas",
+      "reference" : "F4.1",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/799"
+        },
+        "standardUUID" : {
+          "href" : "555eb7b7-d717-4801-bded-38527fb80f6e"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/799/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/799/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:52.497+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:52.497+0000",
+      "uuid" : "07d60812-c61d-4a33-8584-1f4c8b18fab6",
+      "inactive" : false,
+      "name" : "The facility ensures standard practices are followed for the cleaning and disinfection of patient care areas",
+      "reference" : "F5.3",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/800"
+        },
+        "standardUUID" : {
+          "href" : "a315f89c-aca9-442b-9a79-f3964d7ceee4"
+        },
+        "checkpoints" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/800/checkpoints"
+        },
+        "standard" : {
+          "href" : "http://dev.gunak.org:6001/api/measurableElement/800/standard"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "first" : {
+      "href" : "http://dev.gunak.org:6001/api/measurableElement/search/lastModified?lastModifiedDate=1900-01-01T00:00:00.001Z&page=0&size=200"
+    },
+    "prev" : {
+      "href" : "http://dev.gunak.org:6001/api/measurableElement/search/lastModified?lastModifiedDate=1900-01-01T00:00:00.001Z&page=2&size=200"
+    },
+    "self" : {
+      "href" : "http://dev.gunak.org:6001/api/measurableElement/search/lastModified?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=3"
+    },
+    "next" : {
+      "href" : "http://dev.gunak.org:6001/api/measurableElement/search/lastModified?lastModifiedDate=1900-01-01T00:00:00.001Z&page=4&size=200"
+    },
+    "last" : {
+      "href" : "http://dev.gunak.org:6001/api/measurableElement/search/lastModified?lastModifiedDate=1900-01-01T00:00:00.001Z&page=8&size=200"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 1771,
+    "totalPages" : 9,
+    "number" : 3
+  }
+}
