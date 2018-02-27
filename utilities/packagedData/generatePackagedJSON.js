@@ -42,4 +42,4 @@ var generate = function (inputBaseDir, outputDir) {
     fs.writeFileSync(outputDir + '/PackagedJSON.js', message);
 };
 
-generate('./nhsrc/output/recorded-response/jsons/4', './nhsrc/output/recorded-response');
+generate('./nhsrc/output/recorded-response/jsons/5', './nhsrc/output/recorded-response');
