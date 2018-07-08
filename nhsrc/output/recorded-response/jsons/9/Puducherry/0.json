@@ -1,0 +1,96 @@
+{
+  "_embedded" : {
+    "district" : [ {
+      "createdDate" : "2017-11-06T10:10:57.199+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:57.199+0000",
+      "uuid" : "ec26f2e4-c4ca-4948-9f36-bb6ff717b86d",
+      "inactive" : false,
+      "name" : "Mahe",
+      "_links" : {
+        "self" : {
+          "href" : "/241"
+        },
+        "stateUUID" : {
+          "href" : "2f5e1892-e09d-41af-abf1-d5d56d0ab75d"
+        },
+        "facilities" : {
+          "href" : "/241/facilities"
+        },
+        "state" : {
+          "href" : "/241/state"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:57.307+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:57.307+0000",
+      "uuid" : "8fd94c46-bdaf-4e0c-bcd7-e86ed489f5d8",
+      "inactive" : false,
+      "name" : "Yanam",
+      "_links" : {
+        "self" : {
+          "href" : "/242"
+        },
+        "stateUUID" : {
+          "href" : "2f5e1892-e09d-41af-abf1-d5d56d0ab75d"
+        },
+        "facilities" : {
+          "href" : "/242/facilities"
+        },
+        "state" : {
+          "href" : "/242/state"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:57.403+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:57.403+0000",
+      "uuid" : "27622efc-d6c6-42d7-a747-0c9bba93a3c7",
+      "inactive" : false,
+      "name" : "Karaikal",
+      "_links" : {
+        "self" : {
+          "href" : "/243"
+        },
+        "stateUUID" : {
+          "href" : "2f5e1892-e09d-41af-abf1-d5d56d0ab75d"
+        },
+        "facilities" : {
+          "href" : "/243/facilities"
+        },
+        "state" : {
+          "href" : "/243/state"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T10:10:57.514+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:57.514+0000",
+      "uuid" : "b5656678-f5e9-4f28-9f74-0020e1404487",
+      "inactive" : false,
+      "name" : "Pondicherry",
+      "_links" : {
+        "self" : {
+          "href" : "/244"
+        },
+        "stateUUID" : {
+          "href" : "2f5e1892-e09d-41af-abf1-d5d56d0ab75d"
+        },
+        "facilities" : {
+          "href" : "/244/facilities"
+        },
+        "state" : {
+          "href" : "/244/state"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "/search/lastModifiedByState?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0&name=Puducherry"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 4,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

@@ -1,0 +1,4228 @@
+{
+  "_embedded" : {
+    "measurableElement" : [ {
+      "createdDate" : "2017-11-06T11:59:09.746+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:09.746+0000",
+      "uuid" : "5aea11a6-c019-48ba-8224-0d2daa827a08",
+      "inactive" : false,
+      "name" : "Emergency drug trays are maintained at every point of care, where ever it may be needed",
+      "reference" : "C4.3",
+      "_links" : {
+        "self" : {
+          "href" : "/401"
+        },
+        "standardUUID" : {
+          "href" : "1b7ab216-4ce5-43cb-9bb5-e9eaabd1d139"
+        },
+        "checkpoints" : {
+          "href" : "/401/checkpoints"
+        },
+        "standard" : {
+          "href" : "/401/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:09.833+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:09.833+0000",
+      "uuid" : "6314d38b-a148-4e4b-b83d-11057174d5f5",
+      "inactive" : false,
+      "name" : "The departments have adequate consumables at point of use",
+      "reference" : "C4.2",
+      "_links" : {
+        "self" : {
+          "href" : "/402"
+        },
+        "standardUUID" : {
+          "href" : "1b7ab216-4ce5-43cb-9bb5-e9eaabd1d139"
+        },
+        "checkpoints" : {
+          "href" : "/402/checkpoints"
+        },
+        "standard" : {
+          "href" : "/402/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:09.927+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:09.927+0000",
+      "uuid" : "173d7a7c-7263-4ad0-a9f6-fa779c294621",
+      "inactive" : false,
+      "name" : "The departments have availability of adequate drugs at point of use",
+      "reference" : "C4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/403"
+        },
+        "standardUUID" : {
+          "href" : "1b7ab216-4ce5-43cb-9bb5-e9eaabd1d139"
+        },
+        "checkpoints" : {
+          "href" : "/403/checkpoints"
+        },
+        "standard" : {
+          "href" : "/403/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.012+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.012+0000",
+      "uuid" : "4a982bf1-893b-4ae1-b324-907f01effa2e",
+      "inactive" : false,
+      "name" : "Departments have adequate space as per patient or work load",
+      "reference" : "C1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/404"
+        },
+        "standardUUID" : {
+          "href" : "107808c0-2e57-426d-91df-1a0d6f3dcc85"
+        },
+        "checkpoints" : {
+          "href" : "/404/checkpoints"
+        },
+        "standard" : {
+          "href" : "/404/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.099+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.099+0000",
+      "uuid" : "61399ee2-bd33-4156-9e2c-1d4b088f0b9c",
+      "inactive" : false,
+      "name" : "Departments have layout and demarcated areas as per functions",
+      "reference" : "C1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/405"
+        },
+        "standardUUID" : {
+          "href" : "107808c0-2e57-426d-91df-1a0d6f3dcc85"
+        },
+        "checkpoints" : {
+          "href" : "/405/checkpoints"
+        },
+        "standard" : {
+          "href" : "/405/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.199+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.199+0000",
+      "uuid" : "b196197a-ac89-4132-ad19-7a169c5e0707",
+      "inactive" : false,
+      "name" : "The facility has adequate circulation area and open spaces according to need and local law",
+      "reference" : "C1.4",
+      "_links" : {
+        "self" : {
+          "href" : "/406"
+        },
+        "standardUUID" : {
+          "href" : "107808c0-2e57-426d-91df-1a0d6f3dcc85"
+        },
+        "checkpoints" : {
+          "href" : "/406/checkpoints"
+        },
+        "standard" : {
+          "href" : "/406/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.297+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.297+0000",
+      "uuid" : "29c945a3-eb0a-4ff1-a968-292469f27b48",
+      "inactive" : false,
+      "name" : "The facility has infrastructure for intramural and extramural communication",
+      "reference" : "C1.5",
+      "_links" : {
+        "self" : {
+          "href" : "/407"
+        },
+        "standardUUID" : {
+          "href" : "107808c0-2e57-426d-91df-1a0d6f3dcc85"
+        },
+        "checkpoints" : {
+          "href" : "/407/checkpoints"
+        },
+        "standard" : {
+          "href" : "/407/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.391+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.391+0000",
+      "uuid" : "5f4e996a-a02c-4c5d-a89b-10fa688fcec8",
+      "inactive" : false,
+      "name" : "The facility and departments are planned to ensure structure follows the function/processes (Structure commensurate with the function of the hospital)",
+      "reference" : "C1.7",
+      "_links" : {
+        "self" : {
+          "href" : "/408"
+        },
+        "standardUUID" : {
+          "href" : "107808c0-2e57-426d-91df-1a0d6f3dcc85"
+        },
+        "checkpoints" : {
+          "href" : "/408/checkpoints"
+        },
+        "standard" : {
+          "href" : "/408/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.479+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.479+0000",
+      "uuid" : "62fd8f74-b2aa-464c-83cd-ec54bbf52ed2",
+      "inactive" : false,
+      "name" : "Service counters are available as per patient load",
+      "reference" : "C1.6",
+      "_links" : {
+        "self" : {
+          "href" : "/409"
+        },
+        "standardUUID" : {
+          "href" : "107808c0-2e57-426d-91df-1a0d6f3dcc85"
+        },
+        "checkpoints" : {
+          "href" : "/409/checkpoints"
+        },
+        "standard" : {
+          "href" : "/409/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.574+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.574+0000",
+      "uuid" : "966a609f-af69-4679-ae88-f9e4fe65b28c",
+      "inactive" : false,
+      "name" : "Patient amenities are provide as per patient load",
+      "reference" : "C1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/410"
+        },
+        "standardUUID" : {
+          "href" : "107808c0-2e57-426d-91df-1a0d6f3dcc85"
+        },
+        "checkpoints" : {
+          "href" : "/410/checkpoints"
+        },
+        "standard" : {
+          "href" : "/410/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.662+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.662+0000",
+      "uuid" : "61d17019-86c2-4521-af59-30f9f88071a6",
+      "inactive" : false,
+      "name" : "Critical areas of the facility ensures availability of oxygen, medical gases and vacuum supply",
+      "reference" : "D4.3",
+      "_links" : {
+        "self" : {
+          "href" : "/411"
+        },
+        "standardUUID" : {
+          "href" : "f0c01c04-cc7a-441f-b2d3-8c6a79ecce4d"
+        },
+        "checkpoints" : {
+          "href" : "/411/checkpoints"
+        },
+        "standard" : {
+          "href" : "/411/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.750+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.750+0000",
+      "uuid" : "79482705-21dc-453f-9d64-c26c0e1f9b62",
+      "inactive" : false,
+      "name" : "The facility has adequate arrangement storage and supply for potable water in all functional areas",
+      "reference" : "D4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/412"
+        },
+        "standardUUID" : {
+          "href" : "f0c01c04-cc7a-441f-b2d3-8c6a79ecce4d"
+        },
+        "checkpoints" : {
+          "href" : "/412/checkpoints"
+        },
+        "standard" : {
+          "href" : "/412/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.839+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.839+0000",
+      "uuid" : "c31de273-78ab-4572-a069-a63af716a7d1",
+      "inactive" : false,
+      "name" : "The facility ensures adequate power backup in all patient care areas as per load",
+      "reference" : "D4.2",
+      "_links" : {
+        "self" : {
+          "href" : "/413"
+        },
+        "standardUUID" : {
+          "href" : "f0c01c04-cc7a-441f-b2d3-8c6a79ecce4d"
+        },
+        "checkpoints" : {
+          "href" : "/413/checkpoints"
+        },
+        "standard" : {
+          "href" : "/413/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:10.953+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:10.953+0000",
+      "uuid" : "692d8cc5-c2c6-477a-9640-c2b22978dc1e",
+      "inactive" : false,
+      "name" : "The facility has security system in place at patient care areas",
+      "reference" : "D3.9",
+      "_links" : {
+        "self" : {
+          "href" : "/414"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/414/checkpoints"
+        },
+        "standard" : {
+          "href" : "/414/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.042+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.042+0000",
+      "uuid" : "c2841e7b-5a53-4a89-8875-8a61bbf516e7",
+      "inactive" : false,
+      "name" : "Patient care areas are clean and hygienic",
+      "reference" : "D3.3",
+      "_links" : {
+        "self" : {
+          "href" : "/415"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/415/checkpoints"
+        },
+        "standard" : {
+          "href" : "/415/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.131+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.131+0000",
+      "uuid" : "59b1245a-226f-496c-b4cf-8b2fc6159071",
+      "inactive" : false,
+      "name" : "The facility provides adequate illumination level at patient care areas",
+      "reference" : "D3.6",
+      "_links" : {
+        "self" : {
+          "href" : "/416"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/416/checkpoints"
+        },
+        "standard" : {
+          "href" : "/416/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.237+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.237+0000",
+      "uuid" : "cd88f13b-e244-4977-b590-c293eff3bb13",
+      "inactive" : false,
+      "name" : "Exterior of the facility building is maintained with landscaping in open area",
+      "reference" : "D3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/417"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/417/checkpoints"
+        },
+        "standard" : {
+          "href" : "/417/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.325+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.325+0000",
+      "uuid" : "a164c3ea-64e1-49f8-9fb9-c148e9dbd313",
+      "inactive" : false,
+      "name" : "The facility has provision of restriction of visitors in patient areas",
+      "reference" : "D3.7",
+      "_links" : {
+        "self" : {
+          "href" : "/418"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/418/checkpoints"
+        },
+        "standard" : {
+          "href" : "/418/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.415+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.415+0000",
+      "uuid" : "8f81551a-c29a-4959-9cd9-054a7ee88499",
+      "inactive" : false,
+      "name" : "The facility has policy of removal of condemned junk material",
+      "reference" : "D3.4",
+      "_links" : {
+        "self" : {
+          "href" : "/419"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/419/checkpoints"
+        },
+        "standard" : {
+          "href" : "/419/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.511+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.511+0000",
+      "uuid" : "79bcd091-211a-4acc-86b4-67dbae4afdfb",
+      "inactive" : false,
+      "name" : "The facility has established procedures for pest, rodent and animal control",
+      "reference" : "D3.5",
+      "_links" : {
+        "self" : {
+          "href" : "/420"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/420/checkpoints"
+        },
+        "standard" : {
+          "href" : "/420/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.601+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.601+0000",
+      "uuid" : "aef65004-a2b8-4ef5-b272-0ce8b0201d2f",
+      "inactive" : false,
+      "name" : "The facility has established measure for safety and security of female staff",
+      "reference" : "D3.10",
+      "_links" : {
+        "self" : {
+          "href" : "/421"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/421/checkpoints"
+        },
+        "standard" : {
+          "href" : "/421/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.691+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.691+0000",
+      "uuid" : "05d3b681-87ce-4d3d-96a0-56851869dabf",
+      "inactive" : false,
+      "name" : "The facility ensures safe and comfortable environment for patients and service providers",
+      "reference" : "D3.8",
+      "_links" : {
+        "self" : {
+          "href" : "/422"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/422/checkpoints"
+        },
+        "standard" : {
+          "href" : "/422/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.791+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.791+0000",
+      "uuid" : "5e24d623-4820-4530-826a-5d6d660efeb6",
+      "inactive" : false,
+      "name" : "Patient care areas are clean and hygienic",
+      "reference" : "D3,3",
+      "_links" : {
+        "self" : {
+          "href" : "/423"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/423/checkpoints"
+        },
+        "standard" : {
+          "href" : "/423/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.887+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.887+0000",
+      "uuid" : "c7d76f0c-9a21-408b-a38e-589b0f45822a",
+      "inactive" : false,
+      "name" : "Hospital infrastructure is adequately maintained",
+      "reference" : "D3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/424"
+        },
+        "standardUUID" : {
+          "href" : "eff29f4c-3e2e-4255-a492-1e7d1db3fafb"
+        },
+        "checkpoints" : {
+          "href" : "/424/checkpoints"
+        },
+        "standard" : {
+          "href" : "/424/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:11.980+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:11.980+0000",
+      "uuid" : "b0319539-9550-4c71-b9aa-df9f4c7ee810",
+      "inactive" : false,
+      "name" : "The facility has adequate sets of linen",
+      "reference" : "D5.4",
+      "_links" : {
+        "self" : {
+          "href" : "/425"
+        },
+        "standardUUID" : {
+          "href" : "eff1f199-55e4-40b4-87bd-26e6ca2b7754"
+        },
+        "checkpoints" : {
+          "href" : "/425/checkpoints"
+        },
+        "standard" : {
+          "href" : "/425/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.083+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.083+0000",
+      "uuid" : "49b72f76-6ab2-4d19-9359-00197fd5c52f",
+      "inactive" : false,
+      "name" : "Hospital has standard procedures for preparation, handling, storage and distribution of diets, as per requirement of patients",
+      "reference" : "D5.3",
+      "_links" : {
+        "self" : {
+          "href" : "/426"
+        },
+        "standardUUID" : {
+          "href" : "eff1f199-55e4-40b4-87bd-26e6ca2b7754"
+        },
+        "checkpoints" : {
+          "href" : "/426/checkpoints"
+        },
+        "standard" : {
+          "href" : "/426/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.179+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.179+0000",
+      "uuid" : "445df3d8-ce6d-454d-8d11-4c07e1c6179d",
+      "inactive" : false,
+      "name" : "The facility has provision of nutritional assessment of the patients",
+      "reference" : "D5.1",
+      "_links" : {
+        "self" : {
+          "href" : "/427"
+        },
+        "standardUUID" : {
+          "href" : "eff1f199-55e4-40b4-87bd-26e6ca2b7754"
+        },
+        "checkpoints" : {
+          "href" : "/427/checkpoints"
+        },
+        "standard" : {
+          "href" : "/427/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.275+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.275+0000",
+      "uuid" : "15559882-20de-4fa1-b403-080d62bac48f",
+      "inactive" : false,
+      "name" : "The facility provides diets according to nutritional requirements of the patients",
+      "reference" : "D5.2",
+      "_links" : {
+        "self" : {
+          "href" : "/428"
+        },
+        "standardUUID" : {
+          "href" : "eff1f199-55e4-40b4-87bd-26e6ca2b7754"
+        },
+        "checkpoints" : {
+          "href" : "/428/checkpoints"
+        },
+        "standard" : {
+          "href" : "/428/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.369+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.369+0000",
+      "uuid" : "9ba18bfe-7b22-41bc-a0fa-dc47cd186d8e",
+      "inactive" : false,
+      "name" : "The facility has established procedures for changing of linen in patient care areas",
+      "reference" : "D5.5",
+      "_links" : {
+        "self" : {
+          "href" : "/429"
+        },
+        "standardUUID" : {
+          "href" : "eff1f199-55e4-40b4-87bd-26e6ca2b7754"
+        },
+        "checkpoints" : {
+          "href" : "/429/checkpoints"
+        },
+        "standard" : {
+          "href" : "/429/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.468+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.468+0000",
+      "uuid" : "287eb20a-326e-4509-b860-9464475eb402",
+      "inactive" : false,
+      "name" : "The facility has standard procedures for handling , collection, transportation and washing of linen",
+      "reference" : "D5.6",
+      "_links" : {
+        "self" : {
+          "href" : "/430"
+        },
+        "standardUUID" : {
+          "href" : "eff1f199-55e4-40b4-87bd-26e6ca2b7754"
+        },
+        "checkpoints" : {
+          "href" : "/430/checkpoints"
+        },
+        "standard" : {
+          "href" : "/430/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.561+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.561+0000",
+      "uuid" : "0fbba064-96b9-4ac6-8ddd-dc9bf756bf57",
+      "inactive" : false,
+      "name" : "Updated copies of relevant laws, regulations and government orders are available at the facility",
+      "reference" : "D8.2",
+      "_links" : {
+        "self" : {
+          "href" : "/431"
+        },
+        "standardUUID" : {
+          "href" : "e73de627-f744-47e5-986b-a2acf8809155"
+        },
+        "checkpoints" : {
+          "href" : "/431/checkpoints"
+        },
+        "standard" : {
+          "href" : "/431/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.660+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.660+0000",
+      "uuid" : "c00d63eb-fced-43fb-834c-7700266646ce",
+      "inactive" : false,
+      "name" : "The facility has requisite licences and certificates for operation of hospital and different activities",
+      "reference" : "D8.1",
+      "_links" : {
+        "self" : {
+          "href" : "/432"
+        },
+        "standardUUID" : {
+          "href" : "e73de627-f744-47e5-986b-a2acf8809155"
+        },
+        "checkpoints" : {
+          "href" : "/432/checkpoints"
+        },
+        "standard" : {
+          "href" : "/432/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.752+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.752+0000",
+      "uuid" : "0c6eef87-dc41-48b7-bdbf-5e7385ec436d",
+      "inactive" : false,
+      "name" : "The facility ensure relevant processes are in compliance with statutory requirement",
+      "reference" : "D8.3",
+      "_links" : {
+        "self" : {
+          "href" : "/433"
+        },
+        "standardUUID" : {
+          "href" : "e73de627-f744-47e5-986b-a2acf8809155"
+        },
+        "checkpoints" : {
+          "href" : "/433/checkpoints"
+        },
+        "standard" : {
+          "href" : "/433/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.845+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.845+0000",
+      "uuid" : "37bfa17d-4eab-49d9-b1d2-d11293198250",
+      "inactive" : false,
+      "name" : "There is a system of periodic review of quality of out sourced services",
+      "reference" : "D10.2",
+      "_links" : {
+        "self" : {
+          "href" : "/434"
+        },
+        "standardUUID" : {
+          "href" : "c57baa31-96c8-448b-bd37-3ef35adcbbbe"
+        },
+        "checkpoints" : {
+          "href" : "/434/checkpoints"
+        },
+        "standard" : {
+          "href" : "/434/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:12.947+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:12.947+0000",
+      "uuid" : "a91fcf00-882f-43a8-9965-ed9c5ee16866",
+      "inactive" : false,
+      "name" : "There is established system for contract management for out sourced services",
+      "reference" : "D10.1",
+      "_links" : {
+        "self" : {
+          "href" : "/435"
+        },
+        "standardUUID" : {
+          "href" : "c57baa31-96c8-448b-bd37-3ef35adcbbbe"
+        },
+        "checkpoints" : {
+          "href" : "/435/checkpoints"
+        },
+        "standard" : {
+          "href" : "/435/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.038+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.038+0000",
+      "uuid" : "2d50cbbd-27f7-4d4a-8731-16e5ea0adcee",
+      "inactive" : false,
+      "name" : "There is a procedure for periodically replenishing the drugs in patient care areas",
+      "reference" : "D2.6",
+      "_links" : {
+        "self" : {
+          "href" : "/436"
+        },
+        "standardUUID" : {
+          "href" : "cdffcd4b-1dd3-4d8f-8e80-1f33f2af5855"
+        },
+        "checkpoints" : {
+          "href" : "/436/checkpoints"
+        },
+        "standard" : {
+          "href" : "/436/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.128+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.128+0000",
+      "uuid" : "bc006182-37c1-42af-a7f5-b3e9b352d29f",
+      "inactive" : false,
+      "name" : "There is process for storage of vaccines and other drugs, requiring controlled temperature",
+      "reference" : "D2.7",
+      "_links" : {
+        "self" : {
+          "href" : "/437"
+        },
+        "standardUUID" : {
+          "href" : "cdffcd4b-1dd3-4d8f-8e80-1f33f2af5855"
+        },
+        "checkpoints" : {
+          "href" : "/437/checkpoints"
+        },
+        "standard" : {
+          "href" : "/437/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.215+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.215+0000",
+      "uuid" : "111aae91-a741-4a5e-935d-d7e96120fbff",
+      "inactive" : false,
+      "name" : "The facility has establish procedure for procurement of drugs",
+      "reference" : "D2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/438"
+        },
+        "standardUUID" : {
+          "href" : "cdffcd4b-1dd3-4d8f-8e80-1f33f2af5855"
+        },
+        "checkpoints" : {
+          "href" : "/438/checkpoints"
+        },
+        "standard" : {
+          "href" : "/438/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.305+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.305+0000",
+      "uuid" : "57313939-da20-4125-8f45-a65b2feb53dd",
+      "inactive" : false,
+      "name" : "The facility has established procedure for inventory management techniques",
+      "reference" : "D2.5",
+      "_links" : {
+        "self" : {
+          "href" : "/439"
+        },
+        "standardUUID" : {
+          "href" : "cdffcd4b-1dd3-4d8f-8e80-1f33f2af5855"
+        },
+        "checkpoints" : {
+          "href" : "/439/checkpoints"
+        },
+        "standard" : {
+          "href" : "/439/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.395+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.395+0000",
+      "uuid" : "eb0a3769-17c4-47eb-b4e6-55e845296753",
+      "inactive" : false,
+      "name" : "There is a procedure for secure storage of narcotic and psychotropic drugs",
+      "reference" : "D2.8",
+      "_links" : {
+        "self" : {
+          "href" : "/440"
+        },
+        "standardUUID" : {
+          "href" : "cdffcd4b-1dd3-4d8f-8e80-1f33f2af5855"
+        },
+        "checkpoints" : {
+          "href" : "/440/checkpoints"
+        },
+        "standard" : {
+          "href" : "/440/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.488+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.488+0000",
+      "uuid" : "aae4c37f-851a-4756-b2a1-ae55e83e8e4c",
+      "inactive" : false,
+      "name" : "The facility ensures management of expiry and near expiry drugs",
+      "reference" : "D2.4",
+      "_links" : {
+        "self" : {
+          "href" : "/441"
+        },
+        "standardUUID" : {
+          "href" : "cdffcd4b-1dd3-4d8f-8e80-1f33f2af5855"
+        },
+        "checkpoints" : {
+          "href" : "/441/checkpoints"
+        },
+        "standard" : {
+          "href" : "/441/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.579+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.579+0000",
+      "uuid" : "8d2d6c61-a817-4bdb-a685-776d05f9d691",
+      "inactive" : false,
+      "name" : "The facility ensures proper storage of drugs and consumables",
+      "reference" : "D2.3",
+      "_links" : {
+        "self" : {
+          "href" : "/442"
+        },
+        "standardUUID" : {
+          "href" : "cdffcd4b-1dd3-4d8f-8e80-1f33f2af5855"
+        },
+        "checkpoints" : {
+          "href" : "/442/checkpoints"
+        },
+        "standard" : {
+          "href" : "/442/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.664+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.664+0000",
+      "uuid" : "ef3d2183-564c-42e9-94c7-db62451be691",
+      "inactive" : false,
+      "name" : "There is established procedure for forecasting and indenting drugs and consumables",
+      "reference" : "D2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/443"
+        },
+        "standardUUID" : {
+          "href" : "cdffcd4b-1dd3-4d8f-8e80-1f33f2af5855"
+        },
+        "checkpoints" : {
+          "href" : "/443/checkpoints"
+        },
+        "standard" : {
+          "href" : "/443/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.750+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.750+0000",
+      "uuid" : "66edb6e2-142f-41e3-ab62-acfd8eb04891",
+      "inactive" : false,
+      "name" : "The facility ensures proper planning and requisition of resources based on its need",
+      "reference" : "D7.2",
+      "_links" : {
+        "self" : {
+          "href" : "/444"
+        },
+        "standardUUID" : {
+          "href" : "ab42037b-4cf9-4d05-b92c-67a328a4a234"
+        },
+        "checkpoints" : {
+          "href" : "/444/checkpoints"
+        },
+        "standard" : {
+          "href" : "/444/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.849+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.849+0000",
+      "uuid" : "3274c2a9-6760-425d-9aed-757614bf5e8e",
+      "inactive" : false,
+      "name" : "The facility ensures the proper utilization of fund provided to it",
+      "reference" : "D7.1",
+      "_links" : {
+        "self" : {
+          "href" : "/445"
+        },
+        "standardUUID" : {
+          "href" : "ab42037b-4cf9-4d05-b92c-67a328a4a234"
+        },
+        "checkpoints" : {
+          "href" : "/445/checkpoints"
+        },
+        "standard" : {
+          "href" : "/445/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:13.948+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:13.948+0000",
+      "uuid" : "33659fbb-7c67-459c-b115-6f114ce1f85e",
+      "inactive" : false,
+      "name" : "The facility ensures the adherence to dress code as mandated by its administration / the health department",
+      "reference" : "D9.3",
+      "_links" : {
+        "self" : {
+          "href" : "/446"
+        },
+        "standardUUID" : {
+          "href" : "8901c5a9-93d8-41e2-b8fc-d08599a4e466"
+        },
+        "checkpoints" : {
+          "href" : "/446/checkpoints"
+        },
+        "standard" : {
+          "href" : "/446/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.036+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.036+0000",
+      "uuid" : "39809694-7d31-4dfb-88b9-d399fbbd2a08",
+      "inactive" : false,
+      "name" : "The facility has established job description as per govt guidelines",
+      "reference" : "D9.1",
+      "_links" : {
+        "self" : {
+          "href" : "/447"
+        },
+        "standardUUID" : {
+          "href" : "8901c5a9-93d8-41e2-b8fc-d08599a4e466"
+        },
+        "checkpoints" : {
+          "href" : "/447/checkpoints"
+        },
+        "standard" : {
+          "href" : "/447/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.133+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.133+0000",
+      "uuid" : "c7bd5331-7de2-4998-b204-75d18bd1ef13",
+      "inactive" : false,
+      "name" : "The facility has a established procedure for duty roster and deputation to different departments",
+      "reference" : "D9.2",
+      "_links" : {
+        "self" : {
+          "href" : "/448"
+        },
+        "standardUUID" : {
+          "href" : "8901c5a9-93d8-41e2-b8fc-d08599a4e466"
+        },
+        "checkpoints" : {
+          "href" : "/448/checkpoints"
+        },
+        "standard" : {
+          "href" : "/448/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.236+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.236+0000",
+      "uuid" : "234c9053-5260-4765-b6ec-c7cbf8619658",
+      "inactive" : false,
+      "name" : "The facility has established procedures for community based monitoring of its services",
+      "reference" : "D6.2",
+      "_links" : {
+        "self" : {
+          "href" : "/449"
+        },
+        "standardUUID" : {
+          "href" : "aa30bf93-5a4e-464d-8ee2-3c774bc9b2c9"
+        },
+        "checkpoints" : {
+          "href" : "/449/checkpoints"
+        },
+        "standard" : {
+          "href" : "/449/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.329+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.329+0000",
+      "uuid" : "c335e388-b31f-406c-bae7-1e4a5cbbebac",
+      "inactive" : false,
+      "name" : "The facility has established procedures for management of activities of Rogi Kalyan Samitis",
+      "reference" : "D6.1",
+      "_links" : {
+        "self" : {
+          "href" : "/450"
+        },
+        "standardUUID" : {
+          "href" : "aa30bf93-5a4e-464d-8ee2-3c774bc9b2c9"
+        },
+        "checkpoints" : {
+          "href" : "/450/checkpoints"
+        },
+        "standard" : {
+          "href" : "/450/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.417+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.417+0000",
+      "uuid" : "0379be6a-4298-49f7-a04d-f189df35ec30",
+      "inactive" : false,
+      "name" : "The facility has established procedure for internal and external calibration of measuring Equipment",
+      "reference" : "D1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/451"
+        },
+        "standardUUID" : {
+          "href" : "b2c18faa-4e7f-4331-a860-0d8604b158cc"
+        },
+        "checkpoints" : {
+          "href" : "/451/checkpoints"
+        },
+        "standard" : {
+          "href" : "/451/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.503+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.503+0000",
+      "uuid" : "0f364763-fff1-4396-9753-29658efe08dc",
+      "inactive" : false,
+      "name" : "Operating and maintenance instructions are available with the users of equipment",
+      "reference" : "D1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/452"
+        },
+        "standardUUID" : {
+          "href" : "b2c18faa-4e7f-4331-a860-0d8604b158cc"
+        },
+        "checkpoints" : {
+          "href" : "/452/checkpoints"
+        },
+        "standard" : {
+          "href" : "/452/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.602+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.602+0000",
+      "uuid" : "e2bf4d67-c958-4eb6-8545-41c4e28b8011",
+      "inactive" : false,
+      "name" : "The facility has established system for maintenance of critical Equipment",
+      "reference" : "D1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/453"
+        },
+        "standardUUID" : {
+          "href" : "b2c18faa-4e7f-4331-a860-0d8604b158cc"
+        },
+        "checkpoints" : {
+          "href" : "/453/checkpoints"
+        },
+        "standard" : {
+          "href" : "/453/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.696+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.696+0000",
+      "uuid" : "b37d5b74-be6e-4425-9b13-367944a85b32",
+      "inactive" : false,
+      "name" : "Management of children presenting\nwith fever, cough/ breathlessness is done as per guidelines",
+      "reference" : "E19.5",
+      "_links" : {
+        "self" : {
+          "href" : "/454"
+        },
+        "standardUUID" : {
+          "href" : "3ea4238a-ad23-4816-9ad2-13427278dd00"
+        },
+        "checkpoints" : {
+          "href" : "/454/checkpoints"
+        },
+        "standard" : {
+          "href" : "/454/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.796+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.796+0000",
+      "uuid" : "fe2e972f-2f94-4136-bc33-c7633cda9230",
+      "inactive" : false,
+      "name" : "The facility provides immunization services as per guidelines",
+      "reference" : "E19.1",
+      "_links" : {
+        "self" : {
+          "href" : "/455"
+        },
+        "standardUUID" : {
+          "href" : "3ea4238a-ad23-4816-9ad2-13427278dd00"
+        },
+        "checkpoints" : {
+          "href" : "/455/checkpoints"
+        },
+        "standard" : {
+          "href" : "/455/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.898+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.898+0000",
+      "uuid" : "05956bcb-bc7a-4fea-85c8-be0531f327d1",
+      "inactive" : false,
+      "name" : "Management of Low birth weight\nnew-born's is done as per guidelines",
+      "reference" : "E19.3",
+      "_links" : {
+        "self" : {
+          "href" : "/456"
+        },
+        "standardUUID" : {
+          "href" : "3ea4238a-ad23-4816-9ad2-13427278dd00"
+        },
+        "checkpoints" : {
+          "href" : "/456/checkpoints"
+        },
+        "standard" : {
+          "href" : "/456/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:14.993+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:14.993+0000",
+      "uuid" : "4b215210-6a31-40f2-afa3-5b0c81ccad0b",
+      "inactive" : false,
+      "name" : "Management of children with Severe Acute Malnutrition is done as per guidelines",
+      "reference" : "E19.6",
+      "_links" : {
+        "self" : {
+          "href" : "/457"
+        },
+        "standardUUID" : {
+          "href" : "3ea4238a-ad23-4816-9ad2-13427278dd00"
+        },
+        "checkpoints" : {
+          "href" : "/457/checkpoints"
+        },
+        "standard" : {
+          "href" : "/457/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.085+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.085+0000",
+      "uuid" : "90020046-97da-478d-a746-09388607c2db",
+      "inactive" : false,
+      "name" : "Triage, Assessment & Management of new-borns having \nemergency signs are done as per guidelines",
+      "reference" : "E19.2",
+      "_links" : {
+        "self" : {
+          "href" : "/458"
+        },
+        "standardUUID" : {
+          "href" : "3ea4238a-ad23-4816-9ad2-13427278dd00"
+        },
+        "checkpoints" : {
+          "href" : "/458/checkpoints"
+        },
+        "standard" : {
+          "href" : "/458/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.188+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.188+0000",
+      "uuid" : "db2b2083-5b53-478d-b9f0-74df40adb02d",
+      "inactive" : false,
+      "name" : "Management of children presenting with\ndiarrhoea is done per guidelines",
+      "reference" : "E19.7",
+      "_links" : {
+        "self" : {
+          "href" : "/459"
+        },
+        "standardUUID" : {
+          "href" : "3ea4238a-ad23-4816-9ad2-13427278dd00"
+        },
+        "checkpoints" : {
+          "href" : "/459/checkpoints"
+        },
+        "standard" : {
+          "href" : "/459/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.292+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.292+0000",
+      "uuid" : "4c271b96-4637-48ed-9379-f5c1ca7cf760",
+      "inactive" : false,
+      "name" : "Management of neonatal asphyxia, jaundice and sepsis is done as per guidelines",
+      "reference" : "E19.4",
+      "_links" : {
+        "self" : {
+          "href" : "/460"
+        },
+        "standardUUID" : {
+          "href" : "3ea4238a-ad23-4816-9ad2-13427278dd00"
+        },
+        "checkpoints" : {
+          "href" : "/460/checkpoints"
+        },
+        "standard" : {
+          "href" : "/460/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.383+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.383+0000",
+      "uuid" : "959e4887-f7fa-48bb-9429-105364d3f792",
+      "inactive" : false,
+      "name" : "Facility provides appropriate referral linkages to the patients/Services for transfer to other/higher facilities to assure their continuity of care.",
+      "reference" : "E3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/461"
+        },
+        "standardUUID" : {
+          "href" : "af0f6b4c-4bd8-4877-8fa4-c9c2ea53b8fd"
+        },
+        "checkpoints" : {
+          "href" : "/461/checkpoints"
+        },
+        "standard" : {
+          "href" : "/461/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.471+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.471+0000",
+      "uuid" : "8216c7df-19d6-4179-b5e9-eff57bb0464a",
+      "inactive" : false,
+      "name" : "Facility has established procedure for continuity of care during interdepartmental transfer",
+      "reference" : "E3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/462"
+        },
+        "standardUUID" : {
+          "href" : "af0f6b4c-4bd8-4877-8fa4-c9c2ea53b8fd"
+        },
+        "checkpoints" : {
+          "href" : "/462/checkpoints"
+        },
+        "standard" : {
+          "href" : "/462/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.561+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.561+0000",
+      "uuid" : "1fe20472-dfea-4074-8d5e-e027f8f76900",
+      "inactive" : false,
+      "name" : "Facility provides limiting method of family planning as per guideline",
+      "reference" : "E20.3",
+      "_links" : {
+        "self" : {
+          "href" : "/463"
+        },
+        "standardUUID" : {
+          "href" : "d8d20a97-1123-48ab-8aca-a68277a368bb"
+        },
+        "checkpoints" : {
+          "href" : "/463/checkpoints"
+        },
+        "standard" : {
+          "href" : "/463/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.647+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.647+0000",
+      "uuid" : "1f384f7d-692d-4ddd-9c89-3b9038222100",
+      "inactive" : false,
+      "name" : "Facility provide abortion services for 2nd trimester as per guideline",
+      "reference" : "E20.6",
+      "_links" : {
+        "self" : {
+          "href" : "/464"
+        },
+        "standardUUID" : {
+          "href" : "d8d20a97-1123-48ab-8aca-a68277a368bb"
+        },
+        "checkpoints" : {
+          "href" : "/464/checkpoints"
+        },
+        "standard" : {
+          "href" : "/464/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.761+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.761+0000",
+      "uuid" : "1be5d16b-8858-4cc0-9c1e-8b5b3b57390f",
+      "inactive" : false,
+      "name" : "Facility provide abortion services for 1st trimester as per guideline",
+      "reference" : "E20.5",
+      "_links" : {
+        "self" : {
+          "href" : "/465"
+        },
+        "standardUUID" : {
+          "href" : "d8d20a97-1123-48ab-8aca-a68277a368bb"
+        },
+        "checkpoints" : {
+          "href" : "/465/checkpoints"
+        },
+        "standard" : {
+          "href" : "/465/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.848+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.848+0000",
+      "uuid" : "2b83b61c-b64f-43c5-ae61-e68b74d18bad",
+      "inactive" : false,
+      "name" : "Family planning counselling services provided as per guidelines",
+      "reference" : "E20.1",
+      "_links" : {
+        "self" : {
+          "href" : "/466"
+        },
+        "standardUUID" : {
+          "href" : "d8d20a97-1123-48ab-8aca-a68277a368bb"
+        },
+        "checkpoints" : {
+          "href" : "/466/checkpoints"
+        },
+        "standard" : {
+          "href" : "/466/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:15.944+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:15.944+0000",
+      "uuid" : "f76ca712-533b-4284-83fc-a0b174d0d2c3",
+      "inactive" : false,
+      "name" : "Facility provide counselling services for abortion as per guideline",
+      "reference" : "E20.4",
+      "_links" : {
+        "self" : {
+          "href" : "/467"
+        },
+        "standardUUID" : {
+          "href" : "d8d20a97-1123-48ab-8aca-a68277a368bb"
+        },
+        "checkpoints" : {
+          "href" : "/467/checkpoints"
+        },
+        "standard" : {
+          "href" : "/467/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.033+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.033+0000",
+      "uuid" : "82998f95-0015-4285-b305-1f7acc4d5f6f",
+      "inactive" : false,
+      "name" : "Facility provides spacing method of family planning as per guideline",
+      "reference" : "E20.2",
+      "_links" : {
+        "self" : {
+          "href" : "/468"
+        },
+        "standardUUID" : {
+          "href" : "d8d20a97-1123-48ab-8aca-a68277a368bb"
+        },
+        "checkpoints" : {
+          "href" : "/468/checkpoints"
+        },
+        "standard" : {
+          "href" : "/468/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.120+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.120+0000",
+      "uuid" : "13f32db2-4f00-48f9-a830-1176e0284492",
+      "inactive" : false,
+      "name" : "Facility Provides Curative ARSH Services",
+      "reference" : "E21.3",
+      "_links" : {
+        "self" : {
+          "href" : "/469"
+        },
+        "standardUUID" : {
+          "href" : "19f3f1c4-660a-4f1b-9ba4-4c99a6799d92"
+        },
+        "checkpoints" : {
+          "href" : "/469/checkpoints"
+        },
+        "standard" : {
+          "href" : "/469/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.208+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.208+0000",
+      "uuid" : "244616a6-3eb9-47ff-a8bb-f5738f50659f",
+      "inactive" : false,
+      "name" : "Facility provides Referral Services for ARSH",
+      "reference" : "E21.4",
+      "_links" : {
+        "self" : {
+          "href" : "/470"
+        },
+        "standardUUID" : {
+          "href" : "19f3f1c4-660a-4f1b-9ba4-4c99a6799d92"
+        },
+        "checkpoints" : {
+          "href" : "/470/checkpoints"
+        },
+        "standard" : {
+          "href" : "/470/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.296+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.296+0000",
+      "uuid" : "c0c25807-e9f0-4e8d-bdbe-3d03a0eeb730",
+      "inactive" : false,
+      "name" : "Facility provides Preventive ARSH Services",
+      "reference" : "E21.2",
+      "_links" : {
+        "self" : {
+          "href" : "/471"
+        },
+        "standardUUID" : {
+          "href" : "19f3f1c4-660a-4f1b-9ba4-4c99a6799d92"
+        },
+        "checkpoints" : {
+          "href" : "/471/checkpoints"
+        },
+        "standard" : {
+          "href" : "/471/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.401+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.401+0000",
+      "uuid" : "30fcf6a0-e475-4551-84ca-f5bfe42e582f",
+      "inactive" : false,
+      "name" : "Facility provides Promotive ARSH Services",
+      "reference" : "E21.1",
+      "_links" : {
+        "self" : {
+          "href" : "/472"
+        },
+        "standardUUID" : {
+          "href" : "19f3f1c4-660a-4f1b-9ba4-4c99a6799d92"
+        },
+        "checkpoints" : {
+          "href" : "/472/checkpoints"
+        },
+        "standard" : {
+          "href" : "/472/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.499+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.499+0000",
+      "uuid" : "79a229a3-dc04-4e1f-8cb2-fe1218dda3c1",
+      "inactive" : false,
+      "name" : "There is process for identifying and cautious administration of high alert drugs",
+      "reference" : "E7.1",
+      "_links" : {
+        "self" : {
+          "href" : "/473"
+        },
+        "standardUUID" : {
+          "href" : "e2067892-96d8-47bc-ac48-c5b35d2a568c"
+        },
+        "checkpoints" : {
+          "href" : "/473/checkpoints"
+        },
+        "standard" : {
+          "href" : "/473/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.587+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.587+0000",
+      "uuid" : "5cf95913-06eb-4e97-a14f-f082a410da80",
+      "inactive" : false,
+      "name" : "Medication orders are written legibly and adequately",
+      "reference" : "E7.2",
+      "_links" : {
+        "self" : {
+          "href" : "/474"
+        },
+        "standardUUID" : {
+          "href" : "e2067892-96d8-47bc-ac48-c5b35d2a568c"
+        },
+        "checkpoints" : {
+          "href" : "/474/checkpoints"
+        },
+        "standard" : {
+          "href" : "/474/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.675+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.675+0000",
+      "uuid" : "dee54c7d-f12b-47c9-9734-973402a1f07a",
+      "inactive" : false,
+      "name" : "There is a procedure to check drug before administration/ dispensing",
+      "reference" : "E7.3",
+      "_links" : {
+        "self" : {
+          "href" : "/475"
+        },
+        "standardUUID" : {
+          "href" : "e2067892-96d8-47bc-ac48-c5b35d2a568c"
+        },
+        "checkpoints" : {
+          "href" : "/475/checkpoints"
+        },
+        "standard" : {
+          "href" : "/475/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.763+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.763+0000",
+      "uuid" : "f0e132f1-a016-4191-b45e-eba1bb004c3f",
+      "inactive" : false,
+      "name" : "There is a system to ensure right medicine is given to right patient",
+      "reference" : "E7.4",
+      "_links" : {
+        "self" : {
+          "href" : "/476"
+        },
+        "standardUUID" : {
+          "href" : "e2067892-96d8-47bc-ac48-c5b35d2a568c"
+        },
+        "checkpoints" : {
+          "href" : "/476/checkpoints"
+        },
+        "standard" : {
+          "href" : "/476/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.851+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.851+0000",
+      "uuid" : "8d08b5a7-6383-443a-91a6-dc85a960a955",
+      "inactive" : false,
+      "name" : "Patient is counselled for self drug administration",
+      "reference" : "E7.5",
+      "_links" : {
+        "self" : {
+          "href" : "/477"
+        },
+        "standardUUID" : {
+          "href" : "e2067892-96d8-47bc-ac48-c5b35d2a568c"
+        },
+        "checkpoints" : {
+          "href" : "/477/checkpoints"
+        },
+        "standard" : {
+          "href" : "/477/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:16.941+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:16.941+0000",
+      "uuid" : "e6d94c54-316a-47de-bcf8-c15dd03fb368",
+      "inactive" : false,
+      "name" : "Facility has established procedures for Preoperative care",
+      "reference" : "E14.2",
+      "_links" : {
+        "self" : {
+          "href" : "/478"
+        },
+        "standardUUID" : {
+          "href" : "237b03c9-a94c-4156-a056-1074137d70a7"
+        },
+        "checkpoints" : {
+          "href" : "/478/checkpoints"
+        },
+        "standard" : {
+          "href" : "/478/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.028+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.028+0000",
+      "uuid" : "55afd9c2-ffe8-4526-bd78-d08e8d441cb4",
+      "inactive" : false,
+      "name" : "Facility has established procedures OT Scheduling",
+      "reference" : "E14.1",
+      "_links" : {
+        "self" : {
+          "href" : "/479"
+        },
+        "standardUUID" : {
+          "href" : "237b03c9-a94c-4156-a056-1074137d70a7"
+        },
+        "checkpoints" : {
+          "href" : "/479/checkpoints"
+        },
+        "standard" : {
+          "href" : "/479/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.118+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.118+0000",
+      "uuid" : "fe954fd4-497f-44e2-957f-828ca53a2ee2",
+      "inactive" : false,
+      "name" : "Facility has established procedures for Surgical Safety",
+      "reference" : "E14.3",
+      "_links" : {
+        "self" : {
+          "href" : "/480"
+        },
+        "standardUUID" : {
+          "href" : "237b03c9-a94c-4156-a056-1074137d70a7"
+        },
+        "checkpoints" : {
+          "href" : "/480/checkpoints"
+        },
+        "standard" : {
+          "href" : "/480/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.206+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.206+0000",
+      "uuid" : "ee12d5af-c9e6-40ab-8ca1-bf2272356bb4",
+      "inactive" : false,
+      "name" : "Facility has established procedures for Post operative care",
+      "reference" : "E14.4",
+      "_links" : {
+        "self" : {
+          "href" : "/481"
+        },
+        "standardUUID" : {
+          "href" : "237b03c9-a94c-4156-a056-1074137d70a7"
+        },
+        "checkpoints" : {
+          "href" : "/481/checkpoints"
+        },
+        "standard" : {
+          "href" : "/481/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.299+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.299+0000",
+      "uuid" : "75abd631-c176-42a1-a820-d02c734b7b2b",
+      "inactive" : false,
+      "name" : "There is established procedure for follow-up/ reassessment of Patients",
+      "reference" : "E2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/482"
+        },
+        "standardUUID" : {
+          "href" : "80372d58-c5e9-45b2-b5a4-2980733efe60"
+        },
+        "checkpoints" : {
+          "href" : "/482/checkpoints"
+        },
+        "standard" : {
+          "href" : "/482/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.386+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.386+0000",
+      "uuid" : "2fdb4627-2043-4a5a-950a-e20cd9b131b5",
+      "inactive" : false,
+      "name" : "There is established procedure for initial assessment of patients",
+      "reference" : "E2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/483"
+        },
+        "standardUUID" : {
+          "href" : "80372d58-c5e9-45b2-b5a4-2980733efe60"
+        },
+        "checkpoints" : {
+          "href" : "/483/checkpoints"
+        },
+        "standard" : {
+          "href" : "/483/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.475+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.475+0000",
+      "uuid" : "adbdba97-5e39-4e18-930a-20491c50ec57",
+      "inactive" : false,
+      "name" : "The facility identifies vulnerable patients and ensure their safe care",
+      "reference" : "E5.1",
+      "_links" : {
+        "self" : {
+          "href" : "/484"
+        },
+        "standardUUID" : {
+          "href" : "dbb2fddc-7fd8-426c-9486-4b58c528a2d8"
+        },
+        "checkpoints" : {
+          "href" : "/484/checkpoints"
+        },
+        "standard" : {
+          "href" : "/484/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.568+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.568+0000",
+      "uuid" : "a0ea8365-1021-4049-ba97-52e2d67e968e",
+      "inactive" : false,
+      "name" : "The facility identifies high risk patients and ensure their care, as per their need",
+      "reference" : "E5.2",
+      "_links" : {
+        "self" : {
+          "href" : "/485"
+        },
+        "standardUUID" : {
+          "href" : "dbb2fddc-7fd8-426c-9486-4b58c528a2d8"
+        },
+        "checkpoints" : {
+          "href" : "/485/checkpoints"
+        },
+        "standard" : {
+          "href" : "/485/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.656+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.656+0000",
+      "uuid" : "a9bffd0a-5f16-4705-93e6-29f17279d4e0",
+      "inactive" : false,
+      "name" : "The facility has standard procedures for handling the death in the hospital",
+      "reference" : "E15.2",
+      "_links" : {
+        "self" : {
+          "href" : "/486"
+        },
+        "standardUUID" : {
+          "href" : "8a406c11-53ec-4a3a-ae7e-28a95c5ddf26"
+        },
+        "checkpoints" : {
+          "href" : "/486/checkpoints"
+        },
+        "standard" : {
+          "href" : "/486/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.742+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.742+0000",
+      "uuid" : "149c0638-98c1-4063-865b-3ea7697af8a5",
+      "inactive" : false,
+      "name" : "Death of admitted patient is adequately recorded and communicated",
+      "reference" : "E15.1",
+      "_links" : {
+        "self" : {
+          "href" : "/487"
+        },
+        "standardUUID" : {
+          "href" : "8a406c11-53ec-4a3a-ae7e-28a95c5ddf26"
+        },
+        "checkpoints" : {
+          "href" : "/487/checkpoints"
+        },
+        "standard" : {
+          "href" : "/487/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.838+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.838+0000",
+      "uuid" : "a92df882-2df0-4ac5-a9d9-761a010c65bd",
+      "inactive" : false,
+      "name" : "The facility has standard procedures for referring for post-mortem, its recording and meeting its obligation under the law",
+      "reference" : "E15.4",
+      "_links" : {
+        "self" : {
+          "href" : "/488"
+        },
+        "standardUUID" : {
+          "href" : "8a406c11-53ec-4a3a-ae7e-28a95c5ddf26"
+        },
+        "checkpoints" : {
+          "href" : "/488/checkpoints"
+        },
+        "standard" : {
+          "href" : "/488/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:17.927+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:17.927+0000",
+      "uuid" : "ab6e09a8-64f2-4373-929e-398a419585f2",
+      "inactive" : false,
+      "name" : "The facility has standard operating procedure for end of life support",
+      "reference" : "E15.3",
+      "_links" : {
+        "self" : {
+          "href" : "/489"
+        },
+        "standardUUID" : {
+          "href" : "8a406c11-53ec-4a3a-ae7e-28a95c5ddf26"
+        },
+        "checkpoints" : {
+          "href" : "/489/checkpoints"
+        },
+        "standard" : {
+          "href" : "/489/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.025+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.025+0000",
+      "uuid" : "80064778-f843-45bf-b70b-9f743af882c9",
+      "inactive" : false,
+      "name" : "There is an established procedure for identification of High risk pregnancies and appropriate treatment/referral as per scope of services.",
+      "reference" : "E16.4",
+      "_links" : {
+        "self" : {
+          "href" : "/490"
+        },
+        "standardUUID" : {
+          "href" : "9d080e68-4415-45e4-8ca6-ec208ffc0e5c"
+        },
+        "checkpoints" : {
+          "href" : "/490/checkpoints"
+        },
+        "standard" : {
+          "href" : "/490/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.117+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.117+0000",
+      "uuid" : "3bd09bd5-6a62-4b11-a367-5420dfcb45c8",
+      "inactive" : false,
+      "name" : "Counselling of pregnant women is done as per standard protocol and gestational age",
+      "reference" : "E16.6",
+      "_links" : {
+        "self" : {
+          "href" : "/491"
+        },
+        "standardUUID" : {
+          "href" : "9d080e68-4415-45e4-8ca6-ec208ffc0e5c"
+        },
+        "checkpoints" : {
+          "href" : "/491/checkpoints"
+        },
+        "standard" : {
+          "href" : "/491/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.209+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.209+0000",
+      "uuid" : "88c3506f-caea-40c0-b015-2d939568b1e1",
+      "inactive" : false,
+      "name" : "Facility ensures availability of diagnostic and drugs during antenatal care of pregnant women",
+      "reference" : "E16.3",
+      "_links" : {
+        "self" : {
+          "href" : "/492"
+        },
+        "standardUUID" : {
+          "href" : "9d080e68-4415-45e4-8ca6-ec208ffc0e5c"
+        },
+        "checkpoints" : {
+          "href" : "/492/checkpoints"
+        },
+        "standard" : {
+          "href" : "/492/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.300+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.300+0000",
+      "uuid" : "637be64f-af32-4be6-8eea-423f4dc89f97",
+      "inactive" : false,
+      "name" : "There is an established procedure for History taking, Physical examination, and counselling for each antenatal visit.",
+      "reference" : "E16.2",
+      "_links" : {
+        "self" : {
+          "href" : "/493"
+        },
+        "standardUUID" : {
+          "href" : "9d080e68-4415-45e4-8ca6-ec208ffc0e5c"
+        },
+        "checkpoints" : {
+          "href" : "/493/checkpoints"
+        },
+        "standard" : {
+          "href" : "/493/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.392+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.392+0000",
+      "uuid" : "95d76faf-d74f-4af6-a368-eea31feddaf3",
+      "inactive" : false,
+      "name" : "There is an established procedure for Registration and follow up of pregnant women.",
+      "reference" : "E16.1",
+      "_links" : {
+        "self" : {
+          "href" : "/494"
+        },
+        "standardUUID" : {
+          "href" : "9d080e68-4415-45e4-8ca6-ec208ffc0e5c"
+        },
+        "checkpoints" : {
+          "href" : "/494/checkpoints"
+        },
+        "standard" : {
+          "href" : "/494/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.481+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.481+0000",
+      "uuid" : "a25bba3b-62dd-433f-ab79-00b893276845",
+      "inactive" : false,
+      "name" : "There is an established procedure for identification and management of moderate and severe anaemia",
+      "reference" : "E16.5",
+      "_links" : {
+        "self" : {
+          "href" : "/495"
+        },
+        "standardUUID" : {
+          "href" : "9d080e68-4415-45e4-8ca6-ec208ffc0e5c"
+        },
+        "checkpoints" : {
+          "href" : "/495/checkpoints"
+        },
+        "standard" : {
+          "href" : "/495/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.572+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.572+0000",
+      "uuid" : "e7c9acc5-7407-4408-8fbf-ccca84ad51e3",
+      "inactive" : false,
+      "name" : "Facility provides service under National Vector Borne Disease Control Program as per guidelines",
+      "reference" : "E22.1",
+      "_links" : {
+        "self" : {
+          "href" : "/496"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/496/checkpoints"
+        },
+        "standard" : {
+          "href" : "/496/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.658+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.658+0000",
+      "uuid" : "8b61f842-6e02-4bd0-9b9f-ed2c35f14177",
+      "inactive" : false,
+      "name" : "Facility provides service under National AIDS Control program as per guidelines",
+      "reference" : "E22.4",
+      "_links" : {
+        "self" : {
+          "href" : "/497"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/497/checkpoints"
+        },
+        "standard" : {
+          "href" : "/497/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.745+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.745+0000",
+      "uuid" : "78794bd8-5005-42e5-a27a-a148e915b3fe",
+      "inactive" : false,
+      "name" : "Facility provides service under National Leprosy Eradication Program as per guidelines",
+      "reference" : "E22.3",
+      "_links" : {
+        "self" : {
+          "href" : "/498"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/498/checkpoints"
+        },
+        "standard" : {
+          "href" : "/498/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.840+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.840+0000",
+      "uuid" : "115333c9-abce-42f5-a0d5-733eb8086276",
+      "inactive" : false,
+      "name" : "Facility provides service under National Programme for Prevention and Control of cancer, diabetes, cardiovascular diseases & stroke (NPCDCS) as per guidelines",
+      "reference" : "E22.8",
+      "_links" : {
+        "self" : {
+          "href" : "/499"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/499/checkpoints"
+        },
+        "standard" : {
+          "href" : "/499/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:18.929+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:18.929+0000",
+      "uuid" : "ec9b659e-1aa7-48f6-808e-f0600b9f6b8b",
+      "inactive" : false,
+      "name" : "Facility provides service under National programme for the health care of the elderly as per guidelines",
+      "reference" : "E22.7",
+      "_links" : {
+        "self" : {
+          "href" : "/500"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/500/checkpoints"
+        },
+        "standard" : {
+          "href" : "/500/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.016+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.016+0000",
+      "uuid" : "f99519f9-e7c7-4050-a69a-983d3319e1f1",
+      "inactive" : false,
+      "name" : "Facility provide service for Integrated disease surveillance program",
+      "reference" : "E22.9",
+      "_links" : {
+        "self" : {
+          "href" : "/501"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/501/checkpoints"
+        },
+        "standard" : {
+          "href" : "/501/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.106+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.106+0000",
+      "uuid" : "4d1f79fa-c0f4-4ef2-917d-023b73a8e3d7",
+      "inactive" : false,
+      "name" : "Facility provides service under Revised National TB Control Program as per guidelines",
+      "reference" : "E22.2",
+      "_links" : {
+        "self" : {
+          "href" : "/502"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/502/checkpoints"
+        },
+        "standard" : {
+          "href" : "/502/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.193+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.193+0000",
+      "uuid" : "0ab1bfa0-33ad-4a4f-8a29-74d196585e32",
+      "inactive" : false,
+      "name" : "Facility provide services under National program for prevention and control of deafness",
+      "reference" : "E22.10",
+      "_links" : {
+        "self" : {
+          "href" : "/503"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/503/checkpoints"
+        },
+        "standard" : {
+          "href" : "/503/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.294+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.294+0000",
+      "uuid" : "96b0c56f-66a4-4223-9f1e-b8c6528ed568",
+      "inactive" : false,
+      "name" : "Facility provides service under Mental Health Program as per guidelines",
+      "reference" : "E22.6",
+      "_links" : {
+        "self" : {
+          "href" : "/504"
+        },
+        "standardUUID" : {
+          "href" : "a3416423-4322-47c7-8f0e-8bbef65ec1ec"
+        },
+        "checkpoints" : {
+          "href" : "/504/checkpoints"
+        },
+        "standard" : {
+          "href" : "/504/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.381+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.381+0000",
+      "uuid" : "cc1ed3a0-1592-49c1-9bd5-c10f2d24efc2",
+      "inactive" : false,
+      "name" : "Facility has established procedures for monitoring during anaesthesia",
+      "reference" : "E13.2",
+      "_links" : {
+        "self" : {
+          "href" : "/505"
+        },
+        "standardUUID" : {
+          "href" : "01e5edd9-055b-4761-9b81-9b76bb7b8c70"
+        },
+        "checkpoints" : {
+          "href" : "/505/checkpoints"
+        },
+        "standard" : {
+          "href" : "/505/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.469+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.469+0000",
+      "uuid" : "1ed51050-8447-4b50-9ad6-7a50595ff239",
+      "inactive" : false,
+      "name" : "The facility has established procedures for Pre-anaesthetic Check up and maintenance of records",
+      "reference" : "E13.1",
+      "_links" : {
+        "self" : {
+          "href" : "/506"
+        },
+        "standardUUID" : {
+          "href" : "01e5edd9-055b-4761-9b81-9b76bb7b8c70"
+        },
+        "checkpoints" : {
+          "href" : "/506/checkpoints"
+        },
+        "standard" : {
+          "href" : "/506/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.558+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.558+0000",
+      "uuid" : "fbe31125-21c4-40b3-af52-05a4c988707f",
+      "inactive" : false,
+      "name" : "Facility has established procedures for Post Anaesthesia care",
+      "reference" : "E13.3",
+      "_links" : {
+        "self" : {
+          "href" : "/507"
+        },
+        "standardUUID" : {
+          "href" : "01e5edd9-055b-4761-9b81-9b76bb7b8c70"
+        },
+        "checkpoints" : {
+          "href" : "/507/checkpoints"
+        },
+        "standard" : {
+          "href" : "/507/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.685+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.685+0000",
+      "uuid" : "895e26df-4682-46d5-8458-66cec100f256",
+      "inactive" : false,
+      "name" : "Nursing records are maintained",
+      "reference" : "E4.4",
+      "_links" : {
+        "self" : {
+          "href" : "/508"
+        },
+        "standardUUID" : {
+          "href" : "3232050d-e7ab-432b-ba77-d5e1345f1916"
+        },
+        "checkpoints" : {
+          "href" : "/508/checkpoints"
+        },
+        "standard" : {
+          "href" : "/508/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.775+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.775+0000",
+      "uuid" : "1e6042b8-ae0e-4a8b-be44-eb971165c798",
+      "inactive" : false,
+      "name" : "There is established procedure of patient hand over, whenever staff duty change happens",
+      "reference" : "E4.3",
+      "_links" : {
+        "self" : {
+          "href" : "/509"
+        },
+        "standardUUID" : {
+          "href" : "3232050d-e7ab-432b-ba77-d5e1345f1916"
+        },
+        "checkpoints" : {
+          "href" : "/509/checkpoints"
+        },
+        "standard" : {
+          "href" : "/509/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.865+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.865+0000",
+      "uuid" : "ff87f12c-8c8a-4717-9f03-92da9f22a459",
+      "inactive" : false,
+      "name" : "There is procedure for periodic monitoring of patients",
+      "reference" : "E4.5",
+      "_links" : {
+        "self" : {
+          "href" : "/510"
+        },
+        "standardUUID" : {
+          "href" : "3232050d-e7ab-432b-ba77-d5e1345f1916"
+        },
+        "checkpoints" : {
+          "href" : "/510/checkpoints"
+        },
+        "standard" : {
+          "href" : "/510/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:19.960+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:19.960+0000",
+      "uuid" : "93445549-eaef-47fe-863b-1bc99d62da62",
+      "inactive" : false,
+      "name" : "Procedure for ensuring timely and accurate nursing care as per treatment plan is established at the facility",
+      "reference" : "E4.2",
+      "_links" : {
+        "self" : {
+          "href" : "/511"
+        },
+        "standardUUID" : {
+          "href" : "3232050d-e7ab-432b-ba77-d5e1345f1916"
+        },
+        "checkpoints" : {
+          "href" : "/511/checkpoints"
+        },
+        "standard" : {
+          "href" : "/511/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.049+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.049+0000",
+      "uuid" : "171d003c-f86e-4d04-94bf-05953d9cea02",
+      "inactive" : false,
+      "name" : "Procedure for identification of patients is established at the facility",
+      "reference" : "E4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/512"
+        },
+        "standardUUID" : {
+          "href" : "3232050d-e7ab-432b-ba77-d5e1345f1916"
+        },
+        "checkpoints" : {
+          "href" : "/512/checkpoints"
+        },
+        "standard" : {
+          "href" : "/512/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.138+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.138+0000",
+      "uuid" : "9c77d003-63ee-410c-9e15-b3d8e2eb7d7f",
+      "inactive" : false,
+      "name" : "There is procedure for handling medico legal cases",
+      "reference" : "E10.5",
+      "_links" : {
+        "self" : {
+          "href" : "/513"
+        },
+        "standardUUID" : {
+          "href" : "61b6b602-3c59-4eb5-9861-6440b3c38d12"
+        },
+        "checkpoints" : {
+          "href" : "/513/checkpoints"
+        },
+        "standard" : {
+          "href" : "/513/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.227+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.227+0000",
+      "uuid" : "c7690f0e-386c-496c-9b56-ff1405e97e12",
+      "inactive" : false,
+      "name" : "There is procedure for Receiving and triage of patients",
+      "reference" : "E10.1",
+      "_links" : {
+        "self" : {
+          "href" : "/514"
+        },
+        "standardUUID" : {
+          "href" : "61b6b602-3c59-4eb5-9861-6440b3c38d12"
+        },
+        "checkpoints" : {
+          "href" : "/514/checkpoints"
+        },
+        "standard" : {
+          "href" : "/514/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.325+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.325+0000",
+      "uuid" : "4ceb7976-de55-4ae0-ac3d-1e76cd9742fc",
+      "inactive" : false,
+      "name" : "Emergency protocols are defined and implemented",
+      "reference" : "E10.2",
+      "_links" : {
+        "self" : {
+          "href" : "/515"
+        },
+        "standardUUID" : {
+          "href" : "61b6b602-3c59-4eb5-9861-6440b3c38d12"
+        },
+        "checkpoints" : {
+          "href" : "/515/checkpoints"
+        },
+        "standard" : {
+          "href" : "/515/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.422+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.422+0000",
+      "uuid" : "7c7dfa47-8786-467e-8b74-9e2f9912194c",
+      "inactive" : false,
+      "name" : "The facility ensures adequate and timely availability of ambulances services and mobilisation of resources, as per requirement",
+      "reference" : "E10.4",
+      "_links" : {
+        "self" : {
+          "href" : "/516"
+        },
+        "standardUUID" : {
+          "href" : "61b6b602-3c59-4eb5-9861-6440b3c38d12"
+        },
+        "checkpoints" : {
+          "href" : "/516/checkpoints"
+        },
+        "standard" : {
+          "href" : "/516/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.523+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.523+0000",
+      "uuid" : "38451869-d25b-4e70-8362-d533ed0af1e8",
+      "inactive" : false,
+      "name" : "The facility has disaster management plan in place",
+      "reference" : "E10.3",
+      "_links" : {
+        "self" : {
+          "href" : "/517"
+        },
+        "standardUUID" : {
+          "href" : "61b6b602-3c59-4eb5-9861-6440b3c38d12"
+        },
+        "checkpoints" : {
+          "href" : "/517/checkpoints"
+        },
+        "standard" : {
+          "href" : "/517/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.612+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.612+0000",
+      "uuid" : "f7cbf60f-f750-4bf6-81f2-2680e4938b4f",
+      "inactive" : false,
+      "name" : "The facility has established procedure for registration of patients",
+      "reference" : "E1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/518"
+        },
+        "standardUUID" : {
+          "href" : "5ab79140-e37c-4419-980b-f161863eed3d"
+        },
+        "checkpoints" : {
+          "href" : "/518/checkpoints"
+        },
+        "standard" : {
+          "href" : "/518/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.699+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.699+0000",
+      "uuid" : "86d63e41-ce1c-46f1-ab62-5d266e9dd28f",
+      "inactive" : false,
+      "name" : "There is established procedure for managing patients, in case beds are not available at the facility",
+      "reference" : "E1.4",
+      "_links" : {
+        "self" : {
+          "href" : "/519"
+        },
+        "standardUUID" : {
+          "href" : "5ab79140-e37c-4419-980b-f161863eed3d"
+        },
+        "checkpoints" : {
+          "href" : "/519/checkpoints"
+        },
+        "standard" : {
+          "href" : "/519/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.813+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.813+0000",
+      "uuid" : "7c794b98-400b-441c-8ca4-dc8e0c90de09",
+      "inactive" : false,
+      "name" : "The facility has a established procedure for OPD consultation",
+      "reference" : "E1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/520"
+        },
+        "standardUUID" : {
+          "href" : "5ab79140-e37c-4419-980b-f161863eed3d"
+        },
+        "checkpoints" : {
+          "href" : "/520/checkpoints"
+        },
+        "standard" : {
+          "href" : "/520/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.901+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.901+0000",
+      "uuid" : "fa0f0bfe-d1d2-4495-ac3e-23c60266335c",
+      "inactive" : false,
+      "name" : "There is established procedure for admission of patients",
+      "reference" : "E1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/521"
+        },
+        "standardUUID" : {
+          "href" : "5ab79140-e37c-4419-980b-f161863eed3d"
+        },
+        "checkpoints" : {
+          "href" : "/521/checkpoints"
+        },
+        "standard" : {
+          "href" : "/521/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:20.990+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:20.990+0000",
+      "uuid" : "adb0839f-8930-46b5-bc03-fd5524cdad9b",
+      "inactive" : false,
+      "name" : "Procedures performed are written on patients records",
+      "reference" : "E8.4",
+      "_links" : {
+        "self" : {
+          "href" : "/522"
+        },
+        "standardUUID" : {
+          "href" : "d42e42d5-1047-42d4-ba00-657f72c4e114"
+        },
+        "checkpoints" : {
+          "href" : "/522/checkpoints"
+        },
+        "standard" : {
+          "href" : "/522/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.093+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.093+0000",
+      "uuid" : "8224d481-89cc-4125-916a-210558dd4ab2",
+      "inactive" : false,
+      "name" : "Adequate form and formats are available at point of use",
+      "reference" : "E8.5",
+      "_links" : {
+        "self" : {
+          "href" : "/523"
+        },
+        "standardUUID" : {
+          "href" : "d42e42d5-1047-42d4-ba00-657f72c4e114"
+        },
+        "checkpoints" : {
+          "href" : "/523/checkpoints"
+        },
+        "standard" : {
+          "href" : "/523/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.189+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.189+0000",
+      "uuid" : "4ed98985-f56e-4f36-8921-f1d4549a9087",
+      "inactive" : false,
+      "name" : "All the assessments, re-assessment and investigations are recorded and updated",
+      "reference" : "E8.1",
+      "_links" : {
+        "self" : {
+          "href" : "/524"
+        },
+        "standardUUID" : {
+          "href" : "d42e42d5-1047-42d4-ba00-657f72c4e114"
+        },
+        "checkpoints" : {
+          "href" : "/524/checkpoints"
+        },
+        "standard" : {
+          "href" : "/524/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.277+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.277+0000",
+      "uuid" : "89c4cd01-0cf0-4060-b402-c045b08c17e0",
+      "inactive" : false,
+      "name" : "Register/records are maintained as per guidelines",
+      "reference" : "E8.6",
+      "_links" : {
+        "self" : {
+          "href" : "/525"
+        },
+        "standardUUID" : {
+          "href" : "d42e42d5-1047-42d4-ba00-657f72c4e114"
+        },
+        "checkpoints" : {
+          "href" : "/525/checkpoints"
+        },
+        "standard" : {
+          "href" : "/525/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.368+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.368+0000",
+      "uuid" : "217d9b75-0147-4d27-9b33-b8ba9b6ca348",
+      "inactive" : false,
+      "name" : "All treatment plan prescription/orders are recorded in the patient records.",
+      "reference" : "E8.2",
+      "_links" : {
+        "self" : {
+          "href" : "/526"
+        },
+        "standardUUID" : {
+          "href" : "d42e42d5-1047-42d4-ba00-657f72c4e114"
+        },
+        "checkpoints" : {
+          "href" : "/526/checkpoints"
+        },
+        "standard" : {
+          "href" : "/526/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.459+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.459+0000",
+      "uuid" : "4225aa41-459f-48e7-9e29-0d31b93e8dcb",
+      "inactive" : false,
+      "name" : "Care provided to each patient is recorded in the patient records",
+      "reference" : "E8.3",
+      "_links" : {
+        "self" : {
+          "href" : "/527"
+        },
+        "standardUUID" : {
+          "href" : "d42e42d5-1047-42d4-ba00-657f72c4e114"
+        },
+        "checkpoints" : {
+          "href" : "/527/checkpoints"
+        },
+        "standard" : {
+          "href" : "/527/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.549+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.549+0000",
+      "uuid" : "385b5930-0b96-4444-ad90-6832fd8307fd",
+      "inactive" : false,
+      "name" : "The facility ensures safe and adequate storage and retrieval of medical records",
+      "reference" : "E8.7",
+      "_links" : {
+        "self" : {
+          "href" : "/528"
+        },
+        "standardUUID" : {
+          "href" : "d42e42d5-1047-42d4-ba00-657f72c4e114"
+        },
+        "checkpoints" : {
+          "href" : "/528/checkpoints"
+        },
+        "standard" : {
+          "href" : "/528/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.640+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.640+0000",
+      "uuid" : "313179b7-86d4-4a89-b22e-9ab3471abdea",
+      "inactive" : false,
+      "name" : "There is established procedure for management/Referral of Obstetrics Emergencies as per scope of services.",
+      "reference" : "E17.3",
+      "_links" : {
+        "self" : {
+          "href" : "/529"
+        },
+        "standardUUID" : {
+          "href" : "834c2a72-8fd1-4445-98b5-0742864d33c5"
+        },
+        "checkpoints" : {
+          "href" : "/529/checkpoints"
+        },
+        "standard" : {
+          "href" : "/529/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.733+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.733+0000",
+      "uuid" : "95f3e8a6-617c-4ce5-a581-d413ab80fb99",
+      "inactive" : false,
+      "name" : "There is an established procedure for assisted and C-section deliveries per scope of services.",
+      "reference" : "E17.2",
+      "_links" : {
+        "self" : {
+          "href" : "/530"
+        },
+        "standardUUID" : {
+          "href" : "834c2a72-8fd1-4445-98b5-0742864d33c5"
+        },
+        "checkpoints" : {
+          "href" : "/530/checkpoints"
+        },
+        "standard" : {
+          "href" : "/530/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.825+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.825+0000",
+      "uuid" : "eeb292ef-9e16-4a5f-ae26-98a7052a64cc",
+      "inactive" : false,
+      "name" : "There is an established procedure for new born resuscitation and new-born care.",
+      "reference" : "E17.4",
+      "_links" : {
+        "self" : {
+          "href" : "/531"
+        },
+        "standardUUID" : {
+          "href" : "834c2a72-8fd1-4445-98b5-0742864d33c5"
+        },
+        "checkpoints" : {
+          "href" : "/531/checkpoints"
+        },
+        "standard" : {
+          "href" : "/531/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:21.912+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:21.912+0000",
+      "uuid" : "6dfe0eba-98ba-4b7b-bb33-58be9b60f239",
+      "inactive" : false,
+      "name" : "Established procedures and standard protocols for management of different stages of labour including AMTSL (Active Management of third Stage of labour) are followed at the facility",
+      "reference" : "E17.1",
+      "_links" : {
+        "self" : {
+          "href" : "/532"
+        },
+        "standardUUID" : {
+          "href" : "834c2a72-8fd1-4445-98b5-0742864d33c5"
+        },
+        "checkpoints" : {
+          "href" : "/532/checkpoints"
+        },
+        "standard" : {
+          "href" : "/532/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.001+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.001+0000",
+      "uuid" : "7bdb3811-0b89-4df8-a1a0-34d09db258e9",
+      "inactive" : false,
+      "name" : "Case summary and follow-up instructions are provided at the discharge",
+      "reference" : "E9.2",
+      "_links" : {
+        "self" : {
+          "href" : "/533"
+        },
+        "standardUUID" : {
+          "href" : "049047c8-0665-4efb-b6fd-efa2cc9ae9bc"
+        },
+        "checkpoints" : {
+          "href" : "/533/checkpoints"
+        },
+        "standard" : {
+          "href" : "/533/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.098+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.098+0000",
+      "uuid" : "cc40df46-4f61-4848-bc21-d5063915a78a",
+      "inactive" : false,
+      "name" : "The facility has established procedure for patients leaving the facility against medical advice, absconding, etc.",
+      "reference" : "E9.4",
+      "_links" : {
+        "self" : {
+          "href" : "/534"
+        },
+        "standardUUID" : {
+          "href" : "049047c8-0665-4efb-b6fd-efa2cc9ae9bc"
+        },
+        "checkpoints" : {
+          "href" : "/534/checkpoints"
+        },
+        "standard" : {
+          "href" : "/534/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.186+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.186+0000",
+      "uuid" : "501b2791-2d19-4c6a-93f4-375a1e8f3953",
+      "inactive" : false,
+      "name" : "Counselling services are provided as during discharges wherever required",
+      "reference" : "E9.3",
+      "_links" : {
+        "self" : {
+          "href" : "/535"
+        },
+        "standardUUID" : {
+          "href" : "049047c8-0665-4efb-b6fd-efa2cc9ae9bc"
+        },
+        "checkpoints" : {
+          "href" : "/535/checkpoints"
+        },
+        "standard" : {
+          "href" : "/535/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.275+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.275+0000",
+      "uuid" : "b1b6ae4e-a286-4645-979e-51988dcacdf4",
+      "inactive" : false,
+      "name" : "Discharge is done after assessing patient readiness",
+      "reference" : "E9.1",
+      "_links" : {
+        "self" : {
+          "href" : "/536"
+        },
+        "standardUUID" : {
+          "href" : "049047c8-0665-4efb-b6fd-efa2cc9ae9bc"
+        },
+        "checkpoints" : {
+          "href" : "/536/checkpoints"
+        },
+        "standard" : {
+          "href" : "/536/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.366+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.366+0000",
+      "uuid" : "7bde842d-acf9-418e-b432-37a0c697624e",
+      "inactive" : false,
+      "name" : "There are established procedures for Pre-testing Activities",
+      "reference" : "E11.1",
+      "_links" : {
+        "self" : {
+          "href" : "/537"
+        },
+        "standardUUID" : {
+          "href" : "0331532b-886a-4f3f-8586-feafecb9b1cc"
+        },
+        "checkpoints" : {
+          "href" : "/537/checkpoints"
+        },
+        "standard" : {
+          "href" : "/537/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.455+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.455+0000",
+      "uuid" : "2049e8f5-62a6-4b55-9d67-672f16249b76",
+      "inactive" : false,
+      "name" : "There are established procedures for Post-testing Activities",
+      "reference" : "E11.3",
+      "_links" : {
+        "self" : {
+          "href" : "/538"
+        },
+        "standardUUID" : {
+          "href" : "0331532b-886a-4f3f-8586-feafecb9b1cc"
+        },
+        "checkpoints" : {
+          "href" : "/538/checkpoints"
+        },
+        "standard" : {
+          "href" : "/538/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.548+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.548+0000",
+      "uuid" : "53251cf0-3bcb-40f1-b24f-18435bf7acbd",
+      "inactive" : false,
+      "name" : "There are established procedures for testing Activities",
+      "reference" : "E11.2",
+      "_links" : {
+        "self" : {
+          "href" : "/539"
+        },
+        "standardUUID" : {
+          "href" : "0331532b-886a-4f3f-8586-feafecb9b1cc"
+        },
+        "checkpoints" : {
+          "href" : "/539/checkpoints"
+        },
+        "standard" : {
+          "href" : "/539/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.641+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.641+0000",
+      "uuid" : "c3ba473f-c9cc-4da0-8b05-febed7f36a9b",
+      "inactive" : false,
+      "name" : "There is established procedure for storage of blood",
+      "reference" : "E12.2",
+      "_links" : {
+        "self" : {
+          "href" : "/540"
+        },
+        "standardUUID" : {
+          "href" : "63c3121d-b54a-45fd-ad18-c4f06f1f3669"
+        },
+        "checkpoints" : {
+          "href" : "/540/checkpoints"
+        },
+        "standard" : {
+          "href" : "/540/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.730+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.730+0000",
+      "uuid" : "3a37cbae-3047-47cf-94a6-d08758c0da05",
+      "inactive" : false,
+      "name" : "There is established procedure for the Cross matching of blood",
+      "reference" : "E12.3",
+      "_links" : {
+        "self" : {
+          "href" : "/541"
+        },
+        "standardUUID" : {
+          "href" : "63c3121d-b54a-45fd-ad18-c4f06f1f3669"
+        },
+        "checkpoints" : {
+          "href" : "/541/checkpoints"
+        },
+        "standard" : {
+          "href" : "/541/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.815+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.815+0000",
+      "uuid" : "07062980-6a5a-45fa-b960-16ae939cce2e",
+      "inactive" : false,
+      "name" : "There is established procedure for transfusion of blood",
+      "reference" : "E12.5",
+      "_links" : {
+        "self" : {
+          "href" : "/542"
+        },
+        "standardUUID" : {
+          "href" : "63c3121d-b54a-45fd-ad18-c4f06f1f3669"
+        },
+        "checkpoints" : {
+          "href" : "/542/checkpoints"
+        },
+        "standard" : {
+          "href" : "/542/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:22.903+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:22.903+0000",
+      "uuid" : "a42235dd-4a9d-4fde-b7a0-b5a4bc50d876",
+      "inactive" : false,
+      "name" : "There is established procedure for Transport of blood from parent blood bank.",
+      "reference" : "E12.1",
+      "_links" : {
+        "self" : {
+          "href" : "/543"
+        },
+        "standardUUID" : {
+          "href" : "63c3121d-b54a-45fd-ad18-c4f06f1f3669"
+        },
+        "checkpoints" : {
+          "href" : "/543/checkpoints"
+        },
+        "standard" : {
+          "href" : "/543/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.003+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.003+0000",
+      "uuid" : "0ccdc3c3-e875-44f6-b494-495a43b11dbc",
+      "inactive" : false,
+      "name" : "There is a established procedure for monitoring and reporting Transfusion complication",
+      "reference" : "E12.6",
+      "_links" : {
+        "self" : {
+          "href" : "/544"
+        },
+        "standardUUID" : {
+          "href" : "63c3121d-b54a-45fd-ad18-c4f06f1f3669"
+        },
+        "checkpoints" : {
+          "href" : "/544/checkpoints"
+        },
+        "standard" : {
+          "href" : "/544/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.091+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.091+0000",
+      "uuid" : "4dbb3bc0-4c2d-4bfe-b1fb-2fdc5bdef4b0",
+      "inactive" : false,
+      "name" : "There is established procedure for issuing blood",
+      "reference" : "E12.4",
+      "_links" : {
+        "self" : {
+          "href" : "/545"
+        },
+        "standardUUID" : {
+          "href" : "63c3121d-b54a-45fd-ad18-c4f06f1f3669"
+        },
+        "checkpoints" : {
+          "href" : "/545/checkpoints"
+        },
+        "standard" : {
+          "href" : "/545/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.185+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.185+0000",
+      "uuid" : "00819f7f-0332-4d31-8bc4-f86cde9597ee",
+      "inactive" : false,
+      "name" : "There is an established procedure for Post partum counselling of mother",
+      "reference" : "E18.3",
+      "_links" : {
+        "self" : {
+          "href" : "/546"
+        },
+        "standardUUID" : {
+          "href" : "66a487f8-21d2-4feb-bbac-cd7f216b004c"
+        },
+        "checkpoints" : {
+          "href" : "/546/checkpoints"
+        },
+        "standard" : {
+          "href" : "/546/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.282+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.282+0000",
+      "uuid" : "f6917ee4-3339-4114-8e5e-35a01f1d5a06",
+      "inactive" : false,
+      "name" : "There is established procedure for discharge and follow up of mother and new-born.",
+      "reference" : "E18.5",
+      "_links" : {
+        "self" : {
+          "href" : "/547"
+        },
+        "standardUUID" : {
+          "href" : "66a487f8-21d2-4feb-bbac-cd7f216b004c"
+        },
+        "checkpoints" : {
+          "href" : "/547/checkpoints"
+        },
+        "standard" : {
+          "href" : "/547/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.370+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.370+0000",
+      "uuid" : "f8722c17-0091-447c-bd6c-17c77636bc96",
+      "inactive" : false,
+      "name" : "The facility ensures adequate stay of mother and new-born in a safe environment as per standard Protocols.",
+      "reference" : "E18.2",
+      "_links" : {
+        "self" : {
+          "href" : "/548"
+        },
+        "standardUUID" : {
+          "href" : "66a487f8-21d2-4feb-bbac-cd7f216b004c"
+        },
+        "checkpoints" : {
+          "href" : "/548/checkpoints"
+        },
+        "standard" : {
+          "href" : "/548/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.458+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.458+0000",
+      "uuid" : "a874725f-6d38-4d6a-9a3b-e2f67e17663b",
+      "inactive" : false,
+      "name" : "Post partum Care is provided to the mothers",
+      "reference" : "E18.1",
+      "_links" : {
+        "self" : {
+          "href" : "/549"
+        },
+        "standardUUID" : {
+          "href" : "66a487f8-21d2-4feb-bbac-cd7f216b004c"
+        },
+        "checkpoints" : {
+          "href" : "/549/checkpoints"
+        },
+        "standard" : {
+          "href" : "/549/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.554+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.554+0000",
+      "uuid" : "45540c30-db57-4eeb-80aa-47aa0ebe4ec8",
+      "inactive" : false,
+      "name" : "The facility has established procedures for stabilization/treatment/referral of post natal complications",
+      "reference" : "E18.4",
+      "_links" : {
+        "self" : {
+          "href" : "/550"
+        },
+        "standardUUID" : {
+          "href" : "66a487f8-21d2-4feb-bbac-cd7f216b004c"
+        },
+        "checkpoints" : {
+          "href" : "/550/checkpoints"
+        },
+        "standard" : {
+          "href" : "/550/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.647+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.647+0000",
+      "uuid" : "b9e6e94c-a9b2-42ba-bc42-7a7bdd2bfaf8",
+      "inactive" : false,
+      "name" : "There is procedure of rational use of drugs",
+      "reference" : "E6.2",
+      "_links" : {
+        "self" : {
+          "href" : "/551"
+        },
+        "standardUUID" : {
+          "href" : "2612a79b-edb0-4ea9-b059-2891fd6ed9f0"
+        },
+        "checkpoints" : {
+          "href" : "/551/checkpoints"
+        },
+        "standard" : {
+          "href" : "/551/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:23.735+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:23.735+0000",
+      "uuid" : "3792ea5d-0237-4548-8653-408682e46f9c",
+      "inactive" : false,
+      "name" : "Facility ensured that drugs are prescribed in generic name only",
+      "reference" : "E6.1",
+      "_links" : {
+        "self" : {
+          "href" : "/552"
+        },
+        "standardUUID" : {
+          "href" : "2612a79b-edb0-4ea9-b059-2891fd6ed9f0"
+        },
+        "checkpoints" : {
+          "href" : "/552/checkpoints"
+        },
+        "standard" : {
+          "href" : "/552/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:24.285+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:24.285+0000",
+      "uuid" : "376051fc-fe26-42c2-8637-bf6efa7c2c36",
+      "inactive" : false,
+      "name" : "Facility ensures standard practices and materials for disinfection and sterilization of instruments and equipment",
+      "reference" : "F4.2",
+      "_links" : {
+        "self" : {
+          "href" : "/553"
+        },
+        "standardUUID" : {
+          "href" : "905e159b-15ea-4b23-adde-8f49bbe482ed"
+        },
+        "checkpoints" : {
+          "href" : "/553/checkpoints"
+        },
+        "standard" : {
+          "href" : "/553/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:24.697+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:24.697+0000",
+      "uuid" : "cc9568f0-1d13-433e-8899-fbe381190097",
+      "inactive" : false,
+      "name" : "Facility ensures standard practices and materials for decontamination and cleaning of instruments and procedures areas",
+      "reference" : "F4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/554"
+        },
+        "standardUUID" : {
+          "href" : "905e159b-15ea-4b23-adde-8f49bbe482ed"
+        },
+        "checkpoints" : {
+          "href" : "/554/checkpoints"
+        },
+        "standard" : {
+          "href" : "/554/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:24.789+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:24.789+0000",
+      "uuid" : "40c62164-fbc6-4729-b8e4-fdf7cf33f5f6",
+      "inactive" : false,
+      "name" : "Facility ensures segregation infectious patients",
+      "reference" : "F5.4",
+      "_links" : {
+        "self" : {
+          "href" : "/555"
+        },
+        "standardUUID" : {
+          "href" : "c27a81b8-a7f6-42d7-8b9b-790f558a7d0a"
+        },
+        "checkpoints" : {
+          "href" : "/555/checkpoints"
+        },
+        "standard" : {
+          "href" : "/555/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:25.013+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:25.013+0000",
+      "uuid" : "7432b750-caf8-4d24-a3ac-8bd59dec323f",
+      "inactive" : false,
+      "name" : "Facility ensures standard practices followed for cleaning and disinfection of patient care areas",
+      "reference" : "F5.3",
+      "_links" : {
+        "self" : {
+          "href" : "/556"
+        },
+        "standardUUID" : {
+          "href" : "c27a81b8-a7f6-42d7-8b9b-790f558a7d0a"
+        },
+        "checkpoints" : {
+          "href" : "/556/checkpoints"
+        },
+        "standard" : {
+          "href" : "/556/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:25.955+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:25.955+0000",
+      "uuid" : "555a8fdc-21bf-42b3-b436-b695eb7131b3",
+      "inactive" : false,
+      "name" : "Layout of the department is conducive for the infection control practices",
+      "reference" : "F5.1",
+      "_links" : {
+        "self" : {
+          "href" : "/557"
+        },
+        "standardUUID" : {
+          "href" : "c27a81b8-a7f6-42d7-8b9b-790f558a7d0a"
+        },
+        "checkpoints" : {
+          "href" : "/557/checkpoints"
+        },
+        "standard" : {
+          "href" : "/557/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:26.289+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:26.289+0000",
+      "uuid" : "322c8f63-c13c-4df1-9957-157b6aaca2a8",
+      "inactive" : false,
+      "name" : "The facility ensures air quality of high risk area",
+      "reference" : "F5.5",
+      "_links" : {
+        "self" : {
+          "href" : "/558"
+        },
+        "standardUUID" : {
+          "href" : "c27a81b8-a7f6-42d7-8b9b-790f558a7d0a"
+        },
+        "checkpoints" : {
+          "href" : "/558/checkpoints"
+        },
+        "standard" : {
+          "href" : "/558/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:26.606+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:26.606+0000",
+      "uuid" : "b4dd6369-c05a-414a-826d-e0b0e9155c33",
+      "inactive" : false,
+      "name" : "Facility ensures availability of standard materials for cleaning and disinfection of patient care areas",
+      "reference" : "F5.2",
+      "_links" : {
+        "self" : {
+          "href" : "/559"
+        },
+        "standardUUID" : {
+          "href" : "c27a81b8-a7f6-42d7-8b9b-790f558a7d0a"
+        },
+        "checkpoints" : {
+          "href" : "/559/checkpoints"
+        },
+        "standard" : {
+          "href" : "/559/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:26.821+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:26.821+0000",
+      "uuid" : "dbd3553e-4ca2-4c98-b943-30a2d2286daa",
+      "inactive" : false,
+      "name" : "Facility has defined and established antibiotic policy",
+      "reference" : "F1.6",
+      "_links" : {
+        "self" : {
+          "href" : "/560"
+        },
+        "standardUUID" : {
+          "href" : "dfabaf2e-dc0c-4b7d-86cf-cf424b21b84a"
+        },
+        "checkpoints" : {
+          "href" : "/560/checkpoints"
+        },
+        "standard" : {
+          "href" : "/560/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:26.997+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:26.997+0000",
+      "uuid" : "6b8ef002-b56b-4f0d-a50b-94e619af75b3",
+      "inactive" : false,
+      "name" : "The facility measures hospital associated infection rates",
+      "reference" : "F1.3",
+      "_links" : {
+        "self" : {
+          "href" : "/561"
+        },
+        "standardUUID" : {
+          "href" : "dfabaf2e-dc0c-4b7d-86cf-cf424b21b84a"
+        },
+        "checkpoints" : {
+          "href" : "/561/checkpoints"
+        },
+        "standard" : {
+          "href" : "/561/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:27.181+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:27.181+0000",
+      "uuid" : "fb2405f0-953e-44cc-a7c8-2c8e14d43069",
+      "inactive" : false,
+      "name" : "There is Provision of Periodic Medical Check-up's and immunization of staff",
+      "reference" : "F1.4",
+      "_links" : {
+        "self" : {
+          "href" : "/562"
+        },
+        "standardUUID" : {
+          "href" : "dfabaf2e-dc0c-4b7d-86cf-cf424b21b84a"
+        },
+        "checkpoints" : {
+          "href" : "/562/checkpoints"
+        },
+        "standard" : {
+          "href" : "/562/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:27.359+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:27.359+0000",
+      "uuid" : "afae1739-ffa0-433b-9706-111a074690e8",
+      "inactive" : false,
+      "name" : "Facility has established procedures for regular monitoring of infection control practices",
+      "reference" : "F1.5",
+      "_links" : {
+        "self" : {
+          "href" : "/563"
+        },
+        "standardUUID" : {
+          "href" : "dfabaf2e-dc0c-4b7d-86cf-cf424b21b84a"
+        },
+        "checkpoints" : {
+          "href" : "/563/checkpoints"
+        },
+        "standard" : {
+          "href" : "/563/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:27.671+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:27.671+0000",
+      "uuid" : "18cd31c6-7492-46f2-9909-d26372b1e1aa",
+      "inactive" : false,
+      "name" : "The facility has provision for Passive and active culture surveillance of critical & high risk areas",
+      "reference" : "F1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/564"
+        },
+        "standardUUID" : {
+          "href" : "dfabaf2e-dc0c-4b7d-86cf-cf424b21b84a"
+        },
+        "checkpoints" : {
+          "href" : "/564/checkpoints"
+        },
+        "standard" : {
+          "href" : "/564/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:27.848+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:27.848+0000",
+      "uuid" : "fdf79baf-3278-47d1-8bf3-aa9a32d641c3",
+      "inactive" : false,
+      "name" : "Facility has functional infection control committee",
+      "reference" : "F1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/565"
+        },
+        "standardUUID" : {
+          "href" : "dfabaf2e-dc0c-4b7d-86cf-cf424b21b84a"
+        },
+        "checkpoints" : {
+          "href" : "/565/checkpoints"
+        },
+        "standard" : {
+          "href" : "/565/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:28.023+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:28.023+0000",
+      "uuid" : "b583d4af-57fc-4c47-89fc-ef81b4f60597",
+      "inactive" : false,
+      "name" : "Staff is adhere to standard personal protection practices",
+      "reference" : "F3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/566"
+        },
+        "standardUUID" : {
+          "href" : "c9daaa76-d06c-4e61-a184-d44256af85c7"
+        },
+        "checkpoints" : {
+          "href" : "/566/checkpoints"
+        },
+        "standard" : {
+          "href" : "/566/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:28.204+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:28.204+0000",
+      "uuid" : "fd33ba36-90db-4b4d-b142-fec43deab472",
+      "inactive" : false,
+      "name" : "Facility ensures adequate personal protection equipment as per requirements",
+      "reference" : "F3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/567"
+        },
+        "standardUUID" : {
+          "href" : "c9daaa76-d06c-4e61-a184-d44256af85c7"
+        },
+        "checkpoints" : {
+          "href" : "/567/checkpoints"
+        },
+        "standard" : {
+          "href" : "/567/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:28.377+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:28.377+0000",
+      "uuid" : "2dbdea14-de2f-438a-9c91-d40ce134318b",
+      "inactive" : false,
+      "name" : "Facility ensures management of sharps as per guidelines",
+      "reference" : "F6.2",
+      "_links" : {
+        "self" : {
+          "href" : "/568"
+        },
+        "standardUUID" : {
+          "href" : "fec2c333-4077-436f-95df-a26387992e91"
+        },
+        "checkpoints" : {
+          "href" : "/568/checkpoints"
+        },
+        "standard" : {
+          "href" : "/568/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:28.656+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:28.656+0000",
+      "uuid" : "0783d154-cfca-4c41-802d-c7a99b8da32c",
+      "inactive" : false,
+      "name" : "Facility Ensures segregation of Bio Medical Waste as per guidelines",
+      "reference" : "F6.1",
+      "_links" : {
+        "self" : {
+          "href" : "/569"
+        },
+        "standardUUID" : {
+          "href" : "fec2c333-4077-436f-95df-a26387992e91"
+        },
+        "checkpoints" : {
+          "href" : "/569/checkpoints"
+        },
+        "standard" : {
+          "href" : "/569/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:28.870+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:28.870+0000",
+      "uuid" : "5a589fd6-0b8a-4c17-8ae2-91d7874d7c4d",
+      "inactive" : false,
+      "name" : "Facility ensures transportation and disposal of waste as per guidelines",
+      "reference" : "F6.3",
+      "_links" : {
+        "self" : {
+          "href" : "/570"
+        },
+        "standardUUID" : {
+          "href" : "fec2c333-4077-436f-95df-a26387992e91"
+        },
+        "checkpoints" : {
+          "href" : "/570/checkpoints"
+        },
+        "standard" : {
+          "href" : "/570/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:29.045+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:29.045+0000",
+      "uuid" : "55221028-5b43-4d2b-9bda-fef09a214047",
+      "inactive" : false,
+      "name" : "Staff is trained and adhere to standard hand washing practices",
+      "reference" : "F2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/571"
+        },
+        "standardUUID" : {
+          "href" : "d601dca4-9837-4d60-8ef5-79294b48b5df"
+        },
+        "checkpoints" : {
+          "href" : "/571/checkpoints"
+        },
+        "standard" : {
+          "href" : "/571/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:29.217+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:29.217+0000",
+      "uuid" : "a6ca31dd-8d9d-4439-bf4a-d1d3d674f6f3",
+      "inactive" : false,
+      "name" : "Facility ensures standard practices and materials for antisepsis",
+      "reference" : "F2.3",
+      "_links" : {
+        "self" : {
+          "href" : "/572"
+        },
+        "standardUUID" : {
+          "href" : "d601dca4-9837-4d60-8ef5-79294b48b5df"
+        },
+        "checkpoints" : {
+          "href" : "/572/checkpoints"
+        },
+        "standard" : {
+          "href" : "/572/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:29.665+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:29.665+0000",
+      "uuid" : "178d848d-9df6-4fec-867d-c654ecb1f458",
+      "inactive" : false,
+      "name" : "Hand washing facilities are provided at point of use",
+      "reference" : "F2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/573"
+        },
+        "standardUUID" : {
+          "href" : "d601dca4-9837-4d60-8ef5-79294b48b5df"
+        },
+        "checkpoints" : {
+          "href" : "/573/checkpoints"
+        },
+        "standard" : {
+          "href" : "/573/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:29.880+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:29.880+0000",
+      "uuid" : "b574238c-e20a-4152-84ea-23fc4ab45d01",
+      "inactive" : false,
+      "name" : "Facility has established internal quality assurance program at relevant departments",
+      "reference" : "G3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/574"
+        },
+        "standardUUID" : {
+          "href" : "e6ef3564-081d-4146-941b-7bfe1aa3cb60"
+        },
+        "checkpoints" : {
+          "href" : "/574/checkpoints"
+        },
+        "standard" : {
+          "href" : "/574/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:30.052+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:30.052+0000",
+      "uuid" : "3b6b7c25-2521-41a2-9240-70c8ebf582fd",
+      "inactive" : false,
+      "name" : "Facility has established external assurance programs at relevant departments",
+      "reference" : "G3.2",
+      "_links" : {
+        "self" : {
+          "href" : "/575"
+        },
+        "standardUUID" : {
+          "href" : "e6ef3564-081d-4146-941b-7bfe1aa3cb60"
+        },
+        "checkpoints" : {
+          "href" : "/575/checkpoints"
+        },
+        "standard" : {
+          "href" : "/575/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:30.238+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:30.238+0000",
+      "uuid" : "8ff5d829-6a00-4952-a35f-f39cb4127660",
+      "inactive" : false,
+      "name" : "Facility has established system for use of check lists in different departments and services",
+      "reference" : "G3.3",
+      "_links" : {
+        "self" : {
+          "href" : "/576"
+        },
+        "standardUUID" : {
+          "href" : "e6ef3564-081d-4146-941b-7bfe1aa3cb60"
+        },
+        "checkpoints" : {
+          "href" : "/576/checkpoints"
+        },
+        "standard" : {
+          "href" : "/576/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:30.411+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:30.411+0000",
+      "uuid" : "66043a78-e75e-41b1-a33b-f00cc10d9f79",
+      "inactive" : false,
+      "name" : "Facility uses tools for quality improvement in services",
+      "reference" : "G7.2",
+      "_links" : {
+        "self" : {
+          "href" : "/577"
+        },
+        "standardUUID" : {
+          "href" : "3906fd93-a0a8-492c-a4af-9348477d4a97"
+        },
+        "checkpoints" : {
+          "href" : "/577/checkpoints"
+        },
+        "standard" : {
+          "href" : "/577/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:30.686+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:30.686+0000",
+      "uuid" : "e3601e7c-2e9a-4e77-9f48-9860f9750833",
+      "inactive" : false,
+      "name" : "Facility uses method for quality improvement in services",
+      "reference" : "G7.1",
+      "_links" : {
+        "self" : {
+          "href" : "/578"
+        },
+        "standardUUID" : {
+          "href" : "3906fd93-a0a8-492c-a4af-9348477d4a97"
+        },
+        "checkpoints" : {
+          "href" : "/578/checkpoints"
+        },
+        "standard" : {
+          "href" : "/578/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:30.896+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:30.896+0000",
+      "uuid" : "15ecf2e0-d1e1-431b-958c-e78bfce3c972",
+      "inactive" : false,
+      "name" : "The facility has a quality team in place",
+      "reference" : "G1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/579"
+        },
+        "standardUUID" : {
+          "href" : "af8cdb76-9551-4f6f-8c71-48cfbc991738"
+        },
+        "checkpoints" : {
+          "href" : "/579/checkpoints"
+        },
+        "standard" : {
+          "href" : "/579/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:31.071+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:31.071+0000",
+      "uuid" : "29eea502-34e9-462f-87c3-468a65d96dd9",
+      "inactive" : false,
+      "name" : "The facility reviews quality of its services at periodic intervals",
+      "reference" : "G1.2",
+      "_links" : {
+        "self" : {
+          "href" : "/580"
+        },
+        "standardUUID" : {
+          "href" : "af8cdb76-9551-4f6f-8c71-48cfbc991738"
+        },
+        "checkpoints" : {
+          "href" : "/580/checkpoints"
+        },
+        "standard" : {
+          "href" : "/580/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:31.246+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:31.246+0000",
+      "uuid" : "c36eff81-760e-46fa-9f20-365e68ad37ba",
+      "inactive" : false,
+      "name" : "The facility conducts periodic internal assessment",
+      "reference" : "G5.1",
+      "_links" : {
+        "self" : {
+          "href" : "/581"
+        },
+        "standardUUID" : {
+          "href" : "fc476038-8c05-46fb-8f36-616d086a3165"
+        },
+        "checkpoints" : {
+          "href" : "/581/checkpoints"
+        },
+        "standard" : {
+          "href" : "/581/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:31.430+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:31.430+0000",
+      "uuid" : "6b63f48c-6108-4aff-afe8-5b6041b4e34e",
+      "inactive" : false,
+      "name" : "Corrective and preventive actions are taken to address issues, observed in the assessment & audit",
+      "reference" : "G5.5",
+      "_links" : {
+        "self" : {
+          "href" : "/582"
+        },
+        "standardUUID" : {
+          "href" : "fc476038-8c05-46fb-8f36-616d086a3165"
+        },
+        "checkpoints" : {
+          "href" : "/582/checkpoints"
+        },
+        "standard" : {
+          "href" : "/582/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:31.705+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:31.705+0000",
+      "uuid" : "d8b815da-5921-46d7-8c95-e225065f0077",
+      "inactive" : false,
+      "name" : "The facility ensures non compliances are enumerated and recorded adequately",
+      "reference" : "G5.3",
+      "_links" : {
+        "self" : {
+          "href" : "/583"
+        },
+        "standardUUID" : {
+          "href" : "fc476038-8c05-46fb-8f36-616d086a3165"
+        },
+        "checkpoints" : {
+          "href" : "/583/checkpoints"
+        },
+        "standard" : {
+          "href" : "/583/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:31.920+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:31.920+0000",
+      "uuid" : "e74a6b92-fb1d-4e03-81c8-a93e9484f085",
+      "inactive" : false,
+      "name" : "The facility conducts the periodic prescription/ medical/death audits",
+      "reference" : "G5.2",
+      "_links" : {
+        "self" : {
+          "href" : "/584"
+        },
+        "standardUUID" : {
+          "href" : "fc476038-8c05-46fb-8f36-616d086a3165"
+        },
+        "checkpoints" : {
+          "href" : "/584/checkpoints"
+        },
+        "standard" : {
+          "href" : "/584/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:32.097+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:32.097+0000",
+      "uuid" : "7af81502-7cd1-465d-b3e3-893328d1ac3c",
+      "inactive" : false,
+      "name" : "Action plan is made on the gaps found in the assessment / audit process",
+      "reference" : "G5.4",
+      "_links" : {
+        "self" : {
+          "href" : "/585"
+        },
+        "standardUUID" : {
+          "href" : "fc476038-8c05-46fb-8f36-616d086a3165"
+        },
+        "checkpoints" : {
+          "href" : "/585/checkpoints"
+        },
+        "standard" : {
+          "href" : "/585/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:32.274+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:32.274+0000",
+      "uuid" : "45d8dadc-4ea2-4880-9b44-d8e51856c2e1",
+      "inactive" : false,
+      "name" : "Progress towards quality objectives is monitored periodically",
+      "reference" : "G6.4",
+      "_links" : {
+        "self" : {
+          "href" : "/586"
+        },
+        "standardUUID" : {
+          "href" : "a23836ec-5201-4d50-90be-bff765a663e0"
+        },
+        "checkpoints" : {
+          "href" : "/586/checkpoints"
+        },
+        "standard" : {
+          "href" : "/586/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:32.453+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:32.453+0000",
+      "uuid" : "f9249e90-365d-4daa-9ee8-03035d64e10e",
+      "inactive" : false,
+      "name" : "The facility defines its quality policy",
+      "reference" : "G6.1",
+      "_links" : {
+        "self" : {
+          "href" : "/587"
+        },
+        "standardUUID" : {
+          "href" : "a23836ec-5201-4d50-90be-bff765a663e0"
+        },
+        "checkpoints" : {
+          "href" : "/587/checkpoints"
+        },
+        "standard" : {
+          "href" : "/587/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:32.727+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:32.727+0000",
+      "uuid" : "c16b8423-d41a-471c-abe0-5be3f096a0ce",
+      "inactive" : false,
+      "name" : "Quality policy and objectives are disseminated and staff is aware of that",
+      "reference" : "G6.3",
+      "_links" : {
+        "self" : {
+          "href" : "/588"
+        },
+        "standardUUID" : {
+          "href" : "a23836ec-5201-4d50-90be-bff765a663e0"
+        },
+        "checkpoints" : {
+          "href" : "/588/checkpoints"
+        },
+        "standard" : {
+          "href" : "/588/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.039+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.039+0000",
+      "uuid" : "0e56823f-e70f-45eb-8acd-de9cf33d7429",
+      "inactive" : false,
+      "name" : "The facility periodically defines its quality objectives and key departments have their own objectives",
+      "reference" : "G6.2",
+      "_links" : {
+        "self" : {
+          "href" : "/589"
+        },
+        "standardUUID" : {
+          "href" : "a23836ec-5201-4d50-90be-bff765a663e0"
+        },
+        "checkpoints" : {
+          "href" : "/589/checkpoints"
+        },
+        "standard" : {
+          "href" : "/589/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.261+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.261+0000",
+      "uuid" : "9eb810b4-a747-402a-9f70-6acfbf0c47c2",
+      "inactive" : false,
+      "name" : "Standard Operating Procedures adequately describes process and procedures",
+      "reference" : "G4.2",
+      "_links" : {
+        "self" : {
+          "href" : "/590"
+        },
+        "standardUUID" : {
+          "href" : "2ea4c72d-f54a-4b2a-818b-2635a60ccf3c"
+        },
+        "checkpoints" : {
+          "href" : "/590/checkpoints"
+        },
+        "standard" : {
+          "href" : "/590/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.349+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.349+0000",
+      "uuid" : "ee66e24b-fe11-4b30-988f-4191179f75d6",
+      "inactive" : false,
+      "name" : "Departmental standard operating procedures are available",
+      "reference" : "G4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/591"
+        },
+        "standardUUID" : {
+          "href" : "2ea4c72d-f54a-4b2a-818b-2635a60ccf3c"
+        },
+        "checkpoints" : {
+          "href" : "/591/checkpoints"
+        },
+        "standard" : {
+          "href" : "/591/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.437+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.437+0000",
+      "uuid" : "70067487-947d-4cb7-ae7c-22cd55020bb8",
+      "inactive" : false,
+      "name" : "Work instructions are displayed at Point of use",
+      "reference" : "G4.4",
+      "_links" : {
+        "self" : {
+          "href" : "/592"
+        },
+        "standardUUID" : {
+          "href" : "2ea4c72d-f54a-4b2a-818b-2635a60ccf3c"
+        },
+        "checkpoints" : {
+          "href" : "/592/checkpoints"
+        },
+        "standard" : {
+          "href" : "/592/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.529+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.529+0000",
+      "uuid" : "d916a2e7-4534-44cc-8a4d-5ea3dce1a962",
+      "inactive" : false,
+      "name" : "Staff is trained and aware of the standard procedures written in SOPs",
+      "reference" : "G4.3",
+      "_links" : {
+        "self" : {
+          "href" : "/593"
+        },
+        "standardUUID" : {
+          "href" : "2ea4c72d-f54a-4b2a-818b-2635a60ccf3c"
+        },
+        "checkpoints" : {
+          "href" : "/593/checkpoints"
+        },
+        "standard" : {
+          "href" : "/593/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.617+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.617+0000",
+      "uuid" : "aa615375-a281-442f-bbc0-b6df56123fe2",
+      "inactive" : false,
+      "name" : "Patient Satisfaction surveys are conducted at periodic intervals",
+      "reference" : "G2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/594"
+        },
+        "standardUUID" : {
+          "href" : "9da92f43-f3df-48f1-991b-faf434992be8"
+        },
+        "checkpoints" : {
+          "href" : "/594/checkpoints"
+        },
+        "standard" : {
+          "href" : "/594/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.707+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.707+0000",
+      "uuid" : "fe4c1d32-5ab7-4a14-bbd1-f28cec653a59",
+      "inactive" : false,
+      "name" : "Facility analyses the patient feed back and do root cause analysis",
+      "reference" : "G2.2",
+      "_links" : {
+        "self" : {
+          "href" : "/595"
+        },
+        "standardUUID" : {
+          "href" : "9da92f43-f3df-48f1-991b-faf434992be8"
+        },
+        "checkpoints" : {
+          "href" : "/595/checkpoints"
+        },
+        "standard" : {
+          "href" : "/595/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.802+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.802+0000",
+      "uuid" : "d50153f2-1f98-4965-b4cc-29e66aa30b99",
+      "inactive" : false,
+      "name" : "Facility prepares the action plans for the areas, contributing to low satisfaction of patients.",
+      "reference" : "G2.3",
+      "_links" : {
+        "self" : {
+          "href" : "/596"
+        },
+        "standardUUID" : {
+          "href" : "9da92f43-f3df-48f1-991b-faf434992be8"
+        },
+        "checkpoints" : {
+          "href" : "/596/checkpoints"
+        },
+        "standard" : {
+          "href" : "/596/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.888+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.888+0000",
+      "uuid" : "a0688401-5c1f-4752-9251-7fc595a211ff",
+      "inactive" : false,
+      "name" : "Facility measures efficiency Indicators on monthly basis",
+      "reference" : "H2.1",
+      "_links" : {
+        "self" : {
+          "href" : "/597"
+        },
+        "standardUUID" : {
+          "href" : "b9ce8665-853d-48b2-a8a3-fa5482257756"
+        },
+        "checkpoints" : {
+          "href" : "/597/checkpoints"
+        },
+        "standard" : {
+          "href" : "/597/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:33.977+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:33.977+0000",
+      "uuid" : "9b555335-c568-404d-81fb-ce6d0f908c1b",
+      "inactive" : false,
+      "name" : "Facility measures Service Quality Indicators on monthly basis",
+      "reference" : "H4.1",
+      "_links" : {
+        "self" : {
+          "href" : "/598"
+        },
+        "standardUUID" : {
+          "href" : "ffd0b7a0-66d8-4d07-a4ea-1c4fb997cb68"
+        },
+        "checkpoints" : {
+          "href" : "/598/checkpoints"
+        },
+        "standard" : {
+          "href" : "/598/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.065+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.065+0000",
+      "uuid" : "aaf56015-7b24-4f42-921e-d5e75fb9e2f2",
+      "inactive" : false,
+      "name" : "Facility measures Clinical Care & Safety Indicators on monthly basis",
+      "reference" : "H3.1",
+      "_links" : {
+        "self" : {
+          "href" : "/599"
+        },
+        "standardUUID" : {
+          "href" : "c5cfb199-dc06-43bf-bd2d-5f4ea11b6c55"
+        },
+        "checkpoints" : {
+          "href" : "/599/checkpoints"
+        },
+        "standard" : {
+          "href" : "/599/standard"
+        }
+      }
+    }, {
+      "createdDate" : "2017-11-06T11:59:34.151+0000",
+      "lastModifiedDate" : "2017-11-06T11:59:34.151+0000",
+      "uuid" : "ac2cb1af-65e8-4ba5-b357-98567e3bef01",
+      "inactive" : false,
+      "name" : "Facility measures productivity Indicators on monthly basis",
+      "reference" : "H1.1",
+      "_links" : {
+        "self" : {
+          "href" : "/600"
+        },
+        "standardUUID" : {
+          "href" : "b6e8e3e1-6674-4e1d-b64a-720ff594bf4c"
+        },
+        "checkpoints" : {
+          "href" : "/600/checkpoints"
+        },
+        "standard" : {
+          "href" : "/600/standard"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "first" : {
+      "href" : "1900-01-01T00:00:00.001Z&page=0&size=200"
+    },
+    "prev" : {
+      "href" : "1900-01-01T00:00:00.001Z&page=1&size=200"
+    },
+    "self" : {
+      "href" : "1900-01-01T00:00:00.001Z&size=200&page=2"
+    },
+    "next" : {
+      "href" : "1900-01-01T00:00:00.001Z&page=3&size=200"
+    },
+    "last" : {
+      "href" : "1900-01-01T00:00:00.001Z&page=9&size=200"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 1868,
+    "totalPages" : 10,
+    "number" : 2
+  }
+}

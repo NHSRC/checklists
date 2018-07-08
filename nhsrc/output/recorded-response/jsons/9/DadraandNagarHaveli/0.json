@@ -1,0 +1,36 @@
+{
+  "_embedded" : {
+    "district" : [ {
+      "createdDate" : "2017-11-06T10:10:29.000+0000",
+      "lastModifiedDate" : "2017-11-06T10:10:29.000+0000",
+      "uuid" : "bb3e0b82-e943-403e-bb14-005d0ee93f38",
+      "inactive" : false,
+      "name" : "Dadra and Nagar Haveli",
+      "_links" : {
+        "self" : {
+          "href" : "/50"
+        },
+        "stateUUID" : {
+          "href" : "09fa3b45-dc80-472f-9cd4-639625063b11"
+        },
+        "facilities" : {
+          "href" : "/50/facilities"
+        },
+        "state" : {
+          "href" : "/50/state"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "/search/lastModifiedByState?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0&name=Dadra%20and%20Nagar%20Haveli"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 1,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

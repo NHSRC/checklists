@@ -1,105 +1,105 @@
-INSERT INTO state (name, uuid) values ('A & N Islands', '394cd419-362c-4242-8ddd-5be7cd9a72a4'::UUID) ON CONFLICT (name) DO NOTHING;
-INSERT INTO district (name, uuid, state_id) values ('Nicobar', '53c26b58-bde9-4235-b689-42b05018f11b'::UUID, (SELECT id FROM state WHERE name='A & N Islands')) ON CONFLICT (state_id, name) DO NOTHING;
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Teressa', '74b6271e-9cda-4a38-bab6-bc68d429f2cf'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO state (name, uuid) values ('A & N Islands', 'c42888c9-33e4-4aca-823d-7a3aa409f48c'::UUID) ON CONFLICT (name) DO NOTHING;
+INSERT INTO district (name, uuid, state_id) values ('South Andaman', 'aafd935f-0a38-46ed-aa1a-0b5601e3ee1c'::UUID, (SELECT id FROM state WHERE name='A & N Islands')) ON CONFLICT (state_id, name) DO NOTHING;
+INSERT INTO facility_type (name) values('Community Health Centers') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('CHC Bambooflat', '44e0a55c-1186-44a9-84b7-c51f646f62be'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Community Health Centers')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Campbell Bay', '71cbf34b-1553-4058-bf94-e2a7831d0d60'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Tushnabad', '7ddd93ca-a7b9-41b4-9e0c-0974d5856127'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC R K Pur', 'dc105de3-431f-40e0-a7f1-85ba25c66721'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Ferrargunj', 'eef71a9d-302e-4da0-b570-9af21036b424'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Haddo', '8739f293-7759-497f-9ffd-951fb0cd5421'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('District Hospital') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('BJR Hospital', '08f8c867-fff7-4ddb-a9f9-a2554fa410ef'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='District Hospital')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('G.B.Pant Hospital', '2b1d5f68-d0c2-4a4c-9edf-29f5852e3a84'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='District Hospital')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Gandhinagar', '51357bc1-f11c-47b6-bdc4-bb2ff62d12b8'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Manglutan', '164f3a2a-7a40-4de5-aa68-371bdde2033d'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Katchal', 'ac67bb4f-6516-41f0-bb67-14e013b1abf2'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Hut Bay', '4cb0ad2a-5f1e-48a5-9280-858c3c74b8db'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
-INSERT INTO facility_type (name) values('Community Health Centers') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('CHC Nancowry', '60de923e-6232-4b8e-9fd8-8bc140ff17a7'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Community Health Centers')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Delanipur', '0b322c6a-9462-4b9b-ad49-ddf4cc9b7e30'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
-INSERT INTO district (name, uuid, state_id) values ('North and Middle Andaman', '67a54c4a-e54a-494e-a0b3-55dfa16fd2e3'::UUID, (SELECT id FROM state WHERE name='A & N Islands')) ON CONFLICT (state_id, name) DO NOTHING;
+INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Shadipur', '1e84a19f-c700-461a-a84f-0cdf9d2b3ba4'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Dairy Farm', 'f27cb06d-93d1-4231-b349-fcf1b1626464'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Kalighat', 'bd3f3c20-c7cc-4fe4-98b1-384ab73e8576'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Chouldari', '1cc6f76e-0dc7-439a-99d4-2d168159a24d'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
-INSERT INTO facility_type (name) values('Community Health Centers') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('CHC Diglipur', 'ba60a8d6-e5ae-4e38-9a38-feb447f0e5c8'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Community Health Centers')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Garacharma', '6d119450-c620-49df-9839-d46d62ba5112'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Havelock', '82432ecf-d123-4afa-8f3e-f7e4e423efe1'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Junglighat', '752e288b-6111-4761-b989-0d288d0ce051'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Neil Island', '6f5f5bfe-a15f-4dcc-bec8-87f7d4fe8912'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Wimberlygunj', '641e621d-d3a0-4fff-8718-350bb629ed07'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO district (name, uuid, state_id) values ('Nicobar', '950aa47c-a579-4f92-a0ef-421d7186d737'::UUID, (SELECT id FROM state WHERE name='A & N Islands')) ON CONFLICT (state_id, name) DO NOTHING;
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Katchal', '255eb6ec-1af6-45ba-9321-3fbd98f06596'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('District Hospital') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('Dr. R.P.Hospital', 'ca3857c2-e366-40cb-aef7-0fbf6a8c5364'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='District Hospital')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('BJR Hospital', 'f03aab2a-d199-4751-97bc-035c28196bfb'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='District Hospital')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Long Island', '7f786227-1f9c-4461-a316-26f295027e7e'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Tugapur', '80f2e821-b83f-4b41-b148-f6194b852330'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Baratang', 'a59f52da-dbfe-4ae0-a31f-9091350c1bab'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Kadamtala', '2747473c-9087-4647-b8d7-9ea0194ac589'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Gandhinagar', 'b741ad6d-0b00-42e5-9f52-0ba5264247da'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Community Health Centers') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('CHC Rangat', 'c884c33c-e9e1-42c9-b586-82c3a58414dd'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Community Health Centers')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('CHC Nancowry', 'f70c68da-7645-4e7e-a8af-b0e1bab2cccd'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Community Health Centers')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Radha Nagar', 'be9404d7-72a8-447b-ba0b-85cc80523c07'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Teressa', 'f8dd84f8-0f0d-410b-9173-a7e24952c4d1'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Kishori Nagar', '6a914ce7-5601-4dad-bea3-1d54c4f33e51'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Campbell Bay', '6e8ea710-f125-4026-a234-069096b47020'::UUID, (SELECT district.id FROM district, state WHERE district.name='Nicobar' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO district (name, uuid, state_id) values ('North and Middle Andaman', 'a109960d-cea6-4953-a96b-275719cbb576'::UUID, (SELECT id FROM state WHERE name='A & N Islands')) ON CONFLICT (state_id, name) DO NOTHING;
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Kishori Nagar', '97de3714-b477-4ad9-99ce-4577386352c2'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Billiground', 'd56e5f51-b900-4776-b6f2-01762241809e'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Kadamtala', '114787f8-d5db-456c-8b62-7912fa547675'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
-INSERT INTO district (name, uuid, state_id) values ('South Andaman', '69ffd7c9-cb04-4030-8fcf-1cef85ceca06'::UUID, (SELECT id FROM state WHERE name='A & N Islands')) ON CONFLICT (state_id, name) DO NOTHING;
-INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Haddo', 'fac62051-46c1-4f42-bac7-cfd3a73efb1e'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Wimberlygunj', '0dcb9619-70b7-493b-baa6-8bbe6c731f3a'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Chouldari', '75d1028b-842d-487f-a204-348e7012a8e5'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Dairy Farm', 'afc6afef-e439-41ee-8af0-9e5644bca0df'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC R K Pur', 'e9ffb25c-8477-4f99-94a6-b0df9b50e9cc'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Garacharma', '32104bee-7516-4e7f-944b-2e10182e877b'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Delanipur', 'cbc48e17-9450-49b3-a1e2-2e3f79a57104'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Manglutan', '8fa98bd7-ca79-4339-bb5c-1d8a7244173d'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Neil Island', '4ed9cbab-cae5-4d7f-91f4-91589ebe41d4'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility_type (name) values('Community Health Centers') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('CHC Rangat', '4d289fd5-fb5e-4cc2-8fd1-58e43d384114'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Community Health Centers')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('District Hospital') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('G.B.Pant Hospital', '92488191-610a-4392-bcb4-318d0bd280f3'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='District Hospital')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Junglighat', 'a5de5e72-a6a0-4359-8e40-91f93bcb7870'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('Dr. R.P.Hospital', '6cc1d923-4dfb-441d-a4a0-006de739c5c6'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='District Hospital')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Tushnabad', '55e94442-e20f-4250-819b-7fafd052bcf1'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Ferrargunj', 'd5e8fef4-347d-420b-ad55-97c18f7f6853'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Hut Bay', '36e2caec-7125-426c-9f8c-430c9ec8bb67'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Urban Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('UHC Shadipur', '5a9f424f-35a6-4f58-ae79-9aa0de44baed'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Urban Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
-
-INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Havelock', '4027a882-f589-4ef5-98d5-260a37637e34'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Tugapur', '916bc147-35f7-407c-b5c7-7bf8acda187c'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
 
 INSERT INTO facility_type (name) values('Community Health Centers') on conflict (name) DO NOTHING;
-INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('CHC Bambooflat', '0f67de34-8426-4723-b2a6-6bf2a24f5b35'::UUID, (SELECT district.id FROM district, state WHERE district.name='South Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Community Health Centers')) on conflict (district_id, facility_type_id, name) do nothing;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('CHC Diglipur', 'edfd6673-e04f-46de-a4b6-b2cfcd1b0bac'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Community Health Centers')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Kalighat', '52fe9671-b830-41d7-a8ef-aacba50c9991'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Baratang', '532fe01f-bafe-4107-9e16-5f854777e547'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Billiground', 'a592914f-f29b-420b-b5e2-7b67836d7852'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Radha Nagar', '11d86e40-2ee3-45b0-b24a-08e6c722e800'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;
+
+INSERT INTO facility_type (name) values('Primary Health Centres') on conflict (name) DO NOTHING;
+INSERT INTO facility (name, uuid, district_id, facility_type_id) values ('PHC Long Island', '9613a3ff-d51d-4236-b660-6b69d33f4d77'::UUID, (SELECT district.id FROM district, state WHERE district.name='North and Middle Andaman' and state.name='A & N Islands' and district.state_id = state.id), (SELECT id from facility_type where name='Primary Health Centres')) on conflict (district_id, facility_type_id, name) do nothing;

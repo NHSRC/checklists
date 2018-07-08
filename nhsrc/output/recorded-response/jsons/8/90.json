@@ -1,0 +1,2132 @@
+{
+  "_embedded" : {
+    "indicatorDefinition" : [ {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "8d51eb87-250f-4f20-a63c-1b58b12a4fae",
+      "inactive" : false,
+      "name" : "1. Facility has completed baseline assessment of labour room using NQAS checklist",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "completedBaselineLR",
+      "sortOrder" : 100,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/1"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/1/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "0d74ea75-b6ee-49a5-a961-42604be278e7",
+      "inactive" : false,
+      "name" : "2. Month of baseline assessment for labour room",
+      "dataType" : "Month",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 200,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/2"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/2/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "3e4adf12-6dd4-4fcf-800c-e5e25ba2dfcb",
+      "inactive" : false,
+      "name" : "3. Baseline Score for Labour Room",
+      "dataType" : "Percentage",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 300,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/3"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/3/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "60d4344c-4182-401b-a949-149eefa8227b",
+      "inactive" : false,
+      "name" : "4. Facility has completed baseline assessment of Operation Theatre using NQAS checklist",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "completedBaselineOT",
+      "sortOrder" : 400,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/4"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/4/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "be814e20-fa88-4357-9922-f6880ebd1a4d",
+      "inactive" : false,
+      "name" : "5. Month of baseline assessment for Operation Theatre",
+      "dataType" : "Month",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 500,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/5"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/5/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "fbb2e358-5b52-4686-80c6-d7d97c286456",
+      "inactive" : false,
+      "name" : "6. Baseline Score for Operation Theatre",
+      "dataType" : "Percentage",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 600,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/6"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/6/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "d94c9e70-071f-4e3d-b940-a7eeba110fb5",
+      "inactive" : false,
+      "name" : "7. Facility has assessed baseline staff competence using the OSCE",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 700,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/7"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/7/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "99eb9e02-84b7-45de-baa5-d1c001e0d27e",
+      "inactive" : false,
+      "name" : "8. Month of baseline assessment for staff competence",
+      "dataType" : "Month",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 800,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/8"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/8/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "6c96db24-488b-4223-bfbb-7a01a37a5ea8",
+      "inactive" : false,
+      "name" : "9. Baseline average OSCE Score",
+      "dataType" : "Percentage",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 900,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/9"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/9/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "43180274-11f6-4853-a395-116a22bab0f4",
+      "inactive" : false,
+      "name" : "10. Facility has setup facility level quality team",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "setupFacilityQualityTeam",
+      "sortOrder" : 1000,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/10"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/10/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "c884f79b-29fd-4fb6-8e4d-7105518f596b",
+      "inactive" : false,
+      "name" : "11. Facility has setup functional quality circle in Labour Room",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "setupFunctionalQualityCircleLR",
+      "sortOrder" : 1100,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/11"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/11/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "591d0d2f-4663-41a7-a5eb-f24f07f812ac",
+      "inactive" : false,
+      "name" : "12. Facility has setup functional quality circle in Maternity OT",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "setupFunctionalQualityCircleMaternityOT",
+      "sortOrder" : 1200,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/12"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/12/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "0faf398e-a5a0-4466-aa69-9355aca2eaa2",
+      "inactive" : false,
+      "name" : "13. Facility staff of LR and OT quality circles have attended district level or facility level orientation on LR Protocols, QI processes and RMC",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "qualityCirclesAttendedOrientation",
+      "sortOrder" : 1300,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/13"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/13/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "3121908e-69a0-4a72-b99b-2d69b1e2f21f",
+      "inactive" : false,
+      "name" : "1. Facility has assessed Labour Room and OT using NQAS checklist and reported Baseline Quality Scores",
+      "dataType" : "Coded",
+      "formula" : "(completedBaselineLR && completedBaselineOT)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 1400,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/14"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/14/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "26781a1f-0d91-456e-9972-054c4ec59020",
+      "inactive" : false,
+      "name" : "2. Facility has setup Quality Team at facility level and Quality Circles in Labour Room & Maternity OTs",
+      "dataType" : "Coded",
+      "formula" : "(setupFacilityQualityTeam && setupFunctionalQualityCircleLR && setupFunctionalQualityCircleMaternityOT)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 1500,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/15"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/15/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "5e5d41e0-bb93-46b3-9cf9-a0bcfc497e5c",
+      "inactive" : false,
+      "name" : "3. Facility has oriented the Labour room and Maternity OT staff on LR protocols, RMC & QI",
+      "dataType" : "Coded",
+      "formula" : "(qualityCirclesAttendedOrientation)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 1600,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/16"
+        },
+        "assessmentToolUUID" : {
+          "href" : "a759cb66-5e6d-4fb6-b01f-2f16dd9dd762"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/16/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "3eb6fab5-bfab-4cd9-9166-22d2d8b69154",
+      "inactive" : false,
+      "name" : "5. Reporting Month",
+      "dataType" : "Month",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 100,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/17"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/17/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "75ee2cf5-c6a5-4b8a-8c9b-65142b98f4e5",
+      "inactive" : false,
+      "name" : "6. Date of Visit",
+      "dataType" : "Date",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 200,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/18"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/18/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "3181b289-be8c-4d3d-8735-249a78f16ce0",
+      "inactive" : false,
+      "name" : "7(a). Total number of normal vaginal deliveries",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfVaginalDeliveries",
+      "sortOrder" : 300,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/19"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/19/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "4f1302e5-2e4f-4b06-8029-b9abaf061f82",
+      "inactive" : false,
+      "name" : "7(b). Total number of assisted vaginal deliveries",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfAssistedVaginalDeliveries",
+      "sortOrder" : 301,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/20"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/20/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "e7dc2590-c714-4e5c-a439-a3ddc391af31",
+      "inactive" : false,
+      "name" : "7(c). Total number of C-Sections",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfCSectionDeliveries",
+      "sortOrder" : 302,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/21"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/21/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "a75dba35-3dfd-4397-8bd5-ad34b2d0e2cc",
+      "inactive" : false,
+      "name" : "7. Total Number of Deliveries",
+      "dataType" : "Numeric",
+      "formula" : "(numberOfVaginalDeliveries + numberOfAssistedVaginalDeliveries + numberOfCSectionDeliveries)",
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 310,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/22"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/22/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "8ed5d63d-50be-4db2-88f5-79774caa4dec",
+      "inactive" : false,
+      "name" : "8. Total number of maternal deaths",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfMaternalDeaths",
+      "sortOrder" : 400,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/23"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/23/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "4d3f1a89-725a-4491-a6ce-06ee98b98a2f",
+      "inactive" : false,
+      "name" : "9(a). Number of maternal deaths caused by - APH",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfAPHMaternalDeaths",
+      "sortOrder" : 500,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/24"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/24/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "986e1846-23ba-4aeb-9a69-8e36046dd17d",
+      "inactive" : false,
+      "name" : "9(b). Number of maternal deaths caused by - PPH",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfPPHMaternalDeaths",
+      "sortOrder" : 501,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/25"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/25/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "01fba788-dbe8-438e-ac14-f8d4db2fb9e5",
+      "inactive" : false,
+      "name" : "9(c). Number of maternal deaths caused by - Sepsis",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 502,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/26"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/26/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "7ecece6d-e8f3-4c60-9c1b-156b889d1870",
+      "inactive" : false,
+      "name" : "9(d). Number of maternal deaths caused by - Obstructed labour",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 503,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/27"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/27/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "f0a8214e-fb9f-4f3c-9d84-651a16302fbb",
+      "inactive" : false,
+      "name" : "9(e). Number of maternal deaths caused by - PIH/Eclampsia",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfMaternalDeathsForPIHEclampsia",
+      "sortOrder" : 504,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/28"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/28/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "27e18819-0222-4f56-890f-985a14388fc5",
+      "inactive" : false,
+      "name" : "9(f). Number of maternal deaths caused by - Others",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 505,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/29"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/29/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "7e852699-e7e3-445d-aba0-6071b05cdef9",
+      "inactive" : false,
+      "name" : "10. Total number of live births",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 600,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/30"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/30/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "b6acdb0c-6538-40a6-a9b1-4922d3a27f18",
+      "inactive" : false,
+      "name" : "11(a). Total number of Fresh Still births",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfStillBirths",
+      "sortOrder" : 700,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/31"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/31/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "0c64c875-01a1-4d08-941f-b18aec0b701e",
+      "inactive" : false,
+      "name" : "11(b). Total number of macerated still births",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfMaceratedStillBirths",
+      "sortOrder" : 701,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/32"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/32/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "9d37c00f-f54c-4975-9e69-9e48002a0f8e",
+      "inactive" : false,
+      "name" : "11. Total number of still births",
+      "dataType" : "Numeric",
+      "formula" : "(numberOfStillBirths + numberOfMaceratedStillBirths)",
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 702,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/33"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/33/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "5ea5130e-8bd4-4b17-a7b0-53b7701f7b3e",
+      "inactive" : false,
+      "name" : "12. Number of neonatal deaths",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 800,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/34"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/34/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "28ab624c-de7b-425c-831b-1d02d9485bdb",
+      "inactive" : false,
+      "name" : "13(a). Major causes of neonatal deaths - Prematurity",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 900,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/35"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/35/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "1640c8ac-8e22-45fe-b234-4355f64e2bd5",
+      "inactive" : false,
+      "name" : "13(b). Major causes of neonatal deaths - Sepsis",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 901,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/36"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/36/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "98b617fc-9419-41ee-8f44-9d827d733017",
+      "inactive" : false,
+      "name" : "13(c). Major causes of neonatal deaths - Asphyxia",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 902,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/37"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/37/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "00bfc608-aa13-4f55-9db2-9e759c455697",
+      "inactive" : false,
+      "name" : "13(d). Major causes of neonatal deaths - Others",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 903,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/38"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/38/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "b43acfad-83f5-4480-bdbc-618e2fc1043e",
+      "inactive" : false,
+      "name" : "14(a). Total number of Low Birth Weight babies born in facility",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 1000,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/39"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/39/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "89f2031a-55cb-4e06-a139-78f496096f7b",
+      "inactive" : false,
+      "name" : "14(b). Total number of Preterm Deliveries",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfPretermDeliveries",
+      "sortOrder" : 1050,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/40"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/40/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "cb23051a-5026-469e-96b1-12e8a26c52fe",
+      "inactive" : false,
+      "name" : "15. Number of normal deliveries conducted in presence of Birth Companion",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfNormalDeliveriesInPresenceOfBirthCompanion",
+      "sortOrder" : 1100,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/41"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/41/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "c9540938-9bd8-4aeb-90e0-1ee21035a0a6",
+      "inactive" : false,
+      "name" : "16. Number of normal deliveries conducted using Safe Birth Checklist",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfNormalDeliveriesUsingSafeBirthChecklist",
+      "sortOrder" : 1200,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/42"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/42/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "356d462d-c6c2-4706-b44b-9c88c2360daa",
+      "inactive" : false,
+      "name" : "17. Number of planned and emergency C-Section operations where safe surgical checklist was used",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfPlannedAndEmergencyCSections",
+      "sortOrder" : 1300,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/43"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/43/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "32b86e4c-3991-4d43-b0cf-2ced2b736f27",
+      "inactive" : false,
+      "name" : "18. Number of normal deliveries conducted using real time Partograph",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfNormalDeliveriesUsingPartograph",
+      "sortOrder" : 1400,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/44"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/44/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "d9d628b1-78f1-4495-a444-9a38e3d13c5d",
+      "inactive" : false,
+      "name" : "19. Number of newborns delivered in facility who were breastfed within one hour of delivery",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfNewbornsBreastfedWithinOneHour",
+      "sortOrder" : 1500,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/45"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/45/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "4268edfd-31d0-4cb1-8690-affab5eceb00",
+      "inactive" : false,
+      "name" : "20. Whether microbiological sampling from labour room is collected as per protocol",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "microbioLRSampleCollectedAsPerProtocol",
+      "sortOrder" : 1600,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/46"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/46/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "a460b983-233a-410a-b39d-1d595bf641e1",
+      "inactive" : false,
+      "name" : "21. Whether microbiological sampling from Maternity OT is collected as per protocol",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "microbioOTSampleCollectedAsPerProtocol",
+      "sortOrder" : 1700,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/47"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/47/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "c31f49f1-fcd7-4705-bffd-b114503af6ff",
+      "inactive" : false,
+      "name" : "22. Number of C-Sections operations in which surgical site infection developed within one month of operation",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfCSectionsWithSurgicalSiteInfection",
+      "sortOrder" : 1800,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/48"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/48/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "fae0e2b2-0215-426a-8f05-222ef647b9af",
+      "inactive" : false,
+      "name" : "23. Number of preterm cases where Antenatal Corticosteroids (ANCS) was administered in facilities with SNCU",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfPretermAdministeredANCS",
+      "sortOrder" : 1900,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/49"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/49/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "fd2e9009-2409-4b22-9c59-b630e40402ba",
+      "inactive" : false,
+      "name" : "24. Number of newborns delivered in facility with SNCU developed birth asphyxia",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfNewbornsDevelopedAsphyxia",
+      "sortOrder" : 2000,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/50"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/50/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "c6aabebc-3444-49e9-90dd-ffe52994e81d",
+      "inactive" : false,
+      "name" : "25. Number of newborns delivered in facility with SNCU developed sepsis",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfNewbornsDevelopedSepsis",
+      "sortOrder" : 2100,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/51"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/51/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "d3b2e275-1f5f-4582-ba85-85ce758ac161",
+      "inactive" : false,
+      "name" : "26. Total number of inborn LBW newborns in facility provided KMC",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 2200,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/52"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/52/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "be45011b-c1b4-4737-a632-455434d1dd84",
+      "inactive" : false,
+      "name" : "27. Number of beneficiaries delivered last month who were either satisfied or highly satisfied",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfBeneficiariesSatisfied",
+      "sortOrder" : 2300,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/53"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/53/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "abff03e4-b000-4e60-a83e-c622b34fc916",
+      "inactive" : false,
+      "name" : "28. Whether facility has reorganized labour room as per the guidelines",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "facilityHasReorganizedLR",
+      "sortOrder" : 2400,
+      "codedValues" : "[\"Yes\", \"No\", \"In Progress\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/54"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/54/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "0d1e563d-8a1a-4367-8cd9-51eabe40f28a",
+      "inactive" : false,
+      "name" : "29. Whether facility has adequate staff at labour rooms as per defined norms",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "facilityHasAdequateStaffAtLR",
+      "sortOrder" : 2500,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/55"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/55/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "df378046-477c-4cf9-b6d5-4abee04a17b1",
+      "inactive" : false,
+      "name" : "30. Number of deliveries conducted in facility where Oxytocin was administered within one minute of birth",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfDeliveriesWithOxytocinAdministered",
+      "sortOrder" : 2600,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/56"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/56/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "9f089874-11b4-46d1-a14e-e60a00d68bb7",
+      "inactive" : false,
+      "name" : "31. Number of maternal deaths were reviewed in last month",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfMaternalDeathsReviewed",
+      "sortOrder" : 2700,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/57"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/57/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "c6d4404b-f26e-433a-95a3-1562491aa94e",
+      "inactive" : false,
+      "name" : "32. Number of neonatal deaths were reviewed in last month",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfNeonatalDeathsReviewed",
+      "sortOrder" : 2800,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/58"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/58/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "6c41524f-d43c-4db9-9dfe-a6ae971f8e5b",
+      "inactive" : false,
+      "name" : "33(a). Number of Maternal Near Miss Cases were reviewed in last month",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfMaternalNearMissCases",
+      "sortOrder" : 2900,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/59"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/59/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "a6ab575e-9947-4cbb-b8c7-f08ec74381cc",
+      "inactive" : false,
+      "name" : "33(b). Number of Referral cases reviewed in the month",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "numberOfReferralCasesReviewed",
+      "sortOrder" : 2950,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/60"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/60/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "1fcfed27-5d36-4995-ba0c-49e009f0e648",
+      "inactive" : false,
+      "name" : "34. Whether there was any stock outs of drugs and consumables in LR",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 3000,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/61"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/61/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "8c032ae0-1012-4d0c-a52e-a0ff650dd129",
+      "inactive" : false,
+      "name" : "35. Whether there was any stock outs of drugs and consumables in maternity OT",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "anyStockoutsOfDrugsAndConsumablesInMaternityOT",
+      "sortOrder" : 3100,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/62"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/62/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "b931cd2c-e171-4fe8-9682-a137f5e16858",
+      "inactive" : false,
+      "name" : "36. Whether facility labour room has achieved NQAS certification",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 3200,
+      "codedValues" : "[\"Yes\", \"No\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/63"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/63/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "9c119965-fc2b-4db2-8de4-1c30fd60861c",
+      "inactive" : false,
+      "name" : "37. Whether MCH/DH has functional Obs ICU/Hybrid ICU/HDU",
+      "dataType" : "Coded",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "hasFunctionalObsICUHDU",
+      "sortOrder" : 3300,
+      "codedValues" : "[\"Yes\", \"No\", \"In Progress\"]",
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/64"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/64/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "1a6c33f7-53da-4fac-8db2-ebccb4ed78eb",
+      "inactive" : false,
+      "name" : "38. Number of LaQshya mentoring visits conducted",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 3400,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/65"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/65/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "912934df-5cbd-4a0f-a90d-eb4f790f351a",
+      "inactive" : false,
+      "name" : "39. Number of QI team meetings at labour room/OT",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 3500,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/66"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/66/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "f7d9f525-cd83-42f3-93cd-fb55b997a40e",
+      "inactive" : false,
+      "name" : "40. Number of onsite training session conducted",
+      "dataType" : "Numeric",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 3600,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/67"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/67/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "30070d49-1241-4eb8-91e9-252aab4509d5",
+      "inactive" : false,
+      "name" : "41. Current Labour Room Quality Score",
+      "dataType" : "Percentage",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 3700,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/68"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/68/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "9bc3f571-97f0-4b3c-9086-003e88310262",
+      "inactive" : false,
+      "name" : "42. Current Maternity OT Quality Score",
+      "dataType" : "Percentage",
+      "formula" : null,
+      "output" : false,
+      "symbol" : null,
+      "sortOrder" : 3800,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/69"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/69/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "36596cbe-c9d8-4e5e-becd-d41f147d3409",
+      "inactive" : false,
+      "name" : "43. Current OSCE Score",
+      "dataType" : "Percentage",
+      "formula" : null,
+      "output" : false,
+      "symbol" : "currentOSCEScore",
+      "sortOrder" : 3900,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/70"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/70/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "ab79de3b-7eda-48e1-9be4-0cfa00a80017",
+      "inactive" : false,
+      "name" : "4. Percentage of deliveries are attended by a birth companion",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfNormalDeliveriesUsingSafeBirthChecklist*100)/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10100,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/71"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/71/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "3b8abeba-ab3b-4a57-86be-4e1c6a92efda",
+      "inactive" : false,
+      "name" : "5(a). Percentage deliveries are conducted using safe birth checklist in Labour Room",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfNormalDeliveriesUsingSafeBirthChecklist*100)/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10200,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/72"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/72/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "2a824f63-5dbc-4271-a7b4-03dd331c9ad6",
+      "inactive" : false,
+      "name" : "5(b). Percentage of deliveries are conducted using  Safe Surgery checklist in Maternity OT",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfNormalDeliveriesUsingSafeBirthChecklist*100)/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10300,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/73"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/73/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "d9469985-1511-4997-a7fe-7629d0832e38",
+      "inactive" : false,
+      "name" : "6. Percentage of deliveries for which Partograph is generated using real-time information in at least",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfNormalDeliveriesUsingSafeBirthChecklist*100)/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10400,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/74"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/74/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "f637d5a5-9da2-4856-9907-6e5da2fb709f",
+      "inactive" : false,
+      "name" : "7. Percentage breastfeeding within 1 hour",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfNewbornsBreastfedWithinOneHour*100)/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries+numberOfCSectionDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10500,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/75"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/75/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "4c8a5b83-f646-4e68-a5f6-310350ecfd6b",
+      "inactive" : false,
+      "name" : "8. Neonatal asphyxia rate in Inborn Babies ",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfNewbornsDevelopedAsphyxia*100)/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries+numberOfCSectionDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10600,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/76"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/76/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "fe17f75e-0aa4-48d9-a9f2-6c01c8bdf4c9",
+      "inactive" : false,
+      "name" : "9. Neonatal sepsis rate in-born babies",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfNewbornsDevelopedSepsis*100)/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries+numberOfCSectionDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10700,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/77"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/77/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "c0089b30-3002-422a-ba1e-98d860abff70",
+      "inactive" : false,
+      "name" : "10. Surgical Site infection Rate in Maternity OT",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfCSectionsWithSurgicalSiteInfection*100)/(numberOfCSectionDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10800,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/78"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/78/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "95c82de7-3e1f-402f-952c-66ef7324ef92",
+      "inactive" : false,
+      "name" : "11. Antenatal corticosteroid administration rate in case in preterm labour",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfPretermAdministeredANCS*100)/(numberOfPretermDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 10900,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/79"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/79/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "74b3347a-3b48-4f5b-a0e8-5a8bc92230a0",
+      "inactive" : false,
+      "name" : "12. Pre-eclampsia, eclampsia & PIH related mortality",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfMaternalDeathsForPIHEclampsia*100)/(numberOfMaternalDeaths))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11000,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/80"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/80/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "51c88cc5-aab7-4774-90af-55d247fc9897",
+      "inactive" : false,
+      "name" : "13. APH/PPH related mortality",
+      "dataType" : "Percentage",
+      "formula" : "(((numberOfAPHMaternalDeaths + numberOfPPHMaternalDeaths)*100)/numberOfMaternalDeaths)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11100,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/81"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/81/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "8557dc80-4d51-4208-8abc-af120db10cfa",
+      "inactive" : false,
+      "name" : "14. Facility Labour Room is reorganized as labour room standardization guidelines",
+      "dataType" : "Coded",
+      "formula" : "(facilityHasReorganizedLR)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11200,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/82"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/82/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "0fd2140e-4fda-496a-81c3-d886c8240d94",
+      "inactive" : false,
+      "name" : "15. Facility Labour room has staffing as per defined norms",
+      "dataType" : "Coded",
+      "formula" : "(facilityHasAdequateStaffAtLR)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11300,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/83"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/83/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "52025c31-9b10-4a64-b280-2262e80ac680",
+      "inactive" : false,
+      "name" : "16. Percentage of Women, administered Oxytocin, immediately after birth",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfDeliveriesWithOxytocinAdministered*100)/(numberOfAssistedVaginalDeliveries+numberOfVaginalDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11400,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/84"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/84/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "785a4a50-2c1f-494a-95da-ab67eab47875",
+      "inactive" : false,
+      "name" : "17. OSCE Score",
+      "dataType" : "Percentage",
+      "formula" : "(currentOSCEScore)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11500,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/85"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/85/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "b0454c12-c528-4938-b64e-2de94cb8c0da",
+      "inactive" : false,
+      "name" : "18. Facility conducts referral audit on Monthly basis",
+      "dataType" : "Coded",
+      "formula" : "(numberOfReferralCasesReviewed)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11600,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/86"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/86/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "c3031d0a-6e35-4952-91de-3df8c9fbefc5",
+      "inactive" : false,
+      "name" : "19. Facility conducts Maternal death, Neonatal death and near-miss on monthly basis",
+      "dataType" : "Numeric",
+      "formula" : "(numberOfNeonatalDeathsReviewed + numberOfMaternalDeathsReviewed + numberOfMaternalNearMissCases)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11700,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/87"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/87/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "7f0dd30b-0ba6-4661-9dfe-8c864a177bd3",
+      "inactive" : false,
+      "name" : "20. Facility report zero stock outs in Labour Room & Maternity OT",
+      "dataType" : "Coded",
+      "formula" : "(anyStockoutsOfDrugsAndConsumablesInMaternityOT)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11800,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/88"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/88/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "a0e10ba0-ecbf-467a-8f51-8f0b81470e8a",
+      "inactive" : false,
+      "name" : "21. Still Birth Rate",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfMaceratedStillBirths + numberOfStillBirths)*100/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries+numberOfCSectionDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 11900,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/89"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/89/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "850f55db-7e06-4b19-b656-e74ea3cdf6fa",
+      "inactive" : false,
+      "name" : "22. Percentage of beneficiaries  who were either satisfied or highly satisfied",
+      "dataType" : "Percentage",
+      "formula" : "((numberOfBeneficiariesSatisfied)*100/(numberOfVaginalDeliveries+numberOfAssistedVaginalDeliveries+numberOfCSectionDeliveries))",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 12000,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/90"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/90/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "ad6cf092-51aa-48a9-a6eb-8c03e77c0827",
+      "inactive" : false,
+      "name" : "23. Functional Obs ICU/Hybrid ICU/HDU",
+      "dataType" : "Coded",
+      "formula" : "(hasFunctionalObsICUHDU)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 12100,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/91"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/91/assessmentTool"
+        }
+      }
+    }, {
+      "createdDate" : "2018-03-26T07:28:24.590+0000",
+      "lastModifiedDate" : "2018-03-26T07:28:24.590+0000",
+      "uuid" : "66aaf16f-fae1-4fe4-ac92-b13f165cb1e1",
+      "inactive" : false,
+      "name" : "24. Microbiological Surveillance in OT & LR",
+      "dataType" : "Coded",
+      "formula" : "(microbioOTSampleCollectedAsPerProtocol && microbioLRSampleCollectedAsPerProtocol)",
+      "output" : true,
+      "symbol" : null,
+      "sortOrder" : 12200,
+      "codedValues" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/92"
+        },
+        "assessmentToolUUID" : {
+          "href" : "dfd7085c-c02e-4d19-9413-4a863fe57d26"
+        },
+        "assessmentTool" : {
+          "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/92/assessmentTool"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://dev.gunak.org:6001/api/indicatorDefinition/search/lastModified?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 92,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

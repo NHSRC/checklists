@@ -1,0 +1,76 @@
+{
+  "_embedded" : {
+    "district" : [ {
+      "createdDate" : "2018-01-05T08:45:57.117+0000",
+      "lastModifiedDate" : "2018-01-05T08:45:57.117+0000",
+      "uuid" : "0b6a5784-56e8-45eb-8310-0d087c80f294",
+      "inactive" : false,
+      "name" : "North and Middle Andaman",
+      "_links" : {
+        "self" : {
+          "href" : "/678"
+        },
+        "stateUUID" : {
+          "href" : "74579ea2-d9bb-427f-bfaf-b0872afbb886"
+        },
+        "facilities" : {
+          "href" : "/678/facilities"
+        },
+        "state" : {
+          "href" : "/678/state"
+        }
+      }
+    }, {
+      "createdDate" : "2018-01-05T08:45:57.138+0000",
+      "lastModifiedDate" : "2018-01-05T08:45:57.138+0000",
+      "uuid" : "784dd318-a80a-4f73-a66c-a84375ab84c7",
+      "inactive" : false,
+      "name" : "Nicobar",
+      "_links" : {
+        "self" : {
+          "href" : "/679"
+        },
+        "stateUUID" : {
+          "href" : "74579ea2-d9bb-427f-bfaf-b0872afbb886"
+        },
+        "facilities" : {
+          "href" : "/679/facilities"
+        },
+        "state" : {
+          "href" : "/679/state"
+        }
+      }
+    }, {
+      "createdDate" : "2018-01-05T08:45:57.145+0000",
+      "lastModifiedDate" : "2018-01-05T08:45:57.145+0000",
+      "uuid" : "ec0d283f-d401-4533-aae4-12c06ce1767d",
+      "inactive" : false,
+      "name" : "South Andaman",
+      "_links" : {
+        "self" : {
+          "href" : "/680"
+        },
+        "stateUUID" : {
+          "href" : "74579ea2-d9bb-427f-bfaf-b0872afbb886"
+        },
+        "facilities" : {
+          "href" : "/680/facilities"
+        },
+        "state" : {
+          "href" : "/680/state"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "/search/lastModifiedByState?lastModifiedDate=1900-01-01T00:00:00.001Z&size=200&page=0&name=A%20and%20N%20Islands"
+    }
+  },
+  "page" : {
+    "size" : 200,
+    "totalElements" : 3,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}
